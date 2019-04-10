@@ -1,4 +1,23 @@
 #EXTM3U
+
+#EXTINF:-1,ShqipTV Tom & Jerry
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/7.ts
+#EXTINF:-1,ShqipTv Horror HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/10.ts
+#EXTINF:-1,SHQIPTV Hindi HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/11.ts
+#EXTINF:-1,ShqipTV Cinema
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/14.ts
+#EXTINF:-1,ShqipTv Aksion
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/15.ts
+#EXTINF:-1,ShqipTv Western HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/6.ts
+#EXTINF:-1,ShqipTv Komedi HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/9.ts
+#EXTINF:-1,ShqipTV Film HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/12.ts
+#EXTINF:-1,ShqipTv Fantasy HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/13.ts
 #EXTINF:-1,ALB: TVSH 
 http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8475
 #EXTINF:-1,ALB: ALB POPULLOR
