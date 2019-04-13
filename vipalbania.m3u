@@ -237,112 +237,623 @@ http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7970
 #EXTINF:-1,ALB:Sky Max
 http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7971
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="---Gjenerale---" tvg-logo="" group-title="Albania",---Gjenerale---
-http://212.8.243.65:2095/111/111/176
-#EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="TVSH HD" tvg-logo="" group-title="Albania",TVSH HD
-http://212.8.243.65:2095/111/111/175
-#EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="TVSH [SD]" tvg-logo="" group-title="Albania",TVSH [SD]
-http://212.8.243.65:2095/111/111/174
-#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="Top Channel FHD" tvg-logo="" group-title="Albania",Top Channel FHD
-http://212.8.243.65:2095/111/111/173
-#EXTINF:-1 tvg-id="Top Channel" tvg-name="Top Channel HD [SD]" tvg-logo="" group-title="Albania",Top Channel HD [SD]
-http://212.8.243.65:2095/111/111/172
-#EXTINF:-1 tvg-id="Klan TV HD" tvg-name="Klan FHD" tvg-logo="" group-title="Albania",Klan FHD
-http://212.8.243.65:2095/111/111/171
-#EXTINF:-1 tvg-id="Klan TV HD" tvg-name="Klan HD [SD]" tvg-logo="" group-title="Albania",Klan HD [SD]
-http://212.8.243.65:2095/111/111/170
-#EXTINF:-1 tvg-id="Klan Plus" tvg-name="Klan Plus HD" tvg-logo="" group-title="Albania",Klan Plus HD
-http://212.8.243.65:2095/111/111/169
-#EXTINF:-1 tvg-id="Vizion Plus" tvg-name="Vizion Plus" tvg-logo="" group-title="Albania",Vizion Plus
-http://212.8.243.65:2095/111/111/168
-#EXTINF:-1 tvg-id="" tvg-name="---Lajme---" tvg-logo="" group-title="Albania",---Lajme---
-http://212.8.243.65:2095/111/111/167
-#EXTINF:-1 tvg-id="7 News" tvg-name="Kanali 7" tvg-logo="" group-title="Albania",Kanali 7
-http://212.8.243.65:2095/111/111/166
-#EXTINF:-1 tvg-id="ABC News" tvg-name="Abc News HD" tvg-logo="" group-title="Albania",Abc News HD
-http://212.8.243.65:2095/111/111/165
-#EXTINF:-1 tvg-id="Top News" tvg-name="Top News" tvg-logo="" group-title="Albania",Top News
-http://212.8.243.65:2095/111/111/164
-#EXTINF:-1 tvg-id="News 24" tvg-name="News 24" tvg-logo="" group-title="Albania",News 24
-http://212.8.243.65:2095/111/111/163
-#EXTINF:-1 tvg-id="Ora News" tvg-name="Ora News" tvg-logo="" group-title="Albania",Ora News
-http://212.8.243.65:2095/111/111/162
-#EXTINF:-1 tvg-id="Fax News" tvg-name="FAX News" tvg-logo="" group-title="Albania",FAX News
-http://212.8.243.65:2095/111/111/161
-#EXTINF:-1 tvg-id="Report TV" tvg-name="Report TV" tvg-logo="" group-title="Albania",Report TV
-http://212.8.243.65:2095/111/111/160
-#EXTINF:-1 tvg-id="" tvg-name="A2 CNN" tvg-logo="" group-title="Albania",A2 CNN
-http://212.8.243.65:2095/111/111/5570
-#EXTINF:-1 tvg-id="7 News" tvg-name="AL: T7" tvg-logo="" group-title="Albania",AL: T7
-http://212.8.243.65:2095/111/111/159
-#EXTINF:-1 tvg-id="" tvg-name="Channel One HD" tvg-logo="" group-title="Albania",Channel One HD
-http://212.8.243.65:2095/111/111/127
-#EXTINF:-1 tvg-id="" tvg-name="Scan TV" tvg-logo="" group-title="Albania",Scan TV
-http://212.8.243.65:2095/111/111/158
-#EXTINF:-1 tvg-id="" tvg-name="--RTSH--" tvg-logo="" group-title="Albania",--RTSH--
-http://212.8.243.65:2095/111/111/157
-#EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="Rtsh 1 HD" tvg-logo="" group-title="Albania",Rtsh 1 HD
-http://212.8.243.65:2095/111/111/156
-#EXTINF:-1 tvg-id="RTSH2 HD" tvg-name="Rtsh 2 HD" tvg-logo="" group-title="Albania",Rtsh 2 HD
-http://212.8.243.65:2095/111/111/155
-#EXTINF:-1 tvg-id="" tvg-name="RTSH 24" tvg-logo="" group-title="Albania",RTSH 24
-http://212.8.243.65:2095/111/111/151
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh 3 HD" tvg-logo="" group-title="Albania",Rtsh 3 HD
-http://212.8.243.65:2095/111/111/154
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Femije" tvg-logo="" group-title="Albania",RTSH Femije
-http://212.8.243.65:2095/111/111/148
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Film HD" tvg-logo="" group-title="Albania",Rtsh Film HD
-http://212.8.243.65:2095/111/111/153
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Gjirokastra" tvg-logo="" group-title="Albania",RTSH Gjirokastra
-http://212.8.243.65:2095/111/111/147
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Korca" tvg-logo="" group-title="Albania",RTSH Korca
-http://212.8.243.65:2095/111/111/146
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Kuvend" tvg-logo="" group-title="Albania",RTSH Kuvend
-http://212.8.243.65:2095/111/111/145
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Muzike" tvg-logo="" group-title="Albania",RTSH Muzike
-http://212.8.243.65:2095/111/111/149
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Plus" tvg-logo="" group-title="Albania",RTSH Plus
-http://212.8.243.65:2095/111/111/150
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Shqip HD" tvg-logo="" group-title="Albania",Rtsh Shqip HD
-http://212.8.243.65:2095/111/111/152
-#EXTINF:-1 tvg-id="" tvg-name="---Filma---" tvg-logo="" group-title="Albania",---Filma---
-http://212.8.243.65:2095/111/111/144
-#EXTINF:-1 tvg-id="Film Nje HD" tvg-name="Film Nje HD" tvg-logo="" group-title="Albania",Film Nje HD
-http://212.8.243.65:2095/111/111/143
-#EXTINF:-1 tvg-id="Film Dy HD" tvg-name="Film Dy HD" tvg-logo="" group-title="Albania",Film Dy HD
-http://212.8.243.65:2095/111/111/142
-#EXTINF:-1 tvg-id="Family HD" tvg-name="Family HD" tvg-logo="" group-title="Albania",Family HD
-http://212.8.243.65:2095/111/111/141
-#EXTINF:-1 tvg-id="Film Komedi" tvg-name="Film Komedi" tvg-logo="" group-title="Albania",Film Komedi
-http://212.8.243.65:2095/111/111/136
-#EXTINF:-1 tvg-id="Film Aksion" tvg-name="Film Aksion" tvg-logo="" group-title="Albania",Film Aksion
-http://212.8.243.65:2095/111/111/138
-#EXTINF:-1 tvg-id="Film Thriller" tvg-name="Film Thriller" tvg-logo="" group-title="Albania",Film Thriller
-http://212.8.243.65:2095/111/111/137
-#EXTINF:-1 tvg-id="Film Drame" tvg-name="Film Drame" tvg-logo="" group-title="Albania",Film Drame
-http://212.8.243.65:2095/111/111/135
-#EXTINF:-1 tvg-id="Film Hits" tvg-name="Film Hits" tvg-logo="" group-title="Albania",Film Hits
-http://212.8.243.65:2095/111/111/133
-#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="Albania",Film Autor
-http://212.8.243.65:2095/111/111/134
-#EXTINF:-1 tvg-id="" tvg-name="Eurofilm" tvg-logo="" group-title="Albania",Eurofilm
-http://212.8.243.65:2095/111/111/132
-#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 1" tvg-logo="" group-title="Albania",AL: Digi Gold 1
-http://212.8.243.65:2095/111/111/131
-#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 2" tvg-logo="" group-title="Albania",AL: Digi Gold 2
-http://212.8.243.65:2095/111/111/130
-#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 3" tvg-logo="" group-title="Albania",AL: Digi Gold 3
-http://212.8.243.65:2095/111/111/129
-#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 4" tvg-logo="" group-title="Albania",AL: Digi Gold 4
-http://212.8.243.65:2095/111/111/128
-#EXTINF:-1 tvg-id="T HD" tvg-name="T HD" tvg-logo="" group-title="Albania",T HD
-http://212.8.243.65:2095/111/111/126
-#EXTINF:-1 tvg-id="" tvg-name="Stinet" tvg-logo="" group-title="Albania",Stinet
-http://212.8.243.65:2095/111/111/124
-#EXTINF:-1 tvg-id="" tvg-name="Jolly HD" tvg-logo="" group-title="Albania",Jolly HD
-http://212.8.243.65:2095/111/111/54
-#EXTINF:-1 tvg-id="Tring Super" tvg-name="Tring Super HD" tvg-logo="" group-title="Albania",Tring Super HD
-http://212.8.243.65:2095/111/111/118
+#EXTINF:-1 tvg-id="" #EXTINF:-1,RTS 1
+http://176.67.200.12:6010/udp/239.1.1.1:22001
+#EXTINF:-1,RTS 2
+http://176.67.200.12:6010/udp/239.1.1.2:22002
+#EXTINF:-1,RTS 3
+http://176.67.200.12:6010/udp/239.1.1.3:22003
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.5:22005
+#EXTINF:-1,HD
+http://176.67.200.12:6010/udp/239.1.1.4:22004
+#EXTINF:-1,PRVA
+http://176.67.200.12:6010/udp/239.1.1.6:22006
+#EXTINF:-1,PINK
+http://176.67.200.12:6010/udp/239.1.1.7:22007
+#EXTINF:-1,HAPPY
+http://176.67.200.12:6010/udp/239.1.1.8:22008
+#EXTINF:-1,TV BELLE AMIE
+http://176.67.200.12:6010/udp/239.1.1.9:22009
+#EXTINF:-1,NTV
+http://176.67.200.12:6010/udp/239.1.1.10:22010
+#EXTINF:-1,HD
+http://176.67.200.12:6010/udp/239.1.1.11:22011
+#EXTINF:-1,Studio B
+http://176.67.200.12:6010/udp/239.1.1.12:22012
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.13:22013
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.14:22014
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.15:22015
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.16:22016
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.18:22018
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.19:22019
+#EXTINF:-1,N/A https://iptv.live
+http://176.67.200.12:6010/udp/239.1.1.20:22020
+#EXTINF:-1,HAYAT PLUS
+http://176.67.200.12:6010/udp/239.1.1.48:22048
+#EXTINF:-1,HAYAT MUSIC
+http://176.67.200.12:6010/udp/239.1.1.49:22049
+#EXTINF:-1,HRT-TV1
+http://176.67.200.12:6010/udp/239.1.1.50:22050
+#EXTINF:-1,HRT-TV2
+http://176.67.200.12:6010/udp/239.1.1.51:22051
+#EXTINF:-1,HRT-TV3
+http://176.67.200.12:6010/udp/239.1.1.52:22052
+#EXTINF:-1,HRT-TV4
+http://176.67.200.12:6010/udp/239.1.1.53:22053
+#EXTINF:-1,SLO-TV1
+http://176.67.200.12:6010/udp/239.1.1.54:22054
+#EXTINF:-1,SLO-TV2
+http://176.67.200.12:6010/udp/239.1.1.55:22055
+#EXTINF:-1,SLO-TV3
+http://176.67.200.12:6010/udp/239.1.1.56:22056
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.57:22057
+#EXTINF:-1,Euronews
+http://176.67.200.12:6010/udp/239.1.1.58:22058
+#EXTINF:-1,Animal Planet
+http://176.67.200.12:6010/udp/239.1.1.62:22062
+#EXTINF:-1,CAPITAL TV
+http://176.67.200.12:6010/udp/239.1.1.68:22068
+#EXTINF:-1,Travel Channel HD
+http://176.67.200.12:6010/udp/239.1.1.63:22063
+#EXTINF:-1,360TuneBox
+http://176.67.200.12:6010/udp/239.1.1.69:22069
+#EXTINF:-1,Heart TV
+http://176.67.200.12:6010/udp/239.1.1.70:22070
+#EXTINF:-1,City TV
+http://176.67.200.12:6010/udp/239.1.1.72:22072
+#EXTINF:-1,VH1 Classic
+http://176.67.200.12:6010/udp/239.1.1.71:22071
+#EXTINF:-1,Magic TV
+http://176.67.200.12:6010/udp/239.1.1.73:22073
+#EXTINF:-1,MTV Hits
+http://176.67.200.12:6010/udp/239.1.1.74:22074
+#EXTINF:-1,Music Channel
+http://176.67.200.12:6010/udp/239.1.1.75:22075
+#EXTINF:-1,VH1
+http://176.67.200.12:6010/udp/239.1.1.79:22079
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.83:22083
+#EXTINF:-1,Nick_Jr.
+http://176.67.200.12:6010/udp/239.1.1.85:22085
+#EXTINF:-1,Nickelodeon HD
+http://176.67.200.12:6010/udp/239.1.1.84:22084
+#EXTINF:-1,Pink Kids
+http://176.67.200.12:6010/udp/239.1.1.86:22086
+#EXTINF:-1,DISNEY ME
+http://176.67.200.12:6010/udp/239.1.1.87:22087
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.88:22088
+#EXTINF:-1,DISJ1_CEMA
+http://176.67.200.12:6010/udp/239.1.1.89:22089
+#EXTINF:-1,Baby TV
+http://176.67.200.12:6010/udp/239.1.1.90:22090
+#EXTINF:-1,ducktv
+http://176.67.200.12:6010/udp/239.1.1.91:22091
+#EXTINF:-1,HAYATOVCI
+http://176.67.200.12:6010/udp/239.1.1.93:22093
+#EXTINF:-1,CN
+http://176.67.200.12:6010/udp/239.1.1.97:22097
+#EXTINF:-1,JimJam EMEA
+http://176.67.200.12:6010/udp/239.1.1.96:22096
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.98:22098
+#EXTINF:-1,RTV 1 https://iptv.live
+http://176.67.200.12:6010/udp/239.1.1.23:22023
+#EXTINF:-1,RTV 2
+http://176.67.200.12:6010/udp/239.1.1.24:22024
+#EXTINF:-1,Arte HD
+http://176.67.200.12:6010/udp/239.1.1.59:22059
+#EXTINF:-1,RT Doc HD
+http://176.67.200.12:6010/udp/239.1.1.60:22060
+#EXTINF:-1,Discovery Serbia
+http://176.67.200.12:6010/udp/239.1.1.61:22061
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.64:22064
+#EXTINF:-1,NG WILD
+http://176.67.200.12:6010/udp/239.1.1.65:22065
+#EXTINF:-1,Mooz Dance HD
+http://176.67.200.12:6010/udp/239.1.1.66:22066
+#EXTINF:-1,MTV Rocks
+http://176.67.200.12:6010/udp/239.1.1.67:22067
+#EXTINF:-1,Clubland TV
+http://176.67.200.12:6010/udp/239.1.1.77:22077
+#EXTINF:-1,The Voice
+http://176.67.200.12:6010/udp/239.1.1.76:22076
+#EXTINF:-1,MTV Dance
+http://176.67.200.12:6010/udp/239.1.1.80:22080
+#EXTINF:-1,MTV Live HD
+http://176.67.200.12:6010/udp/239.1.1.81:22081
+#EXTINF:-1,KiKA HD
+http://176.67.200.12:6010/udp/239.1.1.94:22094
+#EXTINF:-1,Pink Super Kids
+http://176.67.200.12:6010/udp/239.1.1.95:22095
+#EXTINF:-1,History Channel
+http://176.67.200.12:6010/udp/239.1.1.99:22099
+#EXTINF:-1,DisChan
+http://176.67.200.12:6010/udp/239.1.1.101:22101
+#EXTINF:-1,Crime Investigation Network
+http://176.67.200.12:6010/udp/239.1.1.100:22100
+#EXTINF:-1,New
+http://176.67.200.12:6010/udp/239.1.1.102:22102
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.103:22103
+#EXTINF:-1,Fight Network HD
+http://176.67.200.12:6010/udp/239.1.1.105:22105
+#EXTINF:-1,Extreme EMEA
+http://176.67.200.12:6010/udp/239.1.1.106:22106
+#EXTINF:-1,Arena Sport 1
+http://176.67.200.12:6010/udp/239.1.1.109:22109
+#EXTINF:-1,Arena Sport 2
+http://176.67.200.12:6010/udp/239.1.1.110:22110
+#EXTINF:-1,Arena Sport 3
+http://176.67.200.12:6010/udp/239.1.1.111:22111
+#EXTINF:-1,Arena Sport 4
+http://176.67.200.12:6010/udp/239.1.1.112:22112
+#EXTINF:-1,Eurosport HD
+http://176.67.200.12:6010/udp/239.1.1.114:22114
+#EXTINF:-1,ESP2 NE Serbian
+http://176.67.200.12:6010/udp/239.1.1.115:22115
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.117:22117
+#EXTINF:-1,Eurosport 2 HD
+http://176.67.200.12:6010/udp/239.1.1.116:22116
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.118:22118
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.119:22119
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.120:22120
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.121:22121
+#EXTINF:-1,SciFi Universal
+http://176.67.200.12:6010/udp/239.1.1.122:22122
+#EXTINF:-1,N/A
+http://176.67.200.12:6010/udp/239.1.1.123:22123
+#EXTINF:-1,Fine Living.
+http://176.67.200.12:6010/udp/239.1.1.124:22124
+#EXTINF:-1,FashionBox
+http://176.67.200.12:6010/udp/239.1.1.131:22131
+#EXTINF:-1,AXN Adria
+http://176.67.200.12:6010/udp/239.1.1.136:22136
+#EXTINF:-1,AXN Spin
+http://176.67.200.12:6010/udp/239.1.1.137:22137
+#EXTINF:-1,H2 HD
+http://176.67.200.12:6010/udp/239.1.1.138:22138
+#EXTINF:-1,DocuBox HD
+http://176.67.200.12:6010/udp/239.1.1.139:22139
+#EXTINF:-1,DaVinci Learning
+http://176.67.200.12:6010/udp/239.1.1.141:22141
+#EXTINF:-1,HD
+http://176.67.200.12:6010/udp/239.1.1.140:22140
+#EXTINF:-1,Explore/Spice(FSS)
+http://176.67.200.12:6010/udp/239.1.1.142:22142
+#EXTINF:-1,Viasat History (FSS)
+http://176.67.200.12:6010/udp/239.1.1.143:22143
+#EXTINF:-1,Viasat Nature East FSS
+http://176.67.200.12:6010/udp/239.1.1.144:22144
+#EXTINF:-1,TV1000 Balkan FSS
+http://176.67.200.12:6010/udp/239.1.1.145:22145
+#EXTINF:-1,Pink
+http://176.67.200.12:6010/udp/239.1.1.146:22146
+#EXTINF:-1,Pink 2
+http://176.67.200.12:6010/udp/239.1.1.147:22147
+#EXTINF:-1,Pink 3 Info
+http://176.67.200.12:6010/udp/239.1.1.148:22148
+#EXTINF:-1,Pink BH
+http://176.67.200.12:6010/udp/239.1.1.151:22151
+#EXTINF:-1,Pink Hits 1
+http://176.67.200.12:6010/udp/239.1.1.154:22154
+#EXTINF:-1,Pink Hits 2
+http://176.67.200.12:6010/udp/239.1.1.155:22155
+#EXTINF:-1,Bravo Music
+http://176.67.200.12:6010/udp/239.1.1.156:22156
+#EXTINF:-1,Pink Western
+http://176.67.200.12:6010/udp/239.1.1.160:22160
+#EXTINF:-1,Pink Fashion
+http://176.67.200.12:6010/udp/239.1.1.165:22165
+#EXTINF:-1,Pink Roll
+http://176.67.200.12:6010/udp/239.1.1.167:22167
+#EXTINF:-1,Pink Plus
+http://176.67.200.12:6010/udp/239.1.1.170:22170
+#EXTINF:-1,Pink Comedy
+http://176.67.200.12:6010/udp/239.1.1.171:22171
+#EXTINF:-1,Pink Romance
+http://176.67.200.12:6010/udp/239.1.1.175:22175
+#EXTINF:-1,Pink Thriller
+http://176.67.200.12:6010/udp/239.1.1.176:22176
+#EXTINF:-1,Pink Action
+http://176.67.200.12:6010/udp/239.1.1.177:22177
+#EXTINF:-1,Pink Serije
+http://176.67.200.12:6010/udp/239.1.1.179:22179
+#EXTINF:-1,Pink World Cinema
+http://176.67.200.12:6010/udp/239.1.1.180:22180
+#EXTINF:-1,Pink Classic
+http://176.67.200.12:6010/udp/239.1.1.184:22184
+#EXTINF:-1,Pink Pedia
+http://176.67.200.12:6010/udp/239.1.1.186:22186
+#EXTINF:-1,Pink Reality
+http://176.67.200.12:6010/udp/239.1.1.187:22187
+#EXTINF:-1,Pink Soap
+http://176.67.200.12:6010/udp/239.1.1.188:22188
+#EXTINF:-1,Pink Zabava
+http://176.67.200.12:6010/udp/239.1.1.189:22189
+#EXTINF:-1,Arena Sport 5
+http://176.67.200.12:6010/udp/239.1.1.190:22190
+#EXTINF:-1,ID X
+http://176.67.200.12:6010/udp/239.1.1.191:22191
+#EXTINF:-1,Mezzo Live HD
+http://176.67.200.12:6010/udp/239.1.1.192:22192
+#EXTINF:-1,Motorsport TV European HD
+http://176.67.200.12:6010/udp/239.1.1.193:22193
+#EXTINF:-1,Boomerang
+http://176.67.200.12:6010/udp/239.1.1.194:22194
+#EXTINF:-1,NASA PARTY
+http://176.67.200.12:6010/udp/239.1.1.196:22196
+#EXTINF:-1,DM Sat
+http://176.67.200.12:6010/udp/239.1.1.200:22200
+#EXTINF:-1,FilmBox Arthouse
+http://176.67.200.12:6010/udp/239.1.1.209:22209
+#EXTINF:-1,France 24 (in English) HD
+http://176.67.200.12:6010/udp/239.1.1.223:22223
+#EXTINF:-1,RTR
+http://176.67.200.12:6010/udp/239.1.1.233:22233
+#EXTINF:-1,MEZZO
+http://176.67.200.12:6010/udp/239.1.1.234:22234
+#EXTINF:-1,Kitchen TV
+http://176.67.200.12:6010/udp/239.1.1.236:22236
+#EXTINF:-1,FightBox HD
+http://176.67.200.12:6010/udp/239.1.1.107:22107
+#EXTINF:-1,Outdoor Channel EMEA HD
+http://176.67.200.12:6010/udp/239.1.1.104:22104
+#EXTINF:-1,SOS Kanal
+http://176.67.200.12:6010/udp/239.1.1.108:22108
+#EXTINF:-1,SUPERTENNIS HD
+http://176.67.200.12:6010/udp/239.1.1.113:22113
+#EXTINF:-1,Comedy Central Extra
+http://176.67.200.12:6010/udp/239.1.1.125:22125
+#EXTINF:-1,AMC Balkan
+http://176.67.200.12:6010/udp/239.1.1.126:22126
+#EXTINF:-1,Pink Kuvar
+http://176.67.200.12:6010/udp/239.1.1.127:22127
+#EXTINF:-1,HD
+http://176.67.200.12:6010/udp/239.1.1.128:22128
+#EXTINF:-1,Food Network
+http://176.67.200.12:6010/udp/239.1.1.129:22129
+#EXTINF:-1,Fashion
+http://176.67.200.12:6010/udp/239.1.1.130:22130
+#EXTINF:-1,Reality EMEA 1
+http://176.67.200.12:6010/udp/239.1.1.132:22132
+#EXTINF:-1,Sundance TV HD
+http://176.67.200.12:6010/udp/239.1.1.133:22133
+#EXTINF:-1,TLC
+http://176.67.200.12:6010/udp/239.1.1.134:22134
+#EXTINF:-1,HD
+http://176.67.200.12:6010/udp/239.1.1.135:22135
+#EXTINF:-1,Pink Extra
+http://176.67.200.12:6010/udp/239.1.1.149:22149
+#EXTINF:-1,Pink Folk
+http://176.67.200.12:6010/udp/239.1.1.158:22158
+#EXTINF:-1,Pink Family
+http://176.67.200.12:6010/udp/239.1.1.161:22161
+#EXTINF:-1,Pink Horror
+http://176.67.200.12:6010/udp/239.1.1.163:22163
+#EXTINF:-1,Pink Crime Mystery
+http://176.67.200.12:6010/udp/239.1.1.172:22172
+#EXTINF:-1,Pink Show
+http://176.67.200.12:6010/udp/239.1.1.182:22182
+#EXTINF:-1,Pink Style
+http://176.67.200.12:6010/udp/239.1.1.185:22185
+#EXTINF:-1,NASA VREMEPLOV
+http://176.67.200.12:6010/udp/239.1.1.195:22195
+#EXTINF:-1,FAN TV
+http://176.67.200.12:6010/udp/239.1.1.197:22197
+#EXTINF:-1,WildTV HD
+http://176.67.200.12:6010/udp/239.1.1.198:22198
+#EXTINF:-1,OBN
+http://176.67.200.12:6010/udp/239.1.1.212:22212
+#EXTINF:-1,FilmBox Family
+http://176.67.200.12:6010/udp/239.1.1.217:22217
+#EXTINF:-1,Pink M
+http://176.67.200.12:6010/udp/239.1.1.150:22150
+#EXTINF:-1,Pink Music
+http://176.67.200.12:6010/udp/239.1.1.152:22152
+#EXTINF:-1,Pink Music 2
+http://176.67.200.12:6010/udp/239.1.1.153:22153
+#EXTINF:-1,City Play
+http://176.67.200.12:6010/udp/239.1.1.157:22157
+#EXTINF:-1,Pink Folk 2
+http://176.67.200.12:6010/udp/239.1.1.159:22159
+#EXTINF:-1,Pink Film
+http://176.67.200.12:6010/udp/239.1.1.162:22162
+#EXTINF:-1,Pink Koncert
+http://176.67.200.12:6010/udp/239.1.1.166:22166
+#EXTINF:-1,Pink Sci-Fi Fantasy
+http://176.67.200.12:6010/udp/239.1.1.173:22173
+#EXTINF:-1,Pink Premium
+http://176.67.200.12:6010/udp/239.1.1.174:22174
+#EXTINF:-1,Pink Movies
+http://176.67.200.12:6010/udp/239.1.1.178:22178
+#EXTINF:-1,Pink World
+http://176.67.200.12:6010/udp/239.1.1.181:22181
+#EXTINF:-1,Balkanika
+http://176.67.200.12:6010/udp/239.1.1.199:22199
+#EXTINF:-1,World Fashion Channel HD
+http://176.67.200.12:6010/udp/239.1.1.204:22204
+#EXTINF:-1,FUEL TV HD
+http://176.67.200.12:6010/udp/239.1.1.210:22210
+#EXTINF:-1,FILMBOX
+http://176.67.200.12:6010/udp/239.1.1.211:22211
+#EXTINF:-1,1TVRUS Romania
+http://176.67.200.12:6010/udp/239.1.1.220:22220
+#EXTINF:-1,Planeta Folk
+http://176.67.200.12:6010/udp/239.1.1.201:22201
+#EXTINF:-1,FilmBox Extra HD
+http://176.67.200.12:6010/udp/239.1.1.202:22202
+#EXTINF:-1,Fashion TV
+http://176.67.200.12:6010/udp/239.1.1.205:22205
+#EXTINF:-1,FAST FUN Box HD
+http://176.67.200.12:6010/udp/239.1.1.207:22207
+#EXTINF:-1,Food Network HD
+http://176.67.200.12:6010/udp/239.1.1.206:22206
+#EXTINF:-1,NASA
+http://176.67.200.12:6010/udp/239.1.1.213:22213
+#EXTINF:-1,KBS HD
+http://176.67.200.12:6010/udp/239.1.1.208:22208
+#EXTINF:-1,RTS Sat
+http://176.67.200.12:6010/udp/239.1.1.214:22214
+#EXTINF:-1,FilmBox Plus
+http://176.67.200.12:6010/udp/239.1.1.216:22216
+#EXTINF:-1,FilmBox Baltic
+http://176.67.200.12:6010/udp/239.1.1.218:22218
+#EXTINF:-1,CNN Int.
+http://176.67.200.12:6010/udp/239.1.1.219:22219
+#EXTINF:-1,BBC World News
+http://176.67.200.12:6010/udp/239.1.1.221:22221
+#EXTINF:-1,Euronews
+http://176.67.200.12:6010/udp/239.1.1.222:22222
+#EXTINF:-1,Sky News Intl
+http://176.67.200.12:6010/udp/239.1.1.224:22224
+#EXTINF:-1,CCTV-4
+http://176.67.200.12:6010/udp/239.1.1.226:22226
+#EXTINF:-1,Fine Living HD
+http://176.67.200.12:6010/udp/239.1.1.228:22228
+#EXTINF:-1,TV Hram
+http://176.67.200.12:6010/udp/239.1.1.230:22230
+#EXTINF:-1,Das Erste
+http://176.67.200.12:6010/udp/239.1.1.229:22229
+#EXTINF:-1,ROSSIYA24
+http://176.67.200.12:6010/udp/239.1.1.232:22232
+#EXTINF:-1,CGTN
+http://176.67.200.12:6010/udp/239.1.1.225:22225
+#EXTINF:-1,ProSieben
+http://176.67.200.12:6010/udp/239.1.2.37:22237
+#EXTINF:-1,New HD
+http://176.67.200.12:6010/udp/239.1.2.41:22241
+#EXTINF:-1,?RTL? Television
+http://176.67.200.12:6010/udp/239.1.2.42:22242
+#EXTINF:-1,TV Pozega
+http://176.67.200.12:6010/udp/239.1.2.88:22288
+#EXTINF:-1,Rai 2
+http://176.67.200.12:6010/udp/239.1.2.39:22239
+#EXTINF:-1,Rai 3
+http://176.67.200.12:6010/udp/239.1.2.40:22240
+#EXTINF:-1,RTL2
+http://176.67.200.12:6010/udp/239.1.2.43:22243
+#EXTINF:-1,Service01
+http://176.67.200.12:6010/udp/239.1.2.84:22284
+#EXTINF:-1,TV Priboj
+http://176.67.200.12:6010/udp/239.1.2.87:22287
+#EXTINF:-1,TV Prima
+http://176.67.200.12:6010/udp/239.1.2.86:22286
+#EXTINF:-1,Televizija 5 plus
+http://176.67.200.12:6010/udp/239.1.2.89:22289
+#EXTINF:-1,TV Forum
+http://176.67.200.12:6010/udp/239.1.2.90:22290
+#EXTINF:-1,TV K::CN Raska
+http://176.67.200.12:6010/udp/239.1.2.98:22298
+#EXTINF:-1,Al Jazeera Balkans HD
+http://176.67.200.12:6010/udp/239.1.1.22:22022
+#EXTINF:-1,Travelxp HD
+http://176.67.200.12:6010/udp/239.1.1.25:22025
+#EXTINF:-1,Eurochannel HD
+http://176.67.200.12:6010/udp/239.1.1.26:22026
+#EXTINF:-1,English Club HD
+http://176.67.200.12:6010/udp/239.1.1.27:22027
+#EXTINF:-1,TV Bor
+http://176.67.200.12:6010/udp/239.1.1.28:22028
+#EXTINF:-1,RT HD
+http://176.67.200.12:6010/udp/239.1.1.29:22029
+#EXTINF:-1,VIP TV
+http://176.67.200.12:6010/udp/239.1.1.30:22030
+#EXTINF:-1,RTRS
+http://176.67.200.12:6010/udp/239.1.1.31:22031
+#EXTINF:-1,BN SAT
+http://176.67.200.12:6010/udp/239.1.1.32:22032
+#EXTINF:-1,RTRS plus
+http://176.67.200.12:6010/udp/239.1.1.33:22033
+#EXTINF:-1,BK TV HD
+http://176.67.200.12:6010/udp/239.1.1.34:22034
+#EXTINF:-1,BN Music
+http://176.67.200.12:6010/udp/239.1.1.35:22035
+#EXTINF:-1,KCN
+http://176.67.200.12:6010/udp/239.1.1.36:22036
+#EXTINF:-1,Kopernikus
+http://176.67.200.12:6010/udp/239.1.1.37:22037
+#EXTINF:-1,Svet Plus
+http://176.67.200.12:6010/udp/239.1.1.38:22038
+#EXTINF:-1,Action Plus HD
+http://176.67.200.12:6010/udp/239.1.1.39:22039
+#EXTINF:-1,TV Vranje
+http://176.67.200.12:6010/udp/239.1.1.40:22040
+#EXTINF:-1,TV Pirot
+http://176.67.200.12:6010/udp/239.1.1.41:22041
+#EXTINF:-1,BBC Earth HD
+http://176.67.200.12:6010/udp/239.1.1.42:22042
+#EXTINF:-1,NOVOSADSKA TV
+http://176.67.200.12:6010/udp/239.1.1.43:22043
+#EXTINF:-1,TV Istok
+http://176.67.200.12:6010/udp/239.1.1.44:22044
+#EXTINF:-1,T1
+http://176.67.200.12:6010/udp/239.1.1.45:22045
+#EXTINF:-1,HAYAT HD
+http://176.67.200.12:6010/udp/239.1.1.46:22046
+#EXTINF:-1,HAYAT FOLK
+http://176.67.200.12:6010/udp/239.1.1.47:22047
+#EXTINF:-1,MTV
+http://176.67.200.12:6010/udp/239.1.1.78:22078
+#EXTINF:-1,ULTRA
+http://176.67.200.12:6010/udp/239.1.1.82:22082
+#EXTINF:-1,MINI ULTRA
+http://176.67.200.12:6010/udp/239.1.1.92:22092
+#EXTINF:-1,DISNEY XD
+http://176.67.200.12:6010/udp/239.1.2.3:22203
+#EXTINF:-1,Rai 1
+http://176.67.200.12:6010/udp/239.1.2.38:22238
+#EXTINF:-1,VOX
+http://176.67.200.12:6010/udp/239.1.2.44:22244
+#EXTINF:-1,C Music TV
+http://176.67.200.12:6010/udp/239.1.2.45:22245
+#EXTINF:-1,TV Golija
+http://176.67.200.12:6010/udp/239.1.2.91:22291
+#EXTINF:-1,TV Laser
+http://176.67.200.12:6010/udp/239.1.2.96:22296
+#EXTINF:-1,auto motor und sport channel
+http://176.67.200.12:6010/udp/239.1.2.99:22299
+#EXTINF:-1,TV KCN Jagodina
+http://176.67.200.12:6010/udp/239.1.3.1:22301
+#EXTINF:-1,TV Kanal M
+http://176.67.200.12:6010/udp/239.1.3.2:22302
+#EXTINF:-1,TV Kragujevac
+http://176.67.200.12:6010/udp/239.1.3.3:22303
+#EXTINF:-1,TV K 9
+http://176.67.200.12:6010/udp/239.1.3.4:22304
+#EXTINF:-1,TV Jasenica
+http://176.67.200.12:6010/udp/239.1.3.5:22305
+#EXTINF:-1,TV Krusevac
+http://176.67.200.12:6010/udp/239.1.3.9:22309
+#EXTINF:-1,TV Kraljevo
+http://176.67.200.12:6010/udp/239.1.3.10:22310
+#EXTINF:-1,MOSTNET
+http://176.67.200.12:6010/udp/239.1.3.11:22311
+#EXTINF:-1,TV Leskovac
+http://176.67.200.12:6010/udp/239.1.3.13:22313
+#EXTINF:-1,TV Melos
+http://176.67.200.12:6010/udp/239.1.3.14:22314
+#EXTINF:-1,TV K::CN 1
+http://176.67.200.12:6010/udp/239.1.3.16:22316
+#EXTINF:-1,KA TV
+http://176.67.200.12:6010/udp/239.1.3.17:22317
+#EXTINF:-1,TV Trstenik
+http://176.67.200.12:6010/udp/239.1.3.18:22318
+#EXTINF:-1,TV Gem
+http://176.67.200.12:6010/udp/239.1.3.22:22322
+#EXTINF:-1,TV Petrovec
+http://176.67.200.12:6010/udp/239.1.3.24:22324
+#EXTINF:-1,TV K-1
+http://176.67.200.12:6010/udp/239.1.3.25:22325
+#EXTINF:-1,TV Bujanovac
+http://176.67.200.12:6010/udp/239.1.3.26:22326
+#EXTINF:-1,OTV Valentino
+http://176.67.200.12:6010/udp/239.1.3.27:22327
+#EXTINF:-1,TV Aldi
+http://176.67.200.12:6010/udp/239.1.3.28:22328
+#EXTINF:-1,TV Sremska
+http://176.67.200.12:6010/udp/239.1.3.29:22329
+#EXTINF:-1,Duga TV
+http://176.67.200.12:6010/udp/239.1.3.30:22330
+#EXTINF:-1,TV Most
+http://176.67.200.12:6010/udp/239.1.3.31:22331
+#EXTINF:-1,EnterTV HD
+http://176.67.200.12:6010/udp/239.1.3.32:22332
+#EXTINF:-1,Erotic1
+http://176.67.200.12:6010/udp/239.1.7.1:22701
+#EXTINF:-1,Erotic2
+http://176.67.200.12:6010/udp/239.1.7.2:22702
+#EXTINF:-1,Erotic3
+http://176.67.200.12:6010/udp/239.1.7.3:22703
+#EXTINF:-1,Erotic4
+http://176.67.200.12:6010/udp/239.1.7.4:22704
+#EXTINF:-1,Erotic5
+http://176.67.200.12:6010/udp/239.1.7.5:22705
+#EXTINF:-1,Erotic6
+http://176.67.200.12:6010/udp/239.1.7.6:22706
+#EXTINF:-1,Erotic7
+http://176.67.200.12:6010/udp/239.1.7.7:22707
+#EXTINF:-1,Erotic8
+http://176.67.200.12:6010/udp/239.1.7.8:22708
+#EXTINF:-1,BRAZZERS TV Europe
+http://176.67.200.12:6010/udp/239.1.7.10:22710
+#EXTINF:-1,Reality Kings
+http://176.67.200.12:6010/udp/239.1.7.11:22711
+#EXTINF:-1,Dusk
+http://176.67.200.12:6010/udp/239.1.7.13:22713
+#EXTINF:-1,Playboy Europe
+http://176.67.200.12:6010/udp/239.1.7.12:22712
+#EXTINF:-1,PASSION XXX
+http://176.67.200.12:6010/udp/239.1.7.16:22716
+#EXTINF:-1,Blue Hustler
+http://176.67.200.12:6010/udp/239.1.7.19:22719
+#EXTINF:-1,Hustler TV
+http://176.67.200.12:6010/udp/239.1.7.18:22718
+#EXTINF:-1,PRIVATE TV
+http://176.67.200.12:6010/udp/239.1.7.20:22720
+#EXTINF:-1,Redlight HD
+http://176.67.200.12:6010/udp/239.1.7.21:22721
+#EXTINF:-1,RTV NOVI PAZAR
+http://176.67.200.12:6010/udp/239.1.1.21:22021
+#EXTINF:-1,HRT 2
+http://176.67.200.12:6010/udp/239.1.1.51:22151
+#EXTINF:-1,HRT 3
+http://176.67.200.12:6010/udp/239.1.1.52:22053
+#EXTINF:-1,SLOVENIA TV 1
+http://176.67.200.12:6010/udp/239.1.1.54:22049
+#EXTINF:-1,FOX LIFE
+http://176.67.200.12:6010/udp/239.1.1.117:22112
+#EXTINF:-1,CGTN
+http://176.67.200.12:6010/udp/239.1.1.225:22191
+#EXTINF:-1,INSIGHT HD NE
+http://176.67.200.12:6010/udp/239.1.1.231:22231
+#EXTINF:-1,TV SUNCE
+http://176.67.200.12:6010/udp/239.1.3.6:22306
+#EXTINF:-1,TV JEFIMIJA
+http://176.67.200.12:6010/udp/239.1.3.7:22307
+#EXTINF:-1,TV PLUS
+http://176.67.200.12:6010/udp/239.1.3.8:22308
+#EXTINF:-1,TV 4 S
+http://176.67.200.12:6010/udp/239.1.3.12:22312
+#EXTINF:-1,RTV KURŠUMLIJA
+http://176.67.200.12:6010/udp/239.1.3.15:22315
+#EXTINF:-1,TV DISKOS
+http://176.67.200.12:6010/udp/239.1.3.19:22319
+#EXTINF:-1,SANDZACKA TV MREZA
+http://176.67.200.12:6010/udp/239.1.3.20:22320
+#EXTINF:-1,sk1
+http://176.67.200.12:6010/udp/238.30.54.70:2178
+#EXTINF:-1,sk2
+http://176.67.200.12:6010/udp/238.30.54.71:2178
+#EXTINF:-1,sk3
+http://176.67.200.12:6010/udp/238.30.54.72:2178
+#EXTINF:-1,sk4
+http://176.67.200.12:6010/udp/238.30.54.73:2178
+#EXTINF:-1,sk5
+http://176.67.200.12:6010/udp/238.30.54.74:2178
+#EXTINF:-1,sk6
+http://176.67.200.12:6010/udp/238.30.54.75:2178
+#EXTINF:-1,DORCEL TV HD
+http://176.67.200.12:6010/udp/239.1.7.22:22722
+#EXTINF:-1,﻿DORCEL XXX HD
+http://176.67.200.12:6010/udp/239.1.7.23:22723
+#EXTINF:-1,DREAMPORN HD
+http://176.67.200.12:6010/udp/239.1.7.25:22725
+/118
 #EXTINF:-1 tvg-id="Tring Action" tvg-name="Tring Action" tvg-logo="" group-title="Albania",Tring Action
 http://212.8.243.65:2095/111/111/123
 #EXTINF:-1 tvg-id="Tring Comedy" tvg-name="Tring Comedy" tvg-logo="" group-title="Albania",Tring Comedy
@@ -387,7 +898,7 @@ http://212.8.243.65:2095/111/111/111
 http://212.8.243.65:2095/111/111/110
 #EXTINF:-1 tvg-id="" tvg-name="AL:SHQIPTV Hindi HD" tvg-logo="" group-title="Albania",AL:SHQIPTV Hindi HD
 http://212.8.243.65:2095/111/111/109
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Aksion HD" tvg-logo="" group-title="Albania",AL: KS Aksion HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS AksionHD" tvg-logo="" group-title="Albania",AL: KS Aksion HD
 http://212.8.243.65:2095/111/111/104
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Comedy HD" tvg-logo="" group-title="Albania",AL: KS Comedy HD
 http://212.8.243.65:2095/111/111/103
