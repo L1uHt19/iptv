@@ -16,3 +16,37 @@ https://sblive.online/lba/NTZlZWE2N2M1Mjg3MDEzMTRjMGVmMzU2OGViODliZWU=/g5/sportk
 https://cdn.videosofsport1.live/hls/ymXi6V7N3yCQHvP17NZBKw/1555363353/sportklub2.m3u8
 #EXTINF:0,7. Sport Klub 3
 https://cdn.videosofsport1.live/hls/SFAw5UX_W_VI3bb1azCQcA/1555363677/sportklub3.m3u8
+
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super Sport Kosova 2 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/55.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super Sport Kosova 1 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/54.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super SPORT 1 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/48.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super SPORT 2 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/49.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super SPORT 3 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/50.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super SPORT 4 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/51.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super SPORT 5 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/52.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Tring Sport 1 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/44.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Tring Sport 2 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/45.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Tring Sport 3 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/46.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Tring Sport 4 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/47.ts
