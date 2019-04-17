@@ -37,3 +37,57 @@ http://umutiptv.cf/tvizio.bg/dmsat/canli.m3u8
 http://umutiptv.cf/tvizio.bg/bulgariaonair/canli.m3u8
 #EXTINF:0,Bloomberg TV Bulgaria | tvizio.bg
 http://umutiptv.cf/tvizio.bg/bloomberg/canli.m3u8
+
+#EXTM3U
+#EXTINF:-1,BN Music
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_350k.m3u8
+#EXTINF:-1,bit
+https://cdn1.mobiletv.bg/T5/bit_archive/bit_794613.m3u8
+#EXTINF:-1,Fishing and Hunting
+https://cdn1.mobiletv.bg/T5/fh/fh_794613_350k.m3u8
+#EXTINF:-1,disney junior
+https://cdn1.mobiletv.bg/T5/disney_junior/disney_junior_794613_350k.m3u8
+#EXTINF:-1,BTV cinema
+https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
+#EXTINF:-1,TCL
+https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
+#EXTINF:-1,TCL
+https://cdn1.mobiletv.bg/T8/tlc_archive/tlc_794613.m3u8
+#EXTINF:-1,Tv Vratsa
+https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
+#EXTINF:-1,AMC
+https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
+#EXTINF:-1,Eta
+https://cdn1.mobiletv.bg/T7/eta/eta_794613_850k.m3u8
+#EXTINF:-1,Bit
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,RTL
+https://cdn1.mobiletv.bg/T5/rtl_archive/rtl_794613.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850.m3u8
+#EXTINF:-1,Btv Comedy
+https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
+#EXTINF:-1,Fox Life
+https://cdn1.mobiletv.bg/T3/foxlife/foxlife_794613_850k.m3u8
+#EXTINF:-1,Kinonova
+https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8
+#EXTINF:-1,Ring HD
+https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8
+#EXTINF:-1,The Voice
+https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8
+#EXTINF:-1,EUROSPORT 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1,AUTO MOTOR SPORT
+https://cdn1.mobiletv.bg/T9/ams/ams_794613_850k.m3u8
+#EXTINF:-1,Magic Tv
+https://cdn1.mobiletv.bg/T14/ATV/magic_tv/magic_tv_ATV987654321.m3u8
+#EXTINF:-1,Carton Network
+https://cdn1.mobiletv.bg/T14/ATV/carton_network/carton_network_ATV987654321.m3u8
+#EXTINF:-1,Novasport
+https://cdn1.mobiletv.bg/T14/ATV/novasport/novasport_ATV987654321.m3u8
+#EXTINF:-1,Box
+https://cdn1.mobiletv.bg/T14/ATV/boxtv/boxtv_ATV987654321.m3u8
+#EXTINF:-1,Duck
+https://cdn1.mobiletv.bg/T14/ATV/duck_tv/duck_tv_ATV987654321.m3u8
+#EXTINF:-1,Auto motor sport Bulgaria
+https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
