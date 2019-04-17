@@ -1,19 +1,23 @@
 
 #EXTM3U
-#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.9 (Linux;Android 5.1) ExoPlayerLib/2.6.1
+#EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:0,1. Arena Sport 1
 
-http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDU6MTg6NTkgQU0maGFzaF92YWx1ZT0xcVd0M0FjQzlCUFFMSDd3UWVTWkVRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.9 (Linux;Android 5.1) ExoPlayerLib/2.6.1
+http://194.88.104.169:8081/sporstvtv_16th_apr/arena1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDY6Mzc6MDUgUE0maGFzaF92YWx1ZT1DeUFGQjZiWkhGZXgvTllrTVNDNzNnPT0mdmFsaWRtaW51dGVzPTIw 
+#EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:0,2. Arena Sport 2
 
 
-http://stream.tvtap.live:8081/live/arena2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDU6MTg6NTkgQU0maGFzaF92YWx1ZT0xcVd0M0FjQzlCUFFMSDd3UWVTWkVRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.9 (Linux;Android 5.1) ExoPlayerLib/2.6.1
+http://194.88.104.169:8081/sporstvtv_16th_apr/arena2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDY6Mzc6MDUgUE0maGFzaF92YWx1ZT1DeUFGQjZiWkhGZXgvTllrTVNDNzNnPT0mdmFsaWRtaW51dGVzPTIw 
+#EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:0,3. Arena Sport 3
-http://stream.tvtap.live:8081/live/arena3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDU6MTg6NTkgQU0maGFzaF92YWx1ZT0xcVd0M0FjQzlCUFFMSDd3UWVTWkVRPT0mdmFsaWRtaW51dGVzPTIw#EXTINF:0,4. Arena Sport 5
+http://194.88.104.169:8081/sporstvtv_16th_apr/arena3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDY6Mzc6MDUgUE0maGFzaF92YWx1ZT1DeUFGQjZiWkhGZXgvTllrTVNDNzNnPT0mdmFsaWRtaW51dGVzPTIw 
 
-https://7streams.pro/lba/NmIzZGJhM2ViYzQ4ZTYyZDE5ZTEyMDhjYzQ1NmI4YWQ=/g7/ar5sport.m3u8?token=NmIzZGJhM2ViYzQ4ZTYyZDE5ZTEyMDhjYzQ1NmI4YWQ=&id=ZGFlYWMyYTgyMjc4NTkwZjc4MmNkOWViOWU2M2UxYTI=&vip=1555348264&dip=MjExOWJiODcxNzNlM2Q1OTRkNjJiODcxOGZhMjU2YTA=&pip=95.180.197.36&hip=ZjY2ZDIzNTcwZWVlOWI4MGU1ZDU2Y2VlZDJkZTQ3MGY=
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:0,3. Arena Sport 4
+http://194.88.104.169:8081/sporstvtv_16th_apr/arena4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDY6Mzc6MDUgUE0maGFzaF92YWx1ZT1DeUFGQjZiWkhGZXgvTllrTVNDNzNnPT0mdmFsaWRtaW51dGVzPTIw 
+
+https://7streams.pro/lba/NmIzZ
 #EXTINF:0,5. Sport Klub 1
 https://sblive.online/lba/NTZlZWE2N2M1Mjg3MDEzMTRjMGVmMzU2OGViODliZWU=/g5/sportklub1rs.m3u8?token=NTZlZWE2N2M1Mjg3MDEzMTRjMGVmMzU2OGViODliZWU=&id=OTUzYzI4NTg1ODk1OWRlOWM2NzA3ZTM2MWZmMDhlYmY=&vip=1555348791&dip=ZTRhZjc4MjRkYmIwODMyNDBjNjhjOTIyNWRjYjEyNjY=&pip=95.180.197.36&hip=ZjY2ZDIzNTcwZWVlOWI4MGU1ZDU2Y2VlZDJkZTQ3MGY=
 #EXTINF:0,6. Sport Klub 2
