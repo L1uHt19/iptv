@@ -22,7 +22,16 @@ http://93.155.143.90:85/m3u8/diamasporthd.m3u8
 #EXTINF:0,Diema Sport 2 HD
 http://93.155.143.90:85/m3u8/diemasport2hd.m3u8
 
-
+#EXTINF:0,SPORT TV 1
+rtmp://89.163.224.168:80/live/sporttv1
+#EXTINF:0 ,SPORT TV 2
+rtmp://89.163.224.168:80/live/sporttv2
+#EXTINF:0,SPORT TV 3
+rtmp://89.163.224.168:80/live/sporttv3
+#EXTINF:0,SPORT TV 4
+rtmp://89.163.224.168:80/live/sporttv4
+#EXTINF:0,SPORT TV 5
+rtmp://89.163.224.168:80/live/sporttv5
 #EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
 #EXTINF:-1,Super Sport Kosova 2 HD
 http://163.172.211.229:8000/live/albatvapp/albatv2.7/55.ts
