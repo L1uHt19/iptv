@@ -76,3 +76,97 @@ https://www.youtube.com/embed/Si_QnVqMqF8?autoplay=1
 #EXTINF:-1,tv  Tetova  MACEDONIA
 rtmp://ip.tvtetova.net:5119/live/tvtetova
 
+#EXTINF:-1,Nova TV
+
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
+
+#EXTINF:-1,3ABN Kids
+
+http://moiptvhls-i.akamaihd.net/hls/live/652318/HQs/chunklist.m3u8
+#EXTINF:-1,Boing
+
+http://80.238.134.35:80/boing/index.m3u8
+#EXTINF:-1,BBC
+
+http://185.53.163.214:5678/ipvt_009
+
+#EXTINF:-1,CBeebies
+
+http://80.238.134.35:80/CBeebiesHD/index.m3u8
+
+#EXTINF:-1,Rai Gulp HD
+
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+
+#EXTINF:-1, Rai Yoyo HD
+
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+
+#EXTINF:-1,Rik
+
+http://nn.geo.joj.sk/hls/rik-540.m3u8
+
+#EXTINF:-1,Tooncast
+
+http://video7.stream.mx:1935/raxatv/raxatv/media_w884577146.m3u8
+
+#EXTINF:-1,HBO 2
+
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1,Jewellery Maker
+
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+
+#EXTINF:-1,TLC
+
+http://srv.elitehdbr.vip:8880/tfeira442/SY6AFtPOZu/5907
+
+#EXTINF:-1,Viasat Nature
+
+http://19b91ba6.suklakakl.site/iptv/6D33SUTAR3AWBN/161/index.m3u8
+
+#EXTINF:-1,Wine Channel
+
+http://212.43.97.35:1935/winechannel/winechannel/chunklist_w693696609.m3u8
+
+#EXTINF:-1,TV Partizan HD
+
+http://212.200.102.3:5000/udp/239.99.99.99:23999
+
+#EXTINF:-1,Automoto TV
+
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
+#EXTINF:-1,Viasat Sport
+
+http://a9b0398c.iptvzone.net/iptv/3DKS34WUUQPAX6/160/index.m3u8
+
+#EXTINF:-1,Duga plus TV
+
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+
+#EXTINF:-1,KCN 1
+
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+
+#EXTINF:-1,KCN 2
+
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+
+#EXTINF:-1,KCN 3
+
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+
+#EXTINF:-1,Puls
+
+http://stream.rtvpuls.com/broadcasting
+
+#EXTINF:-1,Studio B
+
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
+
+#EXTINF:-1,YU Planet
+
+http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
+
