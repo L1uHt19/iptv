@@ -1,3 +1,14 @@
+#EXTINF:-1,Arena Sport 1
+http://93.155.143.90:85/m3u8/arenasport1.m3u8
+#EXTINF:-1,Arena Sport 2
+http://93.155.143.90:85/m3u8/arenasport2.m3u8
+#EXTINF:-1,Arena Sport 3
+http://93.155.143.90:85/m3u8/arenasport3.m3u8
+#EXTINF:-1,Arena Sport 4
+http://93.155.143.90:85/m3u8/arenasport4.m3u8
+#EXTINF:-1,Arena Sport 5
+http://93.155.143.90:85/m3u8/arenasport5.m3u8
+
 #EXTINF:-1,ARENA SPORT1
 https://7streams.pro/lba/123/g6/arena1rs.m3u8﻿
 #EXTINF:-1,ARENA SPORT2
@@ -6,6 +17,7 @@ https://7streams.pro/lba/123/g10/arena2sport.m3u8
 https://7streams.pro/lba/123/g9/sportarena3rs.m3u8
 #EXTINF:-1,ARENA SPORT4
 https://7streams.pro/lba/123/g3/arenaserbia4.m3u8
+
 
 #EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
 #EXTINF:-1,Super Sport Kosova 2 HD
