@@ -1,15 +1,16 @@
+#EXTINF:-1,ESPN HD
 http://80.80.160.168/live/6/live.m3u8  ESPN HD
-
+#EXTINF:-1,ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8 ANIMAL PLANET
-
+#EXTINF:-1, TLC
 http://80.80.160.168/live/2/live.m3u8  TLC
-
+#EXTINF:-1,TRAVEL CHANNEL
 http://80.80.160.168/live/3/live.m3u8  TRAVEL CHANNEL
-
+#EXTINF:-1,PLANET GREEN
 http://80.80.160.168/live/4/live.m3u8  PLANET GREEN
-
+#EXTINF:-1,DISCOVERY HD
 http://80.80.160.168/live/8/live.m3u8  DISCOVERY HD
-
+#EXTINF:-1,Discovery Science HD
 http://80.80.160.168/live/9/live.m3u8  Discovery Science HD
 
 
@@ -3837,43 +3838,4 @@ http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2091.mkv
 http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2092.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Z Nation S04 E06" tvg-logo="http://gorillaiptv.online:25461/images/dyNh3V8O6Wb33Xg7DrE9TmBvc2z_small.jpg" group-title="",Z Nation S04 E06
 http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2093.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S04 E07" tvg-logo="http://gorillaiptv.online:25461/images/9g4nsVZCP3apzgq58A840AHr16i_small.jpg" group-title="",Z Nation S04 E07
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2094.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S04 E08" tvg-logo="http://gorillaiptv.online:25461/images/1jf81Az3hALXdCVA8spB8Z3Qp0z_small.jpg" group-title="",Z Nation S04 E08
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2095.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S04 E09" tvg-logo="http://gorillaiptv.online:25461/images/8KXuWDd21U3afZ5ZOZPw4KX7yR8_small.jpg" group-title="",Z Nation S04 E09
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2096.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S04 E10" tvg-logo="http://gorillaiptv.online:25461/images/dOTM2fyM8l4YLrGqs2pHLxrX6DN_small.jpg" group-title="",Z Nation S04 E10
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2097.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S04 E11" tvg-logo="http://gorillaiptv.online:25461/images/envBKCoaHcb7LUsxl6yvpNEPP8A_small.jpg" group-title="",Z Nation S04 E11
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2098.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S04 E12" tvg-logo="http://gorillaiptv.online:25461/images/eaVKeUWPRDX1jC8yvXIUPhZ2Yxk_small.jpg" group-title="",Z Nation S04 E12
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2099.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E01" tvg-logo="http://gorillaiptv.online:25461/images/z3mR9gI3p9VSe3jl1HkZYUm3Nl4_small.jpg" group-title="",Z Nation S05 E01
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2112.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E02" tvg-logo="http://gorillaiptv.online:25461/images/rTDGHqqMe2djXMdxaGFqMhZzFYO_small.jpg" group-title="",Z Nation S05 E02
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2113.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E03" tvg-logo="http://gorillaiptv.online:25461/images/vFIrq7JzTtYG27bEgxsaCgr11Vk_small.jpg" group-title="",Z Nation S05 E03
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2114.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E04" tvg-logo="http://gorillaiptv.online:25461/images/h6OgOT4q8wUtmNcCCO4UhhZ8OVn_small.jpg" group-title="",Z Nation S05 E04
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2115.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E05" tvg-logo="http://gorillaiptv.online:25461/images/9bNEqEinIi7deqoOhwGj3MQSZcJ_small.jpg" group-title="",Z Nation S05 E05
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2125.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E06" tvg-logo="http://gorillaiptv.online:25461/images/9bNEqEinIi7deqoOhwGj3MQSZcJ_small.jpg" group-title="",Z Nation S05 E06
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2116.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E07" tvg-logo="http://gorillaiptv.online:25461/images/rhWTCrmNeecPY6W1bXopPxMkerB_small.jpg" group-title="",Z Nation S05 E07
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2117.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E08" tvg-logo="http://gorillaiptv.online:25461/images/rhWTCrmNeecPY6W1bXopPxMkerB_small.jpg" group-title="",Z Nation S05 E08
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2118.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E09" tvg-logo="http://gorillaiptv.online:25461/images/cQkK2GDHp1kzhoGEopILKHO1dV0_small.jpg" group-title="",Z Nation S05 E09
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2119.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E10" tvg-logo="http://gorillaiptv.online:25461/images/s0dQnpXO4nMasq104qOKVL8OB7r_small.jpg" group-title="",Z Nation S05 E10
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2120.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E11" tvg-logo="http://gorillaiptv.online:25461/images/8dWUpKAiWizYgrN4MANez3Bhbt3_small.jpg" group-title="",Z Nation S05 E11
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2121.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E12" tvg-logo="http://gorillaiptv.online:25461/images/4Hj158NdD6jBQwavjrCasGyxxdW_small.jpg" group-title="",Z Nation S05 E12
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2122.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E13" tvg-logo="http://gorillaiptv.online:25461/images/jHqEl3FcyoSIFRopsZaAx43BOOS_small.jpg" group-title="",Z Nation S05 E13
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2123.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Z Nation S05 E14" tvg-logo="http://gorillaiptv.online:25461/images/42KksP5f5nhDzyL7HB6PRNDtJs3_small.jpg" group-title="",Z Nation S05 E14
-http://gorillaiptv.online:25461/series/BWwGoSiTGA/Te91NfmvAC/2124.mkv
+#EXTINF:-1
