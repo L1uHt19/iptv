@@ -1,0 +1,70 @@
+#EXTINF:-1,DSTV
+
+rtmp://46.249.95.140:1935/live/livestream
+
+#EXTINF:-1,Folk TV Makedonia
+
+http://51.254.45.61:8080/hls/folkmk2.m3u8
+
+#EXTINF:-1,Sky Folk TV
+
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1,Folk Musik TV
+
+https://live.muzickatv.mk/hls/Starmusic.m3u8
+#EXTINF:-1,Duga Plus TV
+
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTM3U x-tvg-url="http://epg.serbianforum.org/epg.xml.gz"
+
+#EXTINF:-1,***** MACEDONIAN TV **** (MK)
+http://satellitefree.altervista.org/iptv_naste.mp4
+#EXTINF:-1,SITEL TV|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+#EXTINF:-1,KNAL 5|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_MK)/index.m3u8
+#EXTINF:-1,TELMA|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+#EXTINF:-1,ALSAT M|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1,ALFA|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
+#EXTINF:-1,MRT1|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+#EXTINF:-1,24 VESTI|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(24_Vesti)/index.m3u8
+#EXTINF:-1,TV21|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:-1,TV  SHENJA|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
+#EXTINF:-1,TV NOVA|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Nova_MK)/index.m3u8
+#EXTINF:-1,KANAL 5 PLUS|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_Plus_MK)/index.m3u8
+#EXTINF:-1,MRT2|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+#EXTINF:-1,MTM|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1,NASHA-TV|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
+#EXTINF:-1,SHUTEL|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:-1,SOBRANSKI KAANAL|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1,ERA|MK
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+#EXTINF:-1,Balkan Music TV (MK)
+http://balkanmusictv.ddns.net/live/stream/index.m3u8
+#EXTINF:-1,Sky Folk TV (MK)
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1,Folk TV (MK)
+http://51.254.45.61:8080/hls/folkmk2.m3u8
+#EXTINF:-1, 1 TV MK  (MK)
+http://82.214.119.226:8000/play/220
+#EXTINF:0,Kanal 1 kumanovo  (MK)
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,IN  TV MACEDONIA
+https://www.youtube.com/embed/Si_QnVqMqF8?autoplay=1
+#EXTINF:-1,tv  Tetova  MACEDONIA
+rtmp://ip.tvtetova.net:5119/live/tvtetova
+
