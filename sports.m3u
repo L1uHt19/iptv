@@ -1,29 +1,11 @@
-
-#EXTM3U
-#EXTVLCOPT:http-user-agent=freeapppsss
-#EXTINF:0,1. Arena Sport 1
-
-https://sblive.online/lba/MzhmNTkwYzI0NmY3NWRiZGE0ZThmY2QxMzBkYzkyOTY=/g6/arena1rs.m3u8?token=MzhmNTkwYzI0NmY3NWRiZGE0ZThmY2QxMzBkYzkyOTY=&id=MTU3MGQzN2FjZTAzM2QzZjdlZDY0MmUxNjkwMTZlYWE=&vip=1555523320&dip=ZWZiYTFmNjliYzE5MjdiMDA3OTAzYmNhODljMGE0ZmQ=&pip=95.180.197.36&hip=ZjY2ZDIzNTcwZWVlOWI4MGU1ZDU2Y2VlZDJkZTQ3MGY=
-#EXTVLCOPT:http-user-agent=freeapppsss
-#EXTINF:0,2. Arena Sport 2
-
-
-http://194.88.104.169:8081/sporstvtv_16th_apr/arena2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDY6Mzc6MDUgUE0maGFzaF92YWx1ZT1DeUFGQjZiWkhGZXgvTllrTVNDNzNnPT0mdmFsaWRtaW51dGVzPTIw 
-#EXTVLCOPT:http-user-agent=freeapppsss
-#EXTINF:0,3. Arena Sport 3
-http://194.88.104.169:8081/sporstvtv_16th_apr/arena3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDY6Mzc6MDUgUE0maGFzaF92YWx1ZT1DeUFGQjZiWkhGZXgvTllrTVNDNzNnPT0mdmFsaWRtaW51dGVzPTIw 
-
-#EXTVLCOPT:http-user-agent=freeapppsss
-#EXTINF:0,3. Arena Sport 4
-http://194.88.104.169:8081/sporstvtv_16th_apr/arena4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDY6Mzc6MDUgUE0maGFzaF92YWx1ZT1DeUFGQjZiWkhGZXgvTllrTVNDNzNnPT0mdmFsaWRtaW51dGVzPTIw 
-
-https://7streams.pro/lba/NmIzZ
-#EXTINF:0,5. Sport Klub 1
-https://sblive.online/lba/NTZlZWE2N2M1Mjg3MDEzMTRjMGVmMzU2OGViODliZWU=/g5/sportklub1rs.m3u8?token=NTZlZWE2N2M1Mjg3MDEzMTRjMGVmMzU2OGViODliZWU=&id=OTUzYzI4NTg1ODk1OWRlOWM2NzA3ZTM2MWZmMDhlYmY=&vip=1555348791&dip=ZTRhZjc4MjRkYmIwODMyNDBjNjhjOTIyNWRjYjEyNjY=&pip=95.180.197.36&hip=ZjY2ZDIzNTcwZWVlOWI4MGU1ZDU2Y2VlZDJkZTQ3MGY=
-#EXTINF:0,6. Sport Klub 2
-https://cdn.videosofsport1.live/hls/ymXi6V7N3yCQHvP17NZBKw/1555363353/sportklub2.m3u8
-#EXTINF:0,7. Sport Klub 3
-https://cdn.videosofsport1.live/hls/SFAw5UX_W_VI3bb1azCQcA/1555363677/sportklub3.m3u8
+#EXTINF:-1,ARENA SPORT1
+https://7streams.pro/lba/123/g6/arena1rs.m3u8﻿
+#EXTINF:-1,ARENA SPORT2
+https://7streams.pro/lba/123/g10/arena2sport.m3u8
+#EXTINF:-1,ARENA SPORT3
+https://7streams.pro/lba/123/g9/sportarena3rs.m3u8
+#EXTINF:-1,ARENA SPORT4
+https://7streams.pro/lba/123/g3/arenaserbia4.m3u8
 
 #EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
 #EXTINF:-1,Super Sport Kosova 2 HD
