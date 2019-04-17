@@ -91,3 +91,17 @@ https://cdn1.mobiletv.bg/T14/ATV/boxtv/boxtv_ATV987654321.m3u8
 https://cdn1.mobiletv.bg/T14/ATV/duck_tv/duck_tv_ATV987654321.m3u8
 #EXTINF:-1,Auto motor sport Bulgaria
 https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
+#EXTINF:-1,BTK:   http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
+
+#EXTINF:-1,BG DNES: http://80.72.95.40:8088
+
+#EXTINF:-1,DSTV: rtmp://79.98.109.134:1935/big/live 
+
+#EXTINF:-1,Cherno More TV: http://84.43.207.130:80/evropatv/evropatv.m3u8
+
+#EXTINF:-1,BTV CINEMA: http://84.43.207.130:80/btvcinema/btvcinema.m3u8
+
+#EXTINF:-1,Diema: http://84.43.207.130/diema/diema.m3u8
+
+#EXTINF:-1,BG: Europa TV: http://84.43.207.130/evropatv/evropatv.m3u8
+ 
