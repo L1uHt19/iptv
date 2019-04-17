@@ -1,10 +1,15 @@
 
 #EXTM3U
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.9 (Linux;Android 5.1) ExoPlayerLib/2.6.1
 #EXTINF:0,1. Arena Sport 1
 
 http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDU6MTg6NTkgQU0maGFzaF92YWx1ZT0xcVd0M0FjQzlCUFFMSDd3UWVTWkVRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.9 (Linux;Android 5.1) ExoPlayerLib/2.6.1
 #EXTINF:0,2. Arena Sport 2
+
+
 http://stream.tvtap.live:8081/live/arena2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDU6MTg6NTkgQU0maGFzaF92YWx1ZT0xcVd0M0FjQzlCUFFMSDd3UWVTWkVRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.9 (Linux;Android 5.1) ExoPlayerLib/2.6.1
 #EXTINF:0,3. Arena Sport 3
 http://stream.tvtap.live:8081/live/arena3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDU6MTg6NTkgQU0maGFzaF92YWx1ZT0xcVd0M0FjQzlCUFFMSDd3UWVTWkVRPT0mdmFsaWRtaW51dGVzPTIw#EXTINF:0,4. Arena Sport 5
 
