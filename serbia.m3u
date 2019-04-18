@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1,OBN
+http://85.0.26.89:3000/play/xxOBNxx
+#EXTINF:-1,RTRS plus
+http://85.0.26.89:3000/play/xxRTRSPLUSxx
+#EXTINF:-1,Sky Cinema Hits
+http://85.0.26.89:3000/play/xxcSkyHitscxx
+#EXTINF:-1,YU Planet
+http://85.0.26.89:3000/play/xxYUPlanetxx
+#EXTINF:-1,SIXX
+http://85.0.26.89:3000/play/xxSIXXxx
+#EXTINF:-1,Sky Sport 2
+http://85.0.26.89:3000/play/xxcSkySport2cxx
+#EXTINF:-1,Sky Sport Bundesliga 4
+http://85.0.26.89:3000/play/xxcSkyLiga4cxx
+#EXTINF:-1,EWTN katholisches TV
+http://85.0.26.89:3000/play/xxEWTNkatholischesTVxx
+#EXTINF:-1,Sky Sport Bundesliga 3
+http://85.0.26.89:3000/play/xxcSkyLiga3cxx
+#EXTINF:-1,N24 DOKU
+http://85.0.26.89:3000/play/xxN24DOKUxx
+#EXTINF:-1,Disney Channel
+http://85.0.26.89:3000/play/xxDisneyChannelxx
+#EXTINF:-1,Sky Cinema Family HD
+http://85.0.26.89:3000/play/xxcSkyFamilycxx
+#EXTINF:-1,CGTN F
+http://85.0.26.89:3000/play/a045
+#EXTINF:-1,TV5MONDE EUROPE
+http://85.0.26.89:3000/play/xxTV5MONDEEUROPExx
+#EXTINF:-1,RTK-1 SAT KOSOVO
+http://85.0.26.89:3000/play/xxRTK1SATKOSOVOxx
+#EXTINF:-1,QVC Style
+http://85.0.26.89:3000/play/xxQVCStylexx
+#EXTINF:-1,Russia Today
+http://85.0.26.89:3000/play/xxRussiaTodayxx
+#EXTINF:-1,Aurora TV
+http://85.0.26.89:3000/play/xxAuroraTVxx
+#EXTINF:-1,BCTV Europe
+http://85.0.26.89:3000/play/SSBCTVEUROPESS
+#EXTINF:-1,France 24 (en Français)
+http://85.0.26.89:3000/play/xxFRANCE24frxx
+#EXTINF:-1,TLC
+http://85.0.26.89:3000/play/xxTLCxx
+#EXTINF:-1,CGTN Documentary
+http://85.0.26.89:3000/play/xxCGTNDocumentaryxx
+#EXTINF:-1,BN Music
+http://85.0.26.89:3000/play/xxBNMUSICxx
+#EXTINF:-1,France 24 (in Arabic)
+http://85.0.26.89:3000/play/xxFrance24arxx
+#EXTINF:-1,TRT World HD
+http://85.0.26.89:3000/play/xxTRTWorldHDxx
+#EXTINF:-1,HAYAT FOLK
+http://85.0.26.89:3000/play/xxHAYATFOLKxx
+#EXTINF:-1,CGTN
+http://85.0.26.89:3000/play/xxCGTNxx
+#EXTINF:-1,Service IPKO A03
+http://85.0.26.89:3000/play/a03u
+#EXTINF:-1,RTRS RRS
+http://85.0.26.89:3000/play/xxRTRSRRSxx
+#EXTINF:-1,France 24 (in English)
+http://85.0.26.89:3000/play/xxFrance24enxx
+#EXTINF:-1,HAYAT MUSIC
+http://85.0.26.89:3000/play/xxHAYATMUSICxx
+#EXTINF:-1,ANIXE SD
+http://85.0.26.89:3000/play/xxANIXESDxx
+#EXTINF:-1,PRO TV Int
+http://85.0.26.89:3000/play/xxPROTVIntxx
+#EXTINF:-1,Top News
+http://85.0.26.89:3000/play/xxTOPNEWSxx
+#EXTINF:-1,BCTV Europe
+http://85.0.26.89:3000/play/xxBCTVEuropexx
