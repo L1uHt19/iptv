@@ -150,3 +150,109 @@ http://163.172.35.210:8000/live/Falas/Tv/418.ts
 #EXTVLCOPT:http-user-agent=163.172.35.210
 #EXTINF:-1,Super Sport 5
 http://163.172.35.210:8000/live/Falas/Tv/419.ts
+#EXTM3U
+#EXTINF:-1,Alba: 7 News
+http://ultraiptv.online:80/mert011/mert011/2900
+#EXTINF:-1,Alba: Alb Action
+http://ultraiptv.online:80/mert011/mert011/7765
+#EXTINF:-1,Alba: Alb Hindi HD
+http://ultraiptv.online:80/mert011/mert011/7763
+#EXTINF:-1,Alba: Alb Humor 1
+http://ultraiptv.online:80/mert011/mert011/3072
+#EXTINF:-1,Alba: Alb Humor 2
+http://ultraiptv.online:80/mert011/mert011/3071
+#EXTINF:-1,Alba: Alb Komedi
+http://ultraiptv.online:80/mert011/mert011/7761
+#EXTINF:-1,Alba: Alb Thriller
+http://ultraiptv.online:80/mert011/mert011/7758
+#EXTINF:-1,Alba: Cufo
+http://ultraiptv.online:80/mert011/mert011/1144
+#EXTINF:-1,Alba: Exp Histori
+http://ultraiptv.online:80/mert011/mert011/1139
+#EXTINF:-1,Alba: Exp Natyre
+http://ultraiptv.online:80/mert011/mert011/1138
+#EXTINF:-1,Alba: Exp Shkence
+http://ultraiptv.online:80/mert011/mert011/1137
+#EXTINF:-1,Alba: Film Aksion
+http://ultraiptv.online:80/mert011/mert011/1143
+#EXTINF:-1,Alba: Film Autor
+http://ultraiptv.online:80/mert011/mert011/1847
+#EXTINF:-1,Alba: Film Drame
+http://ultraiptv.online:80/mert011/mert011/1142
+#EXTINF:-1,Alba: Film Dy
+http://ultraiptv.online:80/mert011/mert011/1845
+#EXTINF:-1,Alba: Film Gold
+http://ultraiptv.online:80/mert011/mert011/1136
+#EXTINF:-1,Alba: Film Hits
+http://ultraiptv.online:80/mert011/mert011/1141
+#EXTINF:-1,Alba: Film Komedi
+http://ultraiptv.online:80/mert011/mert011/1140
+#EXTINF:-1,Alba: Film Nje
+http://ultraiptv.online:80/mert011/mert011/1134
+#EXTINF:-1,Alba: Film Thriller
+http://ultraiptv.online:80/mert011/mert011/1133
+#EXTINF:-1,Alba: Folk
+http://ultraiptv.online:80/mert011/mert011/7764
+#EXTINF:-1,Alba: KCN 1
+http://ultraiptv.online:80/mert011/mert011/2216
+#EXTINF:-1,Alba: KCN 2
+http://ultraiptv.online:80/mert011/mert011/2217
+#EXTINF:-1,Alba: KCN 3
+http://ultraiptv.online:80/mert011/mert011/1846
+#EXTINF:-1,Alba: Kino Action
+http://ultraiptv.online:80/mert011/mert011/2897
+#EXTINF:-1,Alba: Kino Drama
+http://ultraiptv.online:80/mert011/mert011/2899
+#EXTINF:-1,Alba: Kino Romance
+http://ultraiptv.online:80/mert011/mert011/4074
+#EXTINF:-1,Alba: Kino Thriller
+http://ultraiptv.online:80/mert011/mert011/4075
+#EXTINF:-1,Alba: Klan HD
+http://ultraiptv.online:80/mert011/mert011/1844
+#EXTINF:-1,Alba: Klan Kosova
+http://ultraiptv.online:80/mert011/mert011/1146
+#EXTINF:-1,Alba: KTV Kohavision
+http://ultraiptv.online:80/mert011/mert011/1131
+#EXTINF:-1,Alba: K Sport 1
+http://ultraiptv.online:80/mert011/mert011/7757
+#EXTINF:-1,Alba: K Sport 2
+http://ultraiptv.online:80/mert011/mert011/7756
+#EXTINF:-1,Alba: Living
+http://ultraiptv.online:80/mert011/mert011/3126
+#EXTINF:-1,Alba: Rtk 1
+http://ultraiptv.online:80/mert011/mert011/2203
+#EXTINF:-1,Alba: Rtk 2
+http://ultraiptv.online:80/mert011/mert011/3127
+#EXTINF:-1,Alba: Rtk 3
+http://ultraiptv.online:80/mert011/mert011/3128
+#EXTINF:-1,Alba: Rtk 4
+http://ultraiptv.online:80/mert011/mert011/3129
+#EXTINF:-1,Alba: Rtv 21
+http://ultraiptv.online:80/mert011/mert011/1130
+#EXTINF:-1,Alba: Shqip-Tv Aksion HD
+http://ultraiptv.online:80/mert011/mert011/7753
+#EXTINF:-1,Alba: Shqip-Tv Film HD
+http://ultraiptv.online:80/mert011/mert011/7752
+#EXTINF:-1,Alba: Shqip-Tv Western HD
+http://ultraiptv.online:80/mert011/mert011/7743
+#EXTINF:-1,Alba: Sky Aksion
+http://ultraiptv.online:80/mert011/mert011/7742
+#EXTINF:-1,Alba: Sky Drame
+http://ultraiptv.online:80/mert011/mert011/7740
+#EXTINF:-1,Alba: Sky Komedi
+http://ultraiptv.online:80/mert011/mert011/7741
+#EXTINF:-1,Alba: Sky Max
+http://ultraiptv.online:80/mert011/mert011/7739
+#EXTINF:-1,Alba: Super Sport 2
+http://ultraiptv.online:80/mert011/mert011/110
+#EXTINF:-1,Alba: Super Sport 3
+http://ultraiptv.online:80/mert011/mert011/111
+#EXTINF:-1,Alba: Super Sport 4
+http://ultraiptv.online:80/mert011/mert011/112
+#EXTINF:-1,Alba: T+ HD
+http://ultraiptv.online:80/mert011/mert011/3125
+#EXTINF:-1,Alba: Tip Tv
+http://ultraiptv.online:80/mert011/mert011/2898
+#EXTINF:-1,Alba: Vizion+
+http://ultraiptv.online:80/mert011/mert011/4076
+
