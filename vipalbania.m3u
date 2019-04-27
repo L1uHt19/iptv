@@ -1,4 +1,73 @@
+
+
 #EXTM3U
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,top channel
+http://163.172.35.210:8000/live/Falas/Tv/498.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KLAN PLUS
+http://163.172.35.210:8000/live/Falas/Tv/497.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Klan Kosova
+http://163.172.35.210:8000/live/Falas/Tv/499.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,klan HD
+http://163.172.35.210:8000/live/Falas/Tv/496.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 2
+http://163.172.35.210:8000/live/Falas/Tv/458.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 3
+http://163.172.35.210:8000/live/Falas/Tv/457.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 1
+http://163.172.35.210:8000/live/Falas/Tv/456.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Gangu
+http://163.172.35.210:8000/live/Falas/Tv/453.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB THRILLER
+http://163.172.35.210:8000/live/Falas/Tv/38.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB aksion
+http://163.172.35.210:8000/live/Falas/Tv/49.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB KOMEDI
+http://163.172.35.210:8000/live/Falas/Tv/41.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB T&J
+http://163.172.35.210:8000/live/Falas/Tv/107.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Aksion
+http://163.172.35.210:8000/live/Falas/Tv/15.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Cinema
+http://163.172.35.210:8000/live/Falas/Tv/14.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Fantasy HD
+http://163.172.35.210:8000/live/Falas/Tv/13.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Film HD
+http://163.172.35.210:8000/live/Falas/Tv/12.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,SHQIPTV Hindi HD
+http://163.172.35.210:8000/live/Falas/Tv/11.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Horror HD
+http://163.172.35.210:8000/live/Falas/Tv/10.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Komedi HD
+http://163.172.35.210:8000/live/Falas/Tv/9.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Tom & Jerry
+http://163.172.35.210:8000/live/Falas/Tv/7.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Western HD
+http://163.172.35.210:8000/live/Falas/Tv/6.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Kujtesa sport 1
+http://163.172.35.210:8000/live/Falas/Tv/254.ts
+
 EXTINF:-1,ShqipTV Tom & Jerry
 http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/7.ts
 #EXTINF:-1,ShqipTv Horror HD
