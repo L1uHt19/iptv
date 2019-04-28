@@ -219,109 +219,298 @@ http://163.172.35.210:8000/live/Falas/Tv/418.ts
 #EXTVLCOPT:http-user-agent=163.172.35.210
 #EXTINF:-1,Super Sport 5
 http://163.172.35.210:8000/live/Falas/Tv/419.ts
-#EXTM3U
-#EXTINF:-1,Alba: 7 News
-http://ultraiptv.online:80/mert011/mert011/2900
-#EXTINF:-1,Alba: Alb Action
-http://ultraiptv.online:80/mert011/mert011/7765
-#EXTINF:-1,Alba: Alb Hindi HD
-http://ultraiptv.online:80/mert011/mert011/7763
-#EXTINF:-1,Alba: Alb Humor 1
-http://ultraiptv.online:80/mert011/mert011/3072
-#EXTINF:-1,Alba: Alb Humor 2
-http://ultraiptv.online:80/mert011/mert011/3071
-#EXTINF:-1,Alba: Alb Komedi
-http://ultraiptv.online:80/mert011/mert011/7761
-#EXTINF:-1,Alba: Alb Thriller
-http://ultraiptv.online:80/mert011/mert011/7758
-#EXTINF:-1,Alba: Cufo
-http://ultraiptv.online:80/mert011/mert011/1144
-#EXTINF:-1,Alba: Exp Histori
-http://ultraiptv.online:80/mert011/mert011/1139
-#EXTINF:-1,Alba: Exp Natyre
-http://ultraiptv.online:80/mert011/mert011/1138
-#EXTINF:-1,Alba: Exp Shkence
-http://ultraiptv.online:80/mert011/mert011/1137
-#EXTINF:-1,Alba: Film Aksion
-http://ultraiptv.online:80/mert011/mert011/1143
-#EXTINF:-1,Alba: Film Autor
-http://ultraiptv.online:80/mert011/mert011/1847
-#EXTINF:-1,Alba: Film Drame
-http://ultraiptv.online:80/mert011/mert011/1142
-#EXTINF:-1,Alba: Film Dy
-http://ultraiptv.online:80/mert011/mert011/1845
-#EXTINF:-1,Alba: Film Gold
-http://ultraiptv.online:80/mert011/mert011/1136
-#EXTINF:-1,Alba: Film Hits
-http://ultraiptv.online:80/mert011/mert011/1141
-#EXTINF:-1,Alba: Film Komedi
-http://ultraiptv.online:80/mert011/mert011/1140
-#EXTINF:-1,Alba: Film Nje
-http://ultraiptv.online:80/mert011/mert011/1134
-#EXTINF:-1,Alba: Film Thriller
-http://ultraiptv.online:80/mert011/mert011/1133
-#EXTINF:-1,Alba: Folk
-http://ultraiptv.online:80/mert011/mert011/7764
-#EXTINF:-1,Alba: KCN 1
-http://ultraiptv.online:80/mert011/mert011/2216
-#EXTINF:-1,Alba: KCN 2
-http://ultraiptv.online:80/mert011/mert011/2217
-#EXTINF:-1,Alba: KCN 3
-http://ultraiptv.online:80/mert011/mert011/1846
-#EXTINF:-1,Alba: Kino Action
-http://ultraiptv.online:80/mert011/mert011/2897
-#EXTINF:-1,Alba: Kino Drama
-http://ultraiptv.online:80/mert011/mert011/2899
-#EXTINF:-1,Alba: Kino Romance
-http://ultraiptv.online:80/mert011/mert011/4074
-#EXTINF:-1,Alba: Kino Thriller
-http://ultraiptv.online:80/mert011/mert011/4075
-#EXTINF:-1,Alba: Klan HD
-http://ultraiptv.online:80/mert011/mert011/1844
-#EXTINF:-1,Alba: Klan Kosova
-http://ultraiptv.online:80/mert011/mert011/1146
-#EXTINF:-1,Alba: KTV Kohavision
-http://ultraiptv.online:80/mert011/mert011/1131
-#EXTINF:-1,Alba: K Sport 1
-http://ultraiptv.online:80/mert011/mert011/7757
-#EXTINF:-1,Alba: K Sport 2
-http://ultraiptv.online:80/mert011/mert011/7756
-#EXTINF:-1,Alba: Living
-http://ultraiptv.online:80/mert011/mert011/3126
-#EXTINF:-1,Alba: Rtk 1
-http://ultraiptv.online:80/mert011/mert011/2203
-#EXTINF:-1,Alba: Rtk 2
-http://ultraiptv.online:80/mert011/mert011/3127
-#EXTINF:-1,Alba: Rtk 3
-http://ultraiptv.online:80/mert011/mert011/3128
-#EXTINF:-1,Alba: Rtk 4
-http://ultraiptv.online:80/mert011/mert011/3129
-#EXTINF:-1,Alba: Rtv 21
-http://ultraiptv.online:80/mert011/mert011/1130
-#EXTINF:-1,Alba: Shqip-Tv Aksion HD
-http://ultraiptv.online:80/mert011/mert011/7753
-#EXTINF:-1,Alba: Shqip-Tv Film HD
-http://ultraiptv.online:80/mert011/mert011/7752
-#EXTINF:-1,Alba: Shqip-Tv Western HD
-http://ultraiptv.online:80/mert011/mert011/7743
-#EXTINF:-1,Alba: Sky Aksion
-http://ultraiptv.online:80/mert011/mert011/7742
-#EXTINF:-1,Alba: Sky Drame
-http://ultraiptv.online:80/mert011/mert011/7740
-#EXTINF:-1,Alba: Sky Komedi
-http://ultraiptv.online:80/mert011/mert011/7741
-#EXTINF:-1,Alba: Sky Max
-http://ultraiptv.online:80/mert011/mert011/7739
-#EXTINF:-1,Alba: Super Sport 2
-http://ultraiptv.online:80/mert011/mert011/110
-#EXTINF:-1,Alba: Super Sport 3
-http://ultraiptv.online:80/mert011/mert011/111
-#EXTINF:-1,Alba: Super Sport 4
-http://ultraiptv.online:80/mert011/mert011/112
-#EXTINF:-1,Alba: T+ HD
-http://ultraiptv.online:80/mert011/mert011/3125
-#EXTINF:-1,Alba: Tip Tv
-http://ultraiptv.online:80/mert011/mert011/2898
-#EXTINF:-1,Alba: Vizion+
-http://ultraiptv.online:80/mert011/mert011/4076
-
+EXTM3U
+#EXTINF:-1,RTK-sat
+http://ipx1.streamstorm.to:8005/teuta/teuta/1614
+#EXTINF:-1,RTK 1
+http://ipx1.streamstorm.to:8005/teuta/teuta/260
+#EXTINF:-1,RTK 2
+http://ipx1.streamstorm.to:8005/teuta/teuta/1315
+#EXTINF:-1,RTK 3
+http://ipx1.streamstorm.to:8005/teuta/teuta/1314
+#EXTINF:-1,RTK 4
+http://ipx1.streamstorm.to:8005/teuta/teuta/1313
+#EXTINF:-1,KTV KOHAVISION
+http://ipx1.streamstorm.to:8005/teuta/teuta/258
+#EXTINF:-1,RTV 21 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/266
+#EXTINF:-1,KLAN KOSOVA HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/627
+#EXTINF:-1,T7
+http://ipx1.streamstorm.to:8005/teuta/teuta/1823
+#EXTINF:-1,TV Dukagjini
+http://ipx1.streamstorm.to:8005/teuta/teuta/1385
+#EXTINF:-1,rrokum
+http://ipx1.streamstorm.to:8005/teuta/teuta/554
+#EXTINF:-1,ALSAT M
+http://ipx1.streamstorm.to:8005/teuta/teuta/256
+#EXTINF:-1,RTV 21 POPULLORE
+http://ipx1.streamstorm.to:8005/teuta/teuta/374
+#EXTINF:-1,Tema TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1751
+#EXTINF:-1,TVSH
+http://ipx1.streamstorm.to:8005/teuta/teuta/261
+#EXTINF:-1,TV ERA
+http://ipx1.streamstorm.to:8005/teuta/teuta/377
+#EXTINF:-1,TV Llapi
+http://ipx1.streamstorm.to:8005/teuta/teuta/1788
+#EXTINF:-1,TV MITROVICA
+http://ipx1.streamstorm.to:8005/teuta/teuta/1242
+#EXTINF:-1,TV Opoja
+http://ipx1.streamstorm.to:8005/teuta/teuta/1249
+#EXTINF:-1,FOLK +
+http://ipx1.streamstorm.to:8005/teuta/teuta/376
+#EXTINF:-1,DASMA TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/370
+#EXTINF:-1,RTV 21 JUNIOR
+http://ipx1.streamstorm.to:8005/teuta/teuta/375
+#EXTINF:-1,RTV 21 MAQEDONIA
+http://ipx1.streamstorm.to:8005/teuta/teuta/369
+#EXTINF:-1,RTV 21 Plus
+http://ipx1.streamstorm.to:8005/teuta/teuta/1247
+#EXTINF:-1,Spin TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1618
+#EXTINF:-1,ABC News
+http://ipx1.streamstorm.to:8005/teuta/teuta/509
+#EXTINF:-1,BBF MUSIC
+http://ipx1.streamstorm.to:8005/teuta/teuta/373
+#EXTINF:-1,Fax News
+http://ipx1.streamstorm.to:8005/teuta/teuta/1742
+#EXTINF:-1,Click TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1741
+#EXTINF:-1,FIRST 1
+http://ipx1.streamstorm.to:8005/teuta/teuta/267
+#EXTINF:-1,Muse
+http://ipx1.streamstorm.to:8005/teuta/teuta/1730
+#EXTINF:-1,News 24 (AL)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1656
+#EXTINF:-1,Peace TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1373
+#EXTINF:-1,TOP NEWS
+http://ipx1.streamstorm.to:8005/teuta/teuta/372
+#EXTINF:-1,TRING 3 PLUS
+http://ipx1.streamstorm.to:8005/teuta/teuta/1058
+#EXTINF:-1,Tring Action
+http://ipx1.streamstorm.to:8005/teuta/teuta/1733
+#EXTINF:-1,TRING COMEDY
+http://ipx1.streamstorm.to:8005/teuta/teuta/441
+#EXTINF:-1,TRING FANTASY
+http://ipx1.streamstorm.to:8005/teuta/teuta/505
+#EXTINF:-1,Tring Festa
+http://ipx1.streamstorm.to:8005/teuta/teuta/1747
+#EXTINF:-1,Tring FOX
+http://ipx1.streamstorm.to:8005/teuta/teuta/1753
+#EXTINF:-1,TRING HISTORY
+http://ipx1.streamstorm.to:8005/teuta/teuta/506
+#EXTINF:-1,Tring International
+http://ipx1.streamstorm.to:8005/teuta/teuta/1748
+#EXTINF:-1,TRING JOLLY
+http://ipx1.streamstorm.to:8005/teuta/teuta/379
+#EXTINF:-1,Tring Kids
+http://ipx1.streamstorm.to:8005/teuta/teuta/1754
+#EXTINF:-1,TRING LIFE
+http://ipx1.streamstorm.to:8005/teuta/teuta/444
+#EXTINF:-1,TRING LIVING HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/446
+#EXTINF:-1,TRING PLANET
+http://ipx1.streamstorm.to:8005/teuta/teuta/507
+#EXTINF:-1,TRING SHQIP
+http://ipx1.streamstorm.to:8005/teuta/teuta/508
+#EXTINF:-1,TRING SMILE
+http://ipx1.streamstorm.to:8005/teuta/teuta/447
+#EXTINF:-1,TRING SPORT 1 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1011
+#EXTINF:-1,TRING SPORT 2 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1093
+#EXTINF:-1,TRING SPORT 3 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1094
+#EXTINF:-1,TRING SPORT 4 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1095
+#EXTINF:-1,TRING SPORT NEWS
+http://ipx1.streamstorm.to:8005/teuta/teuta/1224
+#EXTINF:-1,TRING SUPER
+http://ipx1.streamstorm.to:8005/teuta/teuta/442
+#EXTINF:-1,TRING TRING
+http://ipx1.streamstorm.to:8005/teuta/teuta/445
+#EXTINF:-1,TRING WORLD
+http://ipx1.streamstorm.to:8005/teuta/teuta/448
+#EXTINF:-1,VIZION PLUS
+http://ipx1.streamstorm.to:8005/teuta/teuta/371
+#EXTINF:-1,SRF 1 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1456
+#EXTINF:-1,SRF 2 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1815
+#EXTINF:-1,SRF Info
+http://ipx1.streamstorm.to:8005/teuta/teuta/1582
+#EXTINF:-1,3+ Schweiz
+http://ipx1.streamstorm.to:8005/teuta/teuta/1633
+#EXTINF:-1,4 Plus
+http://ipx1.streamstorm.to:8005/teuta/teuta/1590
+#EXTINF:-1,5+ Schweiz HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1849
+#EXTINF:-1,ORF 1
+http://ipx1.streamstorm.to:8005/teuta/teuta/1585
+#EXTINF:-1,ORF 2
+http://ipx1.streamstorm.to:8005/teuta/teuta/1586
+#EXTINF:-1,MTV CH
+http://ipx1.streamstorm.to:8005/teuta/teuta/1850
+#EXTINF:-1,Telebasel
+http://ipx1.streamstorm.to:8005/teuta/teuta/1851
+#EXTINF:-1,Telebaern
+http://ipx1.streamstorm.to:8005/teuta/teuta/1852
+#EXTINF:-1,TeleZüri
+http://ipx1.streamstorm.to:8005/teuta/teuta/1853
+#EXTINF:-1,TVO
+http://ipx1.streamstorm.to:8005/teuta/teuta/1854
+#EXTINF:-1,RTL (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1279
+#EXTINF:-1,RTL 2 (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1290
+#EXTINF:-1,RTL Nitro HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1810
+#EXTINF:-1,Super RTL (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1272
+#EXTINF:-1,RTL Plus
+http://ipx1.streamstorm.to:8005/teuta/teuta/1855
+#EXTINF:-1,Toggo Plus
+http://ipx1.streamstorm.to:8005/teuta/teuta/1587
+#EXTINF:-1,PRO 7 (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1291
+#EXTINF:-1,Pro 7 Maxx
+http://ipx1.streamstorm.to:8005/teuta/teuta/1856
+#EXTINF:-1,SAT.1 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1812
+#EXTINF:-1,Sat.1 Gold
+http://ipx1.streamstorm.to:8005/teuta/teuta/1857
+#EXTINF:-1,VOX (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1285
+#EXTINF:-1,Kabel Eins (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1292
+#EXTINF:-1,Kabel Eins Doku HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1797
+#EXTINF:-1,DMAX (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1282
+#EXTINF:-1,Disney Junior HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1792
+#EXTINF:-1,Nikeleodeon
+http://ipx1.streamstorm.to:8005/teuta/teuta/1312
+#EXTINF:-1,KIKA (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1281
+#EXTINF:-1,3Sat DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1589
+#EXTINF:-1,ZDF (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1271
+#EXTINF:-1,DAS Erste (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1284
+#EXTINF:-1,Ran1
+http://ipx1.streamstorm.to:8005/teuta/teuta/1858
+#EXTINF:-1,Phoenix DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1859
+#EXTINF:-1,N24 (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1280
+#EXTINF:-1,N-tv
+http://ipx1.streamstorm.to:8005/teuta/teuta/1588
+#EXTINF:-1,WDR
+http://ipx1.streamstorm.to:8005/teuta/teuta/1860
+#EXTINF:-1,Arte HD DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1529
+#EXTINF:-1,TRT Cocuk (TR)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1298
+#EXTINF:-1,Rai 1
+http://ipx1.streamstorm.to:8005/teuta/teuta/1779
+#EXTINF:-1,Rai 2
+http://ipx1.streamstorm.to:8005/teuta/teuta/1780
+#EXTINF:-1,Rai 3
+http://ipx1.streamstorm.to:8005/teuta/teuta/1781
+#EXTINF:-1,RTS1
+http://ipx1.streamstorm.to:8005/teuta/teuta/477
+#EXTINF:-1,RTS 2
+http://ipx1.streamstorm.to:8005/teuta/teuta/476
+#EXTINF:-1,RTCG
+http://ipx1.streamstorm.to:8005/teuta/teuta/1616
+#EXTINF:-1,Rtv Crne Gore
+http://ipx1.streamstorm.to:8005/teuta/teuta/1695
+#EXTINF:-1,B92
+http://ipx1.streamstorm.to:8005/teuta/teuta/591
+#EXTINF:-1,Al Jazeera
+http://ipx1.streamstorm.to:8005/teuta/teuta/1648
+#EXTINF:-1,Al Jazeera Balkans
+http://ipx1.streamstorm.to:8005/teuta/teuta/1592
+#EXTINF:-1,Al Jazeera Documentary
+http://ipx1.streamstorm.to:8005/teuta/teuta/1876
+#EXTINF:-1,Aljazeera Doc
+http://ipx1.streamstorm.to:8005/teuta/teuta/1393
+#EXTINF:-1,Aljazeera Documentary TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1394
+#EXTINF:-1,ANIXE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1863
+#EXTINF:-1,Aurora TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1862
+#EXTINF:-1,Balkan TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/685
+#EXTINF:-1,BBC News
+http://ipx1.streamstorm.to:8005/teuta/teuta/1869
+#EXTINF:-1,BN Music
+http://ipx1.streamstorm.to:8005/teuta/teuta/723
+#EXTINF:-1,CGTN
+http://ipx1.streamstorm.to:8005/teuta/teuta/1861
+#EXTINF:-1,CNN (USA)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1870
+#EXTINF:-1,Doma TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/479
+#EXTINF:-1,Euro News
+http://ipx1.streamstorm.to:8005/teuta/teuta/1653
+#EXTINF:-1,EuroNews DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1873
+#EXTINF:-1,Family TV DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1874
+#EXTINF:-1,France 24
+http://ipx1.streamstorm.to:8005/teuta/teuta/1649
+#EXTINF:-1,Hayat Folk SR
+http://ipx1.streamstorm.to:8005/teuta/teuta/537
+#EXTINF:-1,Hayat Music
+http://ipx1.streamstorm.to:8005/teuta/teuta/1875
+#EXTINF:-1,HRT 1
+http://ipx1.streamstorm.to:8005/teuta/teuta/1263
+#EXTINF:-1,HRT 2
+http://ipx1.streamstorm.to:8005/teuta/teuta/1262
+#EXTINF:-1,HRT 3
+http://ipx1.streamstorm.to:8005/teuta/teuta/1261
+#EXTINF:-1,HRT 4
+http://ipx1.streamstorm.to:8005/teuta/teuta/1260
+#EXTINF:-1,ISLAM CHANNEL ENG
+http://ipx1.streamstorm.to:8005/teuta/teuta/672
+#EXTINF:-1,Kanal Turk
+http://ipx1.streamstorm.to:8005/teuta/teuta/451
+#EXTINF:-1,KANALI 7
+http://ipx1.streamstorm.to:8005/teuta/teuta/1244
+#EXTINF:-1,KCN
+http://ipx1.streamstorm.to:8005/teuta/teuta/1872
+#EXTINF:-1,KIKA HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1799
+#EXTINF:-1,Rai 4
+http://ipx1.streamstorm.to:8005/teuta/teuta/1868
+#EXTINF:-1,Rai News 24
+http://ipx1.streamstorm.to:8005/teuta/teuta/1867
+#EXTINF:-1,RTL DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1808
+#EXTINF:-1,RTL LIVE (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1289
+#EXTINF:-1,Sky Sport News DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1237
+#EXTINF:-1,SRF 1 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1814
+#EXTINF:-1,Tagesschau 24 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1819
+#EXTINF:-1,TLC HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1820
+#EXTINF:-1,VOX CH
+http://ipx1.streamstorm.to:8005/teuta/teuta/1877
+#EXTINF:-1,VOX HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1822
+#EXTINF:-1,ZDF Info
+http://ipx1.streamstorm.to:8005/teuta/teuta/1749
+#EXTINF:-1,ZDF Neo
+http://ipx1.streamstorm.to:8005/teuta/teuta/1871
+#EXTINF:-1,Zee One
+http://ipx1.streamstorm.to:8005/teuta/teuta/1583
