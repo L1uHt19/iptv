@@ -1,0 +1,684 @@
+#EXTM3U
+
+#EXTM3U
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,top channel
+http://163.172.35.210:8000/live/Falas/Tv/498.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KLAN PLUS
+http://163.172.35.210:8000/live/Falas/Tv/497.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Klan Kosova
+http://163.172.35.210:8000/live/Falas/Tv/499.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,klan HD
+http://163.172.35.210:8000/live/Falas/Tv/496.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 2
+http://163.172.35.210:8000/live/Falas/Tv/458.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 3
+http://163.172.35.210:8000/live/Falas/Tv/457.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 1
+http://163.172.35.210:8000/live/Falas/Tv/456.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Gangu
+http://163.172.35.210:8000/live/Falas/Tv/453.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB THRILLER
+http://163.172.35.210:8000/live/Falas/Tv/38.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB aksion
+http://163.172.35.210:8000/live/Falas/Tv/49.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB KOMEDI
+http://163.172.35.210:8000/live/Falas/Tv/41.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB T&J
+http://163.172.35.210:8000/live/Falas/Tv/107.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Aksion
+http://163.172.35.210:8000/live/Falas/Tv/15.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Cinema
+http://163.172.35.210:8000/live/Falas/Tv/14.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Fantasy HD
+http://163.172.35.210:8000/live/Falas/Tv/13.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Film HD
+http://163.172.35.210:8000/live/Falas/Tv/12.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,SHQIPTV Hindi HD
+http://163.172.35.210:8000/live/Falas/Tv/11.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Horror HD
+http://163.172.35.210:8000/live/Falas/Tv/10.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Komedi HD
+http://163.172.35.210:8000/live/Falas/Tv/9.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Tom & Jerry
+http://163.172.35.210:8000/live/Falas/Tv/7.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Western HD
+http://163.172.35.210:8000/live/Falas/Tv/6.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Kujtesa sport 1
+http://163.172.35.210:8000/live/Falas/Tv/254.ts
+
+EXTINF:-1,ShqipTV Tom & Jerry
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/7.ts
+#EXTINF:-1,ShqipTv Horror HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/10.ts
+#EXTINF:-1,SHQIPTV Hindi HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/11.ts
+#EXTINF:-1,ShqipTV Cinema
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/14.ts
+#EXTINF:-1,ShqipTv Aksion
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/15.ts
+#EXTINF:-1,ShqipTv Western HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/6.ts
+#EXTINF:-1,ShqipTv Komedi HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/9.ts
+#EXTINF:-1,ShqipTV Film HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/12.ts
+#EXTINF:-1,ShqipTv Fantasy HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/13.ts
+#EXTM3U
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KS HORROR
+http://163.172.35.210:8000/live/Falas/Tv/474.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KS GOLD 4
+http://163.172.35.210:8000/live/Falas/Tv/472.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KS GOLD 3
+http://163.172.35.210:8000/live/Falas/Tv/471.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KS GOLD 2
+http://163.172.35.210:8000/live/Falas/Tv/473.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KS GOLD 1
+http://163.172.35.210:8000/live/Falas/Tv/470.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ART KINO 3
+http://163.172.35.210:8000/live/Falas/Tv/469.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ART KINO 2
+http://163.172.35.210:8000/live/Falas/Tv/468.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ART KINO 1
+http://163.172.35.210:8000/live/Falas/Tv/467.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KS PRENK
+http://163.172.35.210:8000/live/Falas/Tv/465.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KS KOMEDI
+http://163.172.35.210:8000/live/Falas/Tv/461.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KS HUMOR
+http://163.172.35.210:8000/live/Falas/Tv/464.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KS FESTA
+http://163.172.35.210:8000/live/Falas/Tv/463.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KS EPIC
+http://163.172.35.210:8000/live/Falas/Tv/462.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,KS AKSION
+http://163.172.35.210:8000/live/Falas/Tv/460.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ENGJELI
+http://163.172.35.210:8000/live/Falas/Tv/466.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,super sport 6
+http://163.172.35.210:8000/live/Falas/Tv/459.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 2
+http://163.172.35.210:8000/live/Falas/Tv/458.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 3
+http://163.172.35.210:8000/live/Falas/Tv/457.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 1
+http://163.172.35.210:8000/live/Falas/Tv/456.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Gangu
+http://163.172.35.210:8000/live/Falas/Tv/453.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 3
+http://163.172.35.210:8000/live/Falas/Tv/452.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 1
+http://163.172.35.210:8000/live/Falas/Tv/451.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 2
+http://163.172.35.210:8000/live/Falas/Tv/450.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,TS1
+http://163.172.35.210:8000/live/Falas/Tv/449.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB THRILLER
+http://163.172.35.210:8000/live/Falas/Tv/38.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB aksion
+http://163.172.35.210:8000/live/Falas/Tv/49.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB KOMEDI
+http://163.172.35.210:8000/live/Falas/Tv/41.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB T&J
+http://163.172.35.210:8000/live/Falas/Tv/107.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Aksion
+http://163.172.35.210:8000/live/Falas/Tv/15.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Cinema
+http://163.172.35.210:8000/live/Falas/Tv/14.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Fantasy HD
+http://163.172.35.210:8000/live/Falas/Tv/13.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Film HD
+http://163.172.35.210:8000/live/Falas/Tv/12.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,SHQIPTV Hindi HD
+http://163.172.35.210:8000/live/Falas/Tv/11.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Horror HD
+http://163.172.35.210:8000/live/Falas/Tv/10.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Komedi HD
+http://163.172.35.210:8000/live/Falas/Tv/9.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Tom & Jerry
+http://163.172.35.210:8000/live/Falas/Tv/7.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Western HD
+http://163.172.35.210:8000/live/Falas/Tv/6.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Kujtesa sport 1
+http://163.172.35.210:8000/live/Falas/Tv/254.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Kujtesa sport 2
+http://163.172.35.210:8000/live/Falas/Tv/255.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super Sport  1
+http://163.172.35.210:8000/live/Falas/Tv/415.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super Sport 2
+http://163.172.35.210:8000/live/Falas/Tv/416.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super Sport 3
+http://163.172.35.210:8000/live/Falas/Tv/417.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super Sport 4
+http://163.172.35.210:8000/live/Falas/Tv/418.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super Sport 5
+http://163.172.35.210:8000/live/Falas/Tv/419.ts
+EXTM3U
+#EXTINF:-1,RTK-sat
+http://ipx1.streamstorm.to:8005/teuta/teuta/1614
+#EXTINF:-1,RTK 1
+http://ipx1.streamstorm.to:8005/teuta/teuta/260
+#EXTINF:-1,RTK 2
+http://ipx1.streamstorm.to:8005/teuta/teuta/1315
+#EXTINF:-1,RTK 3
+http://ipx1.streamstorm.to:8005/teuta/teuta/1314
+#EXTINF:-1,RTK 4
+http://ipx1.streamstorm.to:8005/teuta/teuta/1313
+#EXTINF:-1,KTV KOHAVISION
+http://ipx1.streamstorm.to:8005/teuta/teuta/258
+#EXTINF:-1,RTV 21 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/266
+#EXTINF:-1,KLAN KOSOVA HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/627
+#EXTINF:-1,T7
+http://ipx1.streamstorm.to:8005/teuta/teuta/1823
+#EXTINF:-1,TV Dukagjini
+http://ipx1.streamstorm.to:8005/teuta/teuta/1385
+#EXTINF:-1,rrokum
+http://ipx1.streamstorm.to:8005/teuta/teuta/554
+#EXTINF:-1,ALSAT M
+http://ipx1.streamstorm.to:8005/teuta/teuta/256
+#EXTINF:-1,RTV 21 POPULLORE
+http://ipx1.streamstorm.to:8005/teuta/teuta/374
+#EXTINF:-1,Tema TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1751
+#EXTINF:-1,TVSH
+http://ipx1.streamstorm.to:8005/teuta/teuta/261
+#EXTINF:-1,TV ERA
+http://ipx1.streamstorm.to:8005/teuta/teuta/377
+#EXTINF:-1,TV Llapi
+http://ipx1.streamstorm.to:8005/teuta/teuta/1788
+#EXTINF:-1,TV MITROVICA
+http://ipx1.streamstorm.to:8005/teuta/teuta/1242
+#EXTINF:-1,TV Opoja
+http://ipx1.streamstorm.to:8005/teuta/teuta/1249
+#EXTINF:-1,FOLK +
+http://ipx1.streamstorm.to:8005/teuta/teuta/376
+#EXTINF:-1,DASMA TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/370
+#EXTINF:-1,RTV 21 JUNIOR
+http://ipx1.streamstorm.to:8005/teuta/teuta/375
+#EXTINF:-1,RTV 21 MAQEDONIA
+http://ipx1.streamstorm.to:8005/teuta/teuta/369
+#EXTINF:-1,RTV 21 Plus
+http://ipx1.streamstorm.to:8005/teuta/teuta/1247
+#EXTINF:-1,Spin TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1618
+#EXTINF:-1,ABC News
+http://ipx1.streamstorm.to:8005/teuta/teuta/509
+#EXTINF:-1,BBF MUSIC
+http://ipx1.streamstorm.to:8005/teuta/teuta/373
+#EXTINF:-1,Fax News
+http://ipx1.streamstorm.to:8005/teuta/teuta/1742
+#EXTINF:-1,Click TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1741
+#EXTINF:-1,FIRST 1
+http://ipx1.streamstorm.to:8005/teuta/teuta/267
+#EXTINF:-1,Muse
+http://ipx1.streamstorm.to:8005/teuta/teuta/1730
+#EXTINF:-1,News 24 (AL)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1656
+#EXTINF:-1,Peace TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1373
+#EXTINF:-1,TOP NEWS
+http://ipx1.streamstorm.to:8005/teuta/teuta/372
+#EXTINF:-1,TRING 3 PLUS
+http://ipx1.streamstorm.to:8005/teuta/teuta/1058
+#EXTINF:-1,Tring Action
+http://ipx1.streamstorm.to:8005/teuta/teuta/1733
+#EXTINF:-1,TRING COMEDY
+http://ipx1.streamstorm.to:8005/teuta/teuta/441
+#EXTINF:-1,TRING FANTASY
+http://ipx1.streamstorm.to:8005/teuta/teuta/505
+#EXTINF:-1,Tring Festa
+http://ipx1.streamstorm.to:8005/teuta/teuta/1747
+#EXTINF:-1,Tring FOX
+http://ipx1.streamstorm.to:8005/teuta/teuta/1753
+#EXTINF:-1,TRING HISTORY
+http://ipx1.streamstorm.to:8005/teuta/teuta/506
+#EXTINF:-1,Tring International
+http://ipx1.streamstorm.to:8005/teuta/teuta/1748
+#EXTINF:-1,TRING JOLLY
+http://ipx1.streamstorm.to:8005/teuta/teuta/379
+#EXTINF:-1,Tring Kids
+http://ipx1.streamstorm.to:8005/teuta/teuta/1754
+#EXTINF:-1,TRING LIFE
+http://ipx1.streamstorm.to:8005/teuta/teuta/444
+#EXTINF:-1,TRING LIVING HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/446
+#EXTINF:-1,TRING PLANET
+http://ipx1.streamstorm.to:8005/teuta/teuta/507
+#EXTINF:-1,TRING SHQIP
+http://ipx1.streamstorm.to:8005/teuta/teuta/508
+#EXTINF:-1,TRING SMILE
+http://ipx1.streamstorm.to:8005/teuta/teuta/447
+#EXTINF:-1,TRING SPORT 1 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1011
+#EXTINF:-1,TRING SPORT 2 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1093
+#EXTINF:-1,TRING SPORT 3 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1094
+#EXTINF:-1,TRING SPORT 4 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1095
+#EXTINF:-1,TRING SPORT NEWS
+http://ipx1.streamstorm.to:8005/teuta/teuta/1224
+#EXTINF:-1,TRING SUPER
+http://ipx1.streamstorm.to:8005/teuta/teuta/442
+#EXTINF:-1,TRING TRING
+http://ipx1.streamstorm.to:8005/teuta/teuta/445
+#EXTINF:-1,TRING WORLD
+http://ipx1.streamstorm.to:8005/teuta/teuta/448
+#EXTINF:-1,VIZION PLUS
+http://ipx1.streamstorm.to:8005/teuta/teuta/371
+#EXTINF:-1,SRF 1 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1456
+#EXTINF:-1,SRF 2 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1815
+#EXTINF:-1,SRF Info
+http://ipx1.streamstorm.to:8005/teuta/teuta/1582
+#EXTINF:-1,3+ Schweiz
+http://ipx1.streamstorm.to:8005/teuta/teuta/1633
+#EXTINF:-1,4 Plus
+http://ipx1.streamstorm.to:8005/teuta/teuta/1590
+#EXTINF:-1,5+ Schweiz HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1849
+#EXTINF:-1,ORF 1
+http://ipx1.streamstorm.to:8005/teuta/teuta/1585
+#EXTINF:-1,ORF 2
+http://ipx1.streamstorm.to:8005/teuta/teuta/1586
+#EXTINF:-1,MTV CH
+http://ipx1.streamstorm.to:8005/teuta/teuta/1850
+#EXTINF:-1,Telebasel
+http://ipx1.streamstorm.to:8005/teuta/teuta/1851
+#EXTINF:-1,Telebaern
+http://ipx1.streamstorm.to:8005/teuta/teuta/1852
+#EXTINF:-1,TeleZüri
+http://ipx1.streamstorm.to:8005/teuta/teuta/1853
+#EXTINF:-1,TVO
+http://ipx1.streamstorm.to:8005/teuta/teuta/1854
+#EXTINF:-1,RTL (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1279
+#EXTINF:-1,RTL 2 (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1290
+#EXTINF:-1,RTL Nitro HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1810
+#EXTINF:-1,Super RTL (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1272
+#EXTINF:-1,RTL Plus
+http://ipx1.streamstorm.to:8005/teuta/teuta/1855
+#EXTINF:-1,Toggo Plus
+http://ipx1.streamstorm.to:8005/teuta/teuta/1587
+#EXTINF:-1,PRO 7 (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1291
+#EXTINF:-1,Pro 7 Maxx
+http://ipx1.streamstorm.to:8005/teuta/teuta/1856
+#EXTINF:-1,SAT.1 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1812
+#EXTINF:-1,Sat.1 Gold
+http://ipx1.streamstorm.to:8005/teuta/teuta/1857
+#EXTINF:-1,VOX (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1285
+#EXTINF:-1,Kabel Eins (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1292
+#EXTINF:-1,Kabel Eins Doku HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1797
+#EXTINF:-1,DMAX (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1282
+#EXTINF:-1,Disney Junior HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1792
+#EXTINF:-1,Nikeleodeon
+http://ipx1.streamstorm.to:8005/teuta/teuta/1312
+#EXTINF:-1,KIKA (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1281
+#EXTINF:-1,3Sat DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1589
+#EXTINF:-1,ZDF (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1271
+#EXTINF:-1,DAS Erste (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1284
+#EXTINF:-1,Ran1
+http://ipx1.streamstorm.to:8005/teuta/teuta/1858
+#EXTINF:-1,Phoenix DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1859
+#EXTINF:-1,N24 (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1280
+#EXTINF:-1,N-tv
+http://ipx1.streamstorm.to:8005/teuta/teuta/1588
+#EXTINF:-1,WDR
+http://ipx1.streamstorm.to:8005/teuta/teuta/1860
+#EXTINF:-1,Arte HD DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1529
+#EXTINF:-1,TRT Cocuk (TR)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1298
+#EXTINF:-1,Rai 1
+http://ipx1.streamstorm.to:8005/teuta/teuta/1779
+#EXTINF:-1,Rai 2
+http://ipx1.streamstorm.to:8005/teuta/teuta/1780
+#EXTINF:-1,Rai 3
+http://ipx1.streamstorm.to:8005/teuta/teuta/1781
+#EXTINF:-1,RTS1
+http://ipx1.streamstorm.to:8005/teuta/teuta/477
+#EXTINF:-1,RTS 2
+http://ipx1.streamstorm.to:8005/teuta/teuta/476
+#EXTINF:-1,RTCG
+http://ipx1.streamstorm.to:8005/teuta/teuta/1616
+#EXTINF:-1,Rtv Crne Gore
+http://ipx1.streamstorm.to:8005/teuta/teuta/1695
+#EXTINF:-1,B92
+http://ipx1.streamstorm.to:8005/teuta/teuta/591
+#EXTINF:-1,Al Jazeera
+http://ipx1.streamstorm.to:8005/teuta/teuta/1648
+#EXTINF:-1,Al Jazeera Balkans
+http://ipx1.streamstorm.to:8005/teuta/teuta/1592
+#EXTINF:-1,Al Jazeera Documentary
+http://ipx1.streamstorm.to:8005/teuta/teuta/1876
+#EXTINF:-1,Aljazeera Doc
+http://ipx1.streamstorm.to:8005/teuta/teuta/1393
+#EXTINF:-1,Aljazeera Documentary TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1394
+#EXTINF:-1,ANIXE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1863
+#EXTINF:-1,Aurora TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/1862
+#EXTINF:-1,Balkan TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/685
+#EXTINF:-1,BBC News
+http://ipx1.streamstorm.to:8005/teuta/teuta/1869
+#EXTINF:-1,BN Music
+http://ipx1.streamstorm.to:8005/teuta/teuta/723
+#EXTINF:-1,CGTN
+http://ipx1.streamstorm.to:8005/teuta/teuta/1861
+#EXTINF:-1,CNN (USA)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1870
+#EXTINF:-1,Doma TV
+http://ipx1.streamstorm.to:8005/teuta/teuta/479
+#EXTINF:-1,Euro News
+http://ipx1.streamstorm.to:8005/teuta/teuta/1653
+#EXTINF:-1,EuroNews DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1873
+#EXTINF:-1,Family TV DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1874
+#EXTINF:-1,France 24
+http://ipx1.streamstorm.to:8005/teuta/teuta/1649
+#EXTINF:-1,Hayat Folk SR
+http://ipx1.streamstorm.to:8005/teuta/teuta/537
+#EXTINF:-1,Hayat Music
+http://ipx1.streamstorm.to:8005/teuta/teuta/1875
+#EXTINF:-1,HRT 1
+http://ipx1.streamstorm.to:8005/teuta/teuta/1263
+#EXTINF:-1,HRT 2
+http://ipx1.streamstorm.to:8005/teuta/teuta/1262
+#EXTINF:-1,HRT 3
+http://ipx1.streamstorm.to:8005/teuta/teuta/1261
+#EXTINF:-1,HRT 4
+http://ipx1.streamstorm.to:8005/teuta/teuta/1260
+#EXTINF:-1,ISLAM CHANNEL ENG
+http://ipx1.streamstorm.to:8005/teuta/teuta/672
+#EXTINF:-1,Kanal Turk
+http://ipx1.streamstorm.to:8005/teuta/teuta/451
+#EXTINF:-1,KANALI 7
+http://ipx1.streamstorm.to:8005/teuta/teuta/1244
+#EXTINF:-1,KCN
+http://ipx1.streamstorm.to:8005/teuta/teuta/1872
+#EXTINF:-1,KIKA HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1799
+#EXTINF:-1,Rai 4
+http://ipx1.streamstorm.to:8005/teuta/teuta/1868
+#EXTINF:-1,Rai News 24
+http://ipx1.streamstorm.to:8005/teuta/teuta/1867
+#EXTINF:-1,RTL DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1808
+#EXTINF:-1,RTL LIVE (DE)
+http://ipx1.streamstorm.to:8005/teuta/teuta/1289
+#EXTINF:-1,Sky Sport News DE
+http://ipx1.streamstorm.to:8005/teuta/teuta/1237
+#EXTINF:-1,SRF 1 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1814
+#EXTINF:-1,Tagesschau 24 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1819
+#EXTINF:-1,TLC HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1820
+#EXTINF:-1,VOX CH
+http://ipx1.streamstorm.to:8005/teuta/teuta/1877
+#EXTINF:-1,VOX HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1822
+#EXTINF:-1,ZDF Info
+http://ipx1.streamstorm.to:8005/teuta/teuta/1749
+#EXTINF:-1,ZDF Neo
+http://ipx1.streamstorm.to:8005/teuta/teuta/1871
+#EXTINF:-1,Zee One
+http://ipx1.streamstorm.to:8005/teuta/teuta/1583
+
+
+
+#EXTINF:-1,OBN
+http://85.0.26.89:3000/play/xxOBNxx
+#EXTINF:-1,RTRS plus
+http://85.0.26.89:3000/play/xxRTRSPLUSxx
+#EXTINF:-1,Sky Cinema Hits
+http://85.0.26.89:3000/play/xxcSkyHitscxx
+#EXTINF:-1,YU Planet
+http://85.0.26.89:3000/play/xxYUPlanetxx
+#EXTINF:-1,SIXX
+http://85.0.26.89:3000/play/xxSIXXxx
+#EXTINF:-1,Sky Sport 2
+http://85.0.26.89:3000/play/xxcSkySport2cxx
+#EXTINF:-1,Sky Sport Bundesliga 4
+http://85.0.26.89:3000/play/xxcSkyLiga4cxx
+#EXTINF:-1,EWTN katholisches TV
+http://85.0.26.89:3000/play/xxEWTNkatholischesTVxx
+#EXTINF:-1,Sky Sport Bundesliga 3
+http://85.0.26.89:3000/play/xxcSkyLiga3cxx
+#EXTINF:-1,N24 DOKU
+http://85.0.26.89:3000/play/xxN24DOKUxx
+#EXTINF:-1,Disney Channel
+http://85.0.26.89:3000/play/xxDisneyChannelxx
+#EXTINF:-1,Sky Cinema Family HD
+http://85.0.26.89:3000/play/xxcSkyFamilycxx
+#EXTINF:-1,CGTN F
+http://85.0.26.89:3000/play/a045
+#EXTINF:-1,TV5MONDE EUROPE
+http://85.0.26.89:3000/play/xxTV5MONDEEUROPExx
+#EXTINF:-1,RTK-1 SAT KOSOVO
+http://85.0.26.89:3000/play/xxRTK1SATKOSOVOxx
+#EXTINF:-1,QVC Style
+http://85.0.26.89:3000/play/xxQVCStylexx
+#EXTINF:-1,Russia Today
+http://85.0.26.89:3000/play/xxRussiaTodayxx
+#EXTINF:-1,Aurora TV
+http://85.0.26.89:3000/play/xxAuroraTVxx
+#EXTINF:-1,BCTV Europe
+http://85.0.26.89:3000/play/SSBCTVEUROPESS
+#EXTINF:-1,France 24 (en Français)
+http://85.0.26.89:3000/play/xxFRANCE24frxx
+#EXTINF:-1,TLC
+http://85.0.26.89:3000/play/xxTLCxx
+#EXTINF:-1,CGTN Documentary
+http://85.0.26.89:3000/play/xxCGTNDocumentaryxx
+#EXTINF:-1,BN Music
+http://85.0.26.89:3000/play/xxBNMUSICxx
+#EXTINF:-1,France 24 (in Arabic)
+http://85.0.26.89:3000/play/xxFrance24arxx
+#EXTINF:-1,TRT World HD
+http://85.0.26.89:3000/play/xxTRTWorldHDxx
+#EXTINF:-1,HAYAT FOLK
+http://85.0.26.89:3000/play/xxHAYATFOLKxx
+#EXTINF:-1,CGTN
+http://85.0.26.89:3000/play/xxCGTNxx
+#EXTINF:-1,Service IPKO A03
+http://85.0.26.89:3000/play/a03u
+#EXTINF:-1,RTRS RRS
+http://85.0.26.89:3000/play/xxRTRSRRSxx
+#EXTINF:-1,France 24 (in English)
+http://85.0.26.89:3000/play/xxFrance24enxx
+#EXTINF:-1,HAYAT MUSIC
+http://85.0.26.89:3000/play/xxHAYATMUSICxx
+#EXTINF:-1,ANIXE SD
+http://85.0.26.89:3000/play/xxANIXESDxx
+#EXTINF:-1,PRO TV Int
+http://85.0.26.89:3000/play/xxPROTVIntxx
+#EXTINF:-1,Top News
+http://85.0.26.89:3000/play/xxTOPNEWSxx
+#EXTINF:-1,BCTV Europe
+http://85.0.26.89:3000/play/xxBCTVEuropexx
+#EXTM3U
+#EXTINF:-1,BHT HD – BHT HD
+http://s03.bihnet.net:80/live?channelId=172&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,TV SARAJEVO – TV SARAJEVO
+http://s03.bihnet.net:80/live?channelId=144&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,TV Zenica – TV Zenica
+http://s03.bihnet.net:80/live?channelId=235&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,USK – USK
+http://s03.bihnet.net:80/live?channelId=143&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,Novi Pazar – Novi Pazar
+http://s03.bihnet.net:80/live?channelId=236&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SANDZAK TV – SANDZAK TV
+http://s03.bihnet.net:80/live?channelId=62&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,RTL TELEVIZIJA – RTL TELEVIZIJA
+http://s03.bihnet.net:80/live?channelId=3&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NOVA TV – NOVA TV
+http://s03.bihnet.net:80/live?channelId=4&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,Z1 – Z1
+http://s03.bihnet.net:80/live?channelId=370&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,OSJECKA TV – OSJECKA TV
+http://s03.bihnet.net:80/live?channelId=170&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,GLAS DRINE – GLAS DRINE
+http://s03.bihnet.net:80/live?channelId=262&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,RTV CG – RTV CG
+http://s03.bihnet.net:80/live?channelId=263&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,N1 BiH – N1 BiH
+http://s03.bihnet.net:80/live?channelId=66&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,24 KITCHEN – 24 KITCHEN
+http://s03.bihnet.net:80/live?channelId=164&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,PINK PLUS – PINK PLUS
+http://s03.bihnet.net:80/live?channelId=204&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,GRAND 2 – GRAND 2
+http://s03.bihnet.net:80/live?channelId=25&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,B1 TEST – B1 TEST
+http://s03.bihnet.net:80/live?channelId=36&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – FILM DY – AL – FILM DY
+http://s03.bihnet.net:80/live?channelId=91&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – FILM HITS – AL – FILM HITS
+http://s03.bihnet.net:80/live?channelId=92&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – KTV KOHAVIZION – AL – KTV KOHAVIZION
+http://s03.bihnet.net:80/live?channelId=192&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – TRING – AL – TRING
+http://s03.bihnet.net:80/live?channelId=195&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – TRING PLANET – AL – TRING PLANET
+http://s03.bihnet.net:80/live?channelId=199&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – SUPER SPORT 1 – AL – SUPER SPORT 1
+http://s03.bihnet.net:80/live?channelId=85&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – SUPER SPORT 3 – AL – SUPER SPORT 3
+http://s03.bihnet.net:80/live?channelId=87&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – SUPER SPORT 4 – AL – SUPER SPORT 4
+http://s03.bihnet.net:80/live?channelId=88&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,ARENA SPORT 3 SR – ARENA SPORT 3 SR
+http://s03.bihnet.net:80/live?channelId=44&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 3 HR – SPORT KLUB 3 HR
+http://s03.bihnet.net:80/live?channelId=148&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 2 – SPORT KLUB 2
+http://s03.bihnet.net:80/live?channelId=48&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 3 – SPORT KLUB 3
+http://s03.bihnet.net:80/live?channelId=49&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 1 – UK – SPORT 1
+http://s03.bihnet.net:80/live?channelId=96&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 2 – UK – SPORT 2
+http://s03.bihnet.net:80/live?channelId=97&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 4 – UK – SPORT 4
+http://s03.bihnet.net:80/live?channelId=99&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 5 – UK – SPORT 5
+http://s03.bihnet.net:80/live?channelId=100&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – Sport News – DE – Sport News
+http://s03.bihnet.net:80/live?channelId=249&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – Germany History – DE – Germany History
+http://s03.bihnet.net:80/live?channelId=205&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – Krimi – DE – Krimi
+http://s03.bihnet.net:80/live?channelId=105&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – ARD – DE – ARD
+http://s03.bihnet.net:80/live?channelId=130&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Comedy HD – IT – Comedy HD
+http://s03.bihnet.net:80/live?channelId=213&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Emotion – IT – Premium Emotion
+http://s03.bihnet.net:80/live?channelId=219&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Action HD – IT – Premium Action HD
+http://s03.bihnet.net:80/live?channelId=220&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Stories – IT – Premium Stories
+http://s03.bihnet.net:80/live?channelId=247&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Joi – IT – Premium Joi
+http://s03.bihnet.net:80/live?channelId=248&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 1 Eredivisie HD – NL – Fox Sports 1 Eredivisie HD
+http://s03.bihnet.net:80/live?channelId=257&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 3 Eredivisie – NL – Fox Sports 3 Eredivisie
+http://s03.bihnet.net:80/live?channelId=259&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 5 Eredivisie – NL – Fox Sports 5 Eredivisie
+http://s03.bihnet.net:80/live?channelId=260&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 1 – NL – Fox Sports 1
+http://s03.bihnet.net:80/live?channelId=261&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,WOMAN – WOMAN
+http://s03.bihnet.net:80/live?channelId=229&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
