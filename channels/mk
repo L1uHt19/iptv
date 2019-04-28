@@ -1,0 +1,205 @@
+#EXTINF:-1,tvg-ID="SITEL MK" tvg-name="SITEL Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg" group-title="MAKEDONA",SITEL Full HD
+http://195.181.169.152:8080/MACEDONIA/SITEL_HD/index.m3u8
+#EXTINF:-1,tvg-ID="KANAL5 MK" tvg-name="KANAL 5 Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal5_ua.jpg" group-title="MAKEDONA",KANAL5 Full HD
+http://195.181.169.152:8080/MACEDONIA/KANAL_5/index.m3u8
+#EXTINF:-1,tvg-ID="ALFA TV MK" tvg-name="ALFA TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/alfa.png" group-title="MAKEDONA",ALFA  TV Full HD
+http://195.181.169.152:8080/MACEDONIA/ALFA_HD/index.m3u8
+#EXTINF:-1,tvg-ID="TELMA TV MK" tvg-name="TELMA TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/telma.png" group-title="MAKEDONA",TELMA  TV Full HD
+http://195.181.169.152:8080/MACEDONIA/TELMA_HD/index.m3u8
+#EXTINF:-1,DSTV
+
+rtmp://46.249.95.140:1935/live/livestream
+
+#EXTINF:-1,Folk TV Makedonia
+
+http://51.254.45.61:8080/hls/folkmk2.m3u8
+
+#EXTINF:-1,Sky Folk TV
+
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1,Folk Musik TV
+
+https://live.muzickatv.mk/hls/Starmusic.m3u8
+#EXTINF:-1,Duga Plus TV
+
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTM3U x-tvg-url="http://epg.serbianforum.org/epg.xml.gz"
+
+#EXTINF:-1,***** MACEDONIAN TV **** (MK)
+http://satellitefree.altervista.org/iptv_naste.mp4
+#EXTINF:-1,SITEL TV|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+#EXTINF:-1,KNAL 5|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_MK)/index.m3u8
+#EXTINF:-1,TELMA|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+#EXTINF:-1,ALSAT M|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1,ALFA|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
+#EXTINF:-1,MRT1|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+#EXTINF:-1,24 VESTI|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(24_Vesti)/index.m3u8
+#EXTINF:-1,TV21|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:-1,TV  SHENJA|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
+#EXTINF:-1,TV NOVA|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Nova_MK)/index.m3u8
+#EXTINF:-1,KANAL 5 PLUS|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_Plus_MK)/index.m3u8
+#EXTINF:-1,MRT2|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+#EXTINF:-1,MTM|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1,NASHA-TV|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
+#EXTINF:-1,SHUTEL|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:-1,SOBRANSKI KAANAL|(MK)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1,ERA|MK
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+#EXTINF:-1,Balkan Music TV (MK)
+http://balkanmusictv.ddns.net/live/stream/index.m3u8
+#EXTINF:-1,Sky Folk TV (MK)
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1,Folk TV (MK)
+http://51.254.45.61:8080/hls/folkmk2.m3u8
+#EXTINF:-1, 1 TV MK  (MK)
+http://82.214.119.226:8000/play/220
+#EXTINF:0,Kanal 1 kumanovo  (MK)
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,IN  TV MACEDONIA
+https://www.youtube.com/embed/Si_QnVqMqF8?autoplay=1
+#EXTINF:-1,tv  Tetova  MACEDONIA
+rtmp://ip.tvtetova.net:5119/live/tvtetova
+
+#EXTINF:-1,Nova TV
+
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
+
+#EXTINF:-1,3ABN Kids
+
+http://moiptvhls-i.akamaihd.net/hls/live/652318/HQs/chunklist.m3u8
+#EXTINF:-1,Boing
+
+http://80.238.134.35:80/boing/index.m3u8
+#EXTINF:-1,BBC
+
+http://185.53.163.214:5678/ipvt_009
+
+#EXTINF:-1,CBeebies
+
+http://80.238.134.35:80/CBeebiesHD/index.m3u8
+
+#EXTINF:-1,Rai Gulp HD
+
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+
+#EXTINF:-1, Rai Yoyo HD
+
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+
+#EXTINF:-1,Rik
+
+http://nn.geo.joj.sk/hls/rik-540.m3u8
+
+#EXTINF:-1,Tooncast
+
+http://video7.stream.mx:1935/raxatv/raxatv/media_w884577146.m3u8
+
+#EXTINF:-1,HBO 2
+
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1,Jewellery Maker
+
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+
+#EXTINF:-1,TLC
+
+http://srv.elitehdbr.vip:8880/tfeira442/SY6AFtPOZu/5907
+
+#EXTINF:-1,Viasat Nature
+
+http://19b91ba6.suklakakl.site/iptv/6D33SUTAR3AWBN/161/index.m3u8
+
+#EXTINF:-1,Wine Channel
+
+http://212.43.97.35:1935/winechannel/winechannel/chunklist_w693696609.m3u8
+
+#EXTINF:-1,TV Partizan HD
+
+http://212.200.102.3:5000/udp/239.99.99.99:23999
+
+#EXTINF:-1,Automoto TV
+
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
+#EXTINF:-1,Viasat Sport
+
+http://a9b0398c.iptvzone.net/iptv/3DKS34WUUQPAX6/160/index.m3u8
+
+#EXTINF:-1,Duga plus TV
+
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+
+#EXTINF:-1,KCN 1
+
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+
+#EXTINF:-1,KCN 2
+
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+
+#EXTINF:-1,KCN 3
+
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+
+#EXTINF:-1,Puls
+
+http://stream.rtvpuls.com/broadcasting
+
+#EXTINF:-1,Studio B
+
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
+
+#EXTINF:-1,YU Planet
+
+http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,FOX
+https://hls.telekabel.com.mk:1936/live/71/2500-def.m3u8
+#EXTINF:-1,cartoonnetwork
+https://hls.telekabel.com.mk:1936/live/81/2500-def.m3u8
+#EXTINF:-1,TV 1000
+https://hls.telekabel.com.mk:1936/live/91/2500-def.m3u8
+#EXTINF:-1,Viasat History
+https://hls.telekabel.com.mk:1936/live/101/2500-def.m3u8
+#EXTINF:-1,Viasat Explore
+https://hls.telekabel.com.mk:1936/live/111/2500-def.m3u8
+#EXTINF:-1,Da vinci
+https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
+#EXTINF:-1,cinemania
+https://hls.telekabel.com.mk:1936/live/131/2500-def.m3u8
+#EXTINF:-1,Eurosport 1
+https://hls.telekabel.com.mk:1936/live/141/2500-def.m3u8
+#EXTINF:-1,Eurosport 2
+https://hls.telekabel.com.mk:1936/live/151/2500-def.m3u8
+#EXTINF:-1,ВИС
+https://hls.telekabel.com.mk:1936/live/161/2500-def.m3u8
+#EXTINF:-1,24ЖИВО
+https://hls.telekabel.com.mk:1936/live/11/2500-def.m3u8
+#EXTINF:-1, sport klub1
+https://hls.telekabel.com.mk:1936/live/21/2500-def.m3u8
+#EXTINF:-1,  sport klub2
+https://hls.telekabel.com.mk:1936/live/31/2500-def.m3u8
+#EXTINF:-1, sport klub 3
+https://hls.telekabel.com.mk:1936/live/41/2500-def.m3u8
+#EXTINF:-1,Telekabel
+https://hls.telekabel.com.mk:1936/live/51/2500-def.m3u8
+#EXTINF:-1,CNN
+https://hls.telekabel.com.mk:1936/live/61/2500-def.m3u8
+
