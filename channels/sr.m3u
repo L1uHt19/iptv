@@ -1,0 +1,166 @@
+#EXTM3U
+#EXTINF:-1,OBN
+http://85.0.26.89:3000/play/xxOBNxx
+#EXTINF:-1,RTRS plus
+http://85.0.26.89:3000/play/xxRTRSPLUSxx
+#EXTINF:-1,Sky Cinema Hits
+http://85.0.26.89:3000/play/xxcSkyHitscxx
+#EXTINF:-1,YU Planet
+http://85.0.26.89:3000/play/xxYUPlanetxx
+#EXTINF:-1,SIXX
+http://85.0.26.89:3000/play/xxSIXXxx
+#EXTINF:-1,Sky Sport 2
+http://85.0.26.89:3000/play/xxcSkySport2cxx
+#EXTINF:-1,Sky Sport Bundesliga 4
+http://85.0.26.89:3000/play/xxcSkyLiga4cxx
+#EXTINF:-1,EWTN katholisches TV
+http://85.0.26.89:3000/play/xxEWTNkatholischesTVxx
+#EXTINF:-1,Sky Sport Bundesliga 3
+http://85.0.26.89:3000/play/xxcSkyLiga3cxx
+#EXTINF:-1,N24 DOKU
+http://85.0.26.89:3000/play/xxN24DOKUxx
+#EXTINF:-1,Disney Channel
+http://85.0.26.89:3000/play/xxDisneyChannelxx
+#EXTINF:-1,Sky Cinema Family HD
+http://85.0.26.89:3000/play/xxcSkyFamilycxx
+#EXTINF:-1,CGTN F
+http://85.0.26.89:3000/play/a045
+#EXTINF:-1,TV5MONDE EUROPE
+http://85.0.26.89:3000/play/xxTV5MONDEEUROPExx
+#EXTINF:-1,RTK-1 SAT KOSOVO
+http://85.0.26.89:3000/play/xxRTK1SATKOSOVOxx
+#EXTINF:-1,QVC Style
+http://85.0.26.89:3000/play/xxQVCStylexx
+#EXTINF:-1,Russia Today
+http://85.0.26.89:3000/play/xxRussiaTodayxx
+#EXTINF:-1,Aurora TV
+http://85.0.26.89:3000/play/xxAuroraTVxx
+#EXTINF:-1,BCTV Europe
+http://85.0.26.89:3000/play/SSBCTVEUROPESS
+#EXTINF:-1,France 24 (en Français)
+http://85.0.26.89:3000/play/xxFRANCE24frxx
+#EXTINF:-1,TLC
+http://85.0.26.89:3000/play/xxTLCxx
+#EXTINF:-1,CGTN Documentary
+http://85.0.26.89:3000/play/xxCGTNDocumentaryxx
+#EXTINF:-1,BN Music
+http://85.0.26.89:3000/play/xxBNMUSICxx
+#EXTINF:-1,France 24 (in Arabic)
+http://85.0.26.89:3000/play/xxFrance24arxx
+#EXTINF:-1,TRT World HD
+http://85.0.26.89:3000/play/xxTRTWorldHDxx
+#EXTINF:-1,HAYAT FOLK
+http://85.0.26.89:3000/play/xxHAYATFOLKxx
+#EXTINF:-1,CGTN
+http://85.0.26.89:3000/play/xxCGTNxx
+#EXTINF:-1,Service IPKO A03
+http://85.0.26.89:3000/play/a03u
+#EXTINF:-1,RTRS RRS
+http://85.0.26.89:3000/play/xxRTRSRRSxx
+#EXTINF:-1,France 24 (in English)
+http://85.0.26.89:3000/play/xxFrance24enxx
+#EXTINF:-1,HAYAT MUSIC
+http://85.0.26.89:3000/play/xxHAYATMUSICxx
+#EXTINF:-1,ANIXE SD
+http://85.0.26.89:3000/play/xxANIXESDxx
+#EXTINF:-1,PRO TV Int
+http://85.0.26.89:3000/play/xxPROTVIntxx
+#EXTINF:-1,Top News
+http://85.0.26.89:3000/play/xxTOPNEWSxx
+#EXTINF:-1,BCTV Europe
+http://85.0.26.89:3000/play/xxBCTVEuropexx
+#EXTM3U
+#EXTINF:-1,BHT HD – BHT HD
+http://s03.bihnet.net:80/live?channelId=172&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,TV SARAJEVO – TV SARAJEVO
+http://s03.bihnet.net:80/live?channelId=144&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,TV Zenica – TV Zenica
+http://s03.bihnet.net:80/live?channelId=235&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,USK – USK
+http://s03.bihnet.net:80/live?channelId=143&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,Novi Pazar – Novi Pazar
+http://s03.bihnet.net:80/live?channelId=236&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SANDZAK TV – SANDZAK TV
+http://s03.bihnet.net:80/live?channelId=62&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,RTL TELEVIZIJA – RTL TELEVIZIJA
+http://s03.bihnet.net:80/live?channelId=3&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NOVA TV – NOVA TV
+http://s03.bihnet.net:80/live?channelId=4&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,Z1 – Z1
+http://s03.bihnet.net:80/live?channelId=370&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,OSJECKA TV – OSJECKA TV
+http://s03.bihnet.net:80/live?channelId=170&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,GLAS DRINE – GLAS DRINE
+http://s03.bihnet.net:80/live?channelId=262&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,RTV CG – RTV CG
+http://s03.bihnet.net:80/live?channelId=263&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,N1 BiH – N1 BiH
+http://s03.bihnet.net:80/live?channelId=66&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,24 KITCHEN – 24 KITCHEN
+http://s03.bihnet.net:80/live?channelId=164&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,PINK PLUS – PINK PLUS
+http://s03.bihnet.net:80/live?channelId=204&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,GRAND 2 – GRAND 2
+http://s03.bihnet.net:80/live?channelId=25&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,B1 TEST – B1 TEST
+http://s03.bihnet.net:80/live?channelId=36&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – FILM DY – AL – FILM DY
+http://s03.bihnet.net:80/live?channelId=91&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – FILM HITS – AL – FILM HITS
+http://s03.bihnet.net:80/live?channelId=92&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – KTV KOHAVIZION – AL – KTV KOHAVIZION
+http://s03.bihnet.net:80/live?channelId=192&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – TRING – AL – TRING
+http://s03.bihnet.net:80/live?channelId=195&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – TRING PLANET – AL – TRING PLANET
+http://s03.bihnet.net:80/live?channelId=199&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – SUPER SPORT 1 – AL – SUPER SPORT 1
+http://s03.bihnet.net:80/live?channelId=85&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – SUPER SPORT 3 – AL – SUPER SPORT 3
+http://s03.bihnet.net:80/live?channelId=87&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – SUPER SPORT 4 – AL – SUPER SPORT 4
+http://s03.bihnet.net:80/live?channelId=88&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,ARENA SPORT 3 SR – ARENA SPORT 3 SR
+http://s03.bihnet.net:80/live?channelId=44&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 3 HR – SPORT KLUB 3 HR
+http://s03.bihnet.net:80/live?channelId=148&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 2 – SPORT KLUB 2
+http://s03.bihnet.net:80/live?channelId=48&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 3 – SPORT KLUB 3
+http://s03.bihnet.net:80/live?channelId=49&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 1 – UK – SPORT 1
+http://s03.bihnet.net:80/live?channelId=96&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 2 – UK – SPORT 2
+http://s03.bihnet.net:80/live?channelId=97&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 4 – UK – SPORT 4
+http://s03.bihnet.net:80/live?channelId=99&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 5 – UK – SPORT 5
+http://s03.bihnet.net:80/live?channelId=100&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – Sport News – DE – Sport News
+http://s03.bihnet.net:80/live?channelId=249&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – Germany History – DE – Germany History
+http://s03.bihnet.net:80/live?channelId=205&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – Krimi – DE – Krimi
+http://s03.bihnet.net:80/live?channelId=105&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – ARD – DE – ARD
+http://s03.bihnet.net:80/live?channelId=130&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Comedy HD – IT – Comedy HD
+http://s03.bihnet.net:80/live?channelId=213&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Emotion – IT – Premium Emotion
+http://s03.bihnet.net:80/live?channelId=219&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Action HD – IT – Premium Action HD
+http://s03.bihnet.net:80/live?channelId=220&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Stories – IT – Premium Stories
+http://s03.bihnet.net:80/live?channelId=247&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Joi – IT – Premium Joi
+http://s03.bihnet.net:80/live?channelId=248&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 1 Eredivisie HD – NL – Fox Sports 1 Eredivisie HD
+http://s03.bihnet.net:80/live?channelId=257&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 3 Eredivisie – NL – Fox Sports 3 Eredivisie
+http://s03.bihnet.net:80/live?channelId=259&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 5 Eredivisie – NL – Fox Sports 5 Eredivisie
+http://s03.bihnet.net:80/live?channelId=260&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 1 – NL – Fox Sports 1
+http://s03.bihnet.net:80/live?channelId=261&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,WOMAN – WOMAN
+http://s03.bihnet.net:80/live?channelId=229&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
