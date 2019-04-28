@@ -169,4 +169,35 @@ http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
 #EXTINF:-1,YU Planet
 
 http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,FOX
+https://hls.telekabel.com.mk:1936/live/71/2500-def.m3u8
+#EXTINF:-1,cartoonnetwork
+https://hls.telekabel.com.mk:1936/live/81/2500-def.m3u8
+#EXTINF:-1,TV 1000
+https://hls.telekabel.com.mk:1936/live/91/2500-def.m3u8
+#EXTINF:-1,Viasat History
+https://hls.telekabel.com.mk:1936/live/101/2500-def.m3u8
+#EXTINF:-1,Viasat Explore
+https://hls.telekabel.com.mk:1936/live/111/2500-def.m3u8
+#EXTINF:-1,Da vinci
+https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
+#EXTINF:-1,cinemania
+https://hls.telekabel.com.mk:1936/live/131/2500-def.m3u8
+#EXTINF:-1,Eurosport 1
+https://hls.telekabel.com.mk:1936/live/141/2500-def.m3u8
+#EXTINF:-1,Eurosport 2
+https://hls.telekabel.com.mk:1936/live/151/2500-def.m3u8
+#EXTINF:-1,ВИС
+https://hls.telekabel.com.mk:1936/live/161/2500-def.m3u8
+#EXTINF:-1,24ЖИВО
+https://hls.telekabel.com.mk:1936/live/11/2500-def.m3u8
+#EXTINF:-1, 1
+https://hls.telekabel.com.mk:1936/live/21/2500-def.m3u8
+#EXTINF:-1, 2
+https://hls.telekabel.com.mk:1936/live/31/2500-def.m3u8
+#EXTINF:-1,Telekabel
+https://hls.telekabel.com.mk:1936/live/51/2500-def.m3u8
+#EXTINF:-1,CNN
+https://hls.telekabel.com.mk:1936/live/61/2500-def.m3u8
 
