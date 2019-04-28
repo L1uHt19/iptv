@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:0,147. ARD
+http://176.10.117.18:8081/aypitv/ARD/playlist.m3u8
+#EXTINF:0,149. VOX
+http://176.10.117.17:8081/aypitv/VOX_HD/playlist.m3u8
+#EXTINF:0,150. ZDF
+http://176.10.117.18:8081/aypitv/ZDF_HD1/playlist.m3u8
+#EXTINF:0,151. ARTE_HD
+http://176.10.117.12:8081/aypitv/ArteHd/playlist.m3u8
+#EXTINF:0,154. DE:DEMAX
+http://176.10.117.17:8081/aypitv/DMAXXDEHD/playlist.m3u8
+#EXTINF:0,155. ZeeTV
+http://176.10.117.21:8081/aypitv/ZeeTv_De/playlist.m3u8
+#EXTINF:0,160. DISCOVERY_DE
+http://176.10.117.18:8081/aypitv/Discovery_De/playlist.m3u8
+#EXTINF:0,162. RTL CRIMI HD_DE
+http://176.10.117.12:8081/aypitv/RTL_CRIMI/playlist.m3u8
+#EXTINF:0,164. DISNEY_CHANEL_DE
+http://176.10.117.12:8081/aypitv/Disney_Chanel_DE/playlist.m3u8
+#EXTINF:0,165. DISNEY CINEMAGIC DE
+http://176.10.117.12:8081/aypitv/Disney_cine_magic_DE/playlist.m3u8
+#EXTINF:0,166. MOOVENET TV_TEST
+http://176.10.117.21:8081/aypitv/DWBChannel/playlist.m3u8
+#EXTINF:0,167. EUROSPORT
+http://176.10.117.17:8081/aypitv/EUROSPORT1/playlist.m3u8
+#EXTINF:0,204. DE_NATGEO_GEOGRAFICH
+http://176.10.117.21:8081/aypitv/NAT-GEO-WILD-UHD/playlist.m3u8
+#EXTINF:0,212. COMEDYCENTRAL/VIVA HD
+http://176.10.117.17:8081/aypitv/COMEDYCENTRALVIVAHD/playlist.m3u8
+#EXTINF:0,219. CINEMA_ACTION
+http://wowstream.net:25461/live/Eren4/Zafer/1958.ts
+#EXTINF:0,220. CINEMA24
+http://176.10.117.21:8081/nimble_live/SkyCinema_24/playlist.m3u8
+#EXTINF:0,221. COMEDY_DE
+http://176.10.117.21:8081/aypitv/COMEDY_DE/playlist.m3u8
+#EXTINF:0,222. CINEMA_HITS
+http://176.10.117.21:8081/aypitv/CINEMA_HITS/playlist.m3u8
+#EXTINF:0,223. 3+HD
+http://176.10.117.12:8081/aypitv/3+HD/playlist.m3u8
+#EXTINF:0,224. 4+HD
+http://176.10.117.17:8081/aypitv/4+HD/playlist.m3u8
+#EXTINF:0,225. 5+HD
+http://176.10.117.17:8081/poyrazAlman/5+HD/playlist.m3u8
+#EXTINF:0,226. CINEMA
+http://176.10.117.21:8081/aypitv/Skycinema/playlist.m3u8
+#EXTINF:0,227. BBC ONE HD
+http://176.10.117.17:8081/aypitv/BBCONEHD/playlist.m3u8
+#EXTINF:0,228. MS SPORT
+http://176.10.117.17:8081/aypitv/MSPORTHD/playlist.m3u8
+#EXTINF:0,229. MTV CH HD
+http://176.10.117.17:8081/aypitv/MTVCHHD/playlist.m3u8
+#EXTINF:0,230. SPORT1 HD
+http://176.10.117.17:8081/aypitv/SPORT1HD/playlist.m3u8
+#EXTINF:0,231. SPORT_HD1
+http://176.10.117.21:8081/aypitv/SKYsport/playlist.m3u8
+#EXTINF:0,123. PRO7
+http://176.10.117.17:8081/aypitv/Prosiben_hd/playlist.m3u8
+#EXTINF:0,127. SAT1
+http://176.10.117.17:8081/aypitv/SAT1/playlist.m3u8
+#EXTINF:0,128. KABEL 1
+http://176.10.117.18:8081/aypitv/Kabel1_Atilla/playlist.m3u8
+#EXTINF:0,128. DE: 13th Street HD
+http://176.10.117.12:8081/aypitv/DE:13th-Street-HD/playlist.m3u8
+#EXTINF:0,129. RTL
+http://176.10.117.17:8081/aypitv/RTL/playlist.m3u8
+#EXTINF:0,108. KIKA_DE
+http://176.10.117.17:8081/aypitv/Kika_De/playlist.m3u8
+#EXTINF:0,108. ZDF NEO HD
+http://176.10.117.21:8081/aypitv/ZDF_NEOHD/playlist.m3u8
+#EXTINF:0,109. RTL_NITRO
+http://176.10.117.21:8081/aypitv/RTL_Nitro/playlist.m3u8
+#EXTINF:0,110. NICKELEDON_DE
+http://176.10.117.21:8081/aypitv/Nickeledon/playlist.m3u8
+#EXTINF:0,110. SERVUS TV HD
+http://176.10.117.18:8081/aypitv/SERVUSTV_HD/playlist.m3u8
+#EXTINF:0,111. TOGGO_PLUS
+http://176.10.117.18:8081/aypitv/TOGGO_PLUS/playlist.m3u8
+#EXTINF:0,112. SRF HD1
+http://176.10.117.18:8081/aypitv/srf1_tv/playlist.m3u8
+#EXTINF:0,113. RTS_UN
+http://176.10.117.14:8081/aypitv/RTS_UN/playlist.m3u8
+#EXTINF:0,103. ORF2
+http://176.10.117.17:8081/aypitv/ORF2/playlist.m3u8
+#EXTINF:0,104. 3SAT
+http://176.10.117.18:8081/aypitv/3satHD/playlist.m3u8
+#EXTINF:0,105. SUPER_RTL_
+http://176.10.117.17:8081/aypitv/SuperRTL/playlist.m3u8
+#EXTINF:0,117. RTL2
+http://176.10.117.17:8081/aypitv/RTL2HD/playlist.m3u8
+#EXTINF:0,115. SRF_HD2
+http://176.10.117.18:8081/aypitv/SRF2/playlist.m3u8
+#EXTINF:0,131. DISNEY JUNIOR DE
+http://176.10.117.12:8081/aypitv/DISNEY_JUNIOR_DE/playlist.m3u8
