@@ -192,10 +192,12 @@ https://hls.telekabel.com.mk:1936/live/151/2500-def.m3u8
 https://hls.telekabel.com.mk:1936/live/161/2500-def.m3u8
 #EXTINF:-1,24ЖИВО
 https://hls.telekabel.com.mk:1936/live/11/2500-def.m3u8
-#EXTINF:-1, 1
+#EXTINF:-1, sport klub1
 https://hls.telekabel.com.mk:1936/live/21/2500-def.m3u8
-#EXTINF:-1, 2
+#EXTINF:-1,  sport klub2
 https://hls.telekabel.com.mk:1936/live/31/2500-def.m3u8
+#EXTINF:-1, sport klub 3
+https://hls.telekabel.com.mk:1936/live/41/2500-def.m3u8
 #EXTINF:-1,Telekabel
 https://hls.telekabel.com.mk:1936/live/51/2500-def.m3u8
 #EXTINF:-1,CNN
