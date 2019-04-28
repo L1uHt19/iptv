@@ -514,3 +514,246 @@ http://ipx1.streamstorm.to:8005/teuta/teuta/1749
 http://ipx1.streamstorm.to:8005/teuta/teuta/1871
 #EXTINF:-1,Zee One
 http://ipx1.streamstorm.to:8005/teuta/teuta/1583
+#EXTM3U
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/Wrm5Vh0.png",** TV SHQIP **
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/uYZUDPC.png",al: ORANEWS
+http://145.239.2.153:8081/oranews/live/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/X5E97RP.png",al: REPORT
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/l8Z9BRE.png",al: PEACE
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/a85d6mm.png",al: RROKUM
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/6NxC1QO.png",al: TETOVA
+http://ip.tvtetova.net:8080/hls/tvtetova.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/ivns2wP.png",al: TRIBUNA
+https://stream.shqiptv.com/tst/TRIBUNA-8791-sd/index.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/A0oBRAI.png",al: JOLLY
+http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/O7QHVkF.png",al: RTK 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/uE3uH28.png",sr: RTK 2
+http://176.31.74.161:8081/live/rtk2/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/ZULiwwE.png",al: RTK 3
+http://176.31.74.161:8081/live/rtk3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/H3guNId.png",al: RTK 4
+http://176.31.74.161:8081/live/rtk4/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/NDc608y.png",al: JUG
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/Si1TrRZ.png",al: ZiKD
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/jhlcFQh.png",al: OPOJA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/bDG8KXe.png",al: PENDIMI
+http://rtvpendimi.com:8081/hls/RTVPendimi.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/CW26UK9.png",al: RTV 1
+http://79.106.102.68/hls/rtvnje.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/eM4yuCi.png",al: APOLLON
+https://5a78c1f33fb75.streamlock.net:4443/SUNS6837RygCHJJBtWfF/smil:SMILNOAO_6837RygCHJJBtWfF.smil/manifest.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/VrRB7Mb.png",al: ALBUK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/mE1i4FT.png",al: ALBMUSIC
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/6mDEF1F.png",al: DASMA
+http://91.187.117.230:8080
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/cCEJuq5.png",al: KOHA (vlc)
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/0qVIOSH.png",al: SYRI (vlc)
+rtmp://37.26.69.49:80/live/syri
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/6I6ODqM.png",al: VOA (18:00)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc4@320296/master.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/hInQ0bi.png",al: INTV
+http://80.91.115.211:1935/live/livestream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/VZvOidh.png",al: ILIRIDA 
+http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
+
+#EXTINF:0 group-title="ALB IPTV2",7HD *** TV SHQIP TEST 2 ***
+http://tiger.gjirafa.com/play/a00x/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",AKSION
+http://tiger.gjirafa.com/play/a00o/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",BESA
+http://tiger.gjirafa.com/play/a01k/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",DRAME
+http://tiger.gjirafa.com/play/a00p/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",DUKAGJINI
+http://tiger.gjirafa.com/play/a01n/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",FIRST CHANNEL
+http://tiger.gjirafa.com/play/a01i/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",KLAN KOSOVA
+http://tiger.gjirafa.com/play/a01f/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",KOMEDI
+http://tiger.gjirafa.com/play/a00r/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",KTV kohavision
+http://tiger.gjirafa.com/play/a01e/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",LIRIA
+http://tiger.gjirafa.com/play/a01o/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",LIVING
+http://tiger.gjirafa.com/play/a00g/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",MAX
+http://tiger.gjirafa.com/play/a00s/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",NOVELA
+http://tiger.gjirafa.com/play/a00t/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",PLANET
+http://tiger.gjirafa.com/play/a00u/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",POWER
+http://tiger.gjirafa.com/play/a01p/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",RTK1
+http://tiger.gjirafa.com/play/a001/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",RTK2
+http://tiger.gjirafa.com/play/a002/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",RTK3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV2",RTK4
+http://stream2.rtkit.com:1935/rtk3stream/rtk4.stream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV2",RTSH sat
+http://tiger.gjirafa.com/play/a00h/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",RTV 21 HD
+http://tiger.gjirafa.com/play/a01d/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",SOFIA
+http://tiger.gjirafa.com/play/a00w/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",STAR
+http://tiger.gjirafa.com/play/a00y/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TIP TV
+http://tiger.gjirafa.com/play/a00f/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRIBUNA
+http://tiger.gjirafa.com/play/a01g/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING ACTION
+http://tiger.gjirafa.com/play/a00c/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING COMEDY
+http://tiger.gjirafa.com/play/a00a/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING FANTASY
+http://tiger.gjirafa.com/play/a00n/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING HISTORY
+http://tiger.gjirafa.com/play/a007/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING KIDS
+http://tiger.gjirafa.com/play/a00m/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING LIFE
+http://tiger.gjirafa.com/play/a00b/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING NEWS7
+http://tiger.gjirafa.com/play/a00e/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING PLANET
+http://tiger.gjirafa.com/play/a006/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING SHQIP
+http://tiger.gjirafa.com/play/a008/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING SMILE
+http://tiger.gjirafa.com/play/a00d/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING SUPER
+http://tiger.gjirafa.com/play/a009/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING TRING
+http://tiger.gjirafa.com/play/a004/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING WORD
+http://tiger.gjirafa.com/play/a005/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING YOLLY
+http://tiger.gjirafa.com/play/a00k/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TRING3
+http://tiger.gjirafa.com/play/a00l/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TV MITROVICA
+http://tiger.gjirafa.com/play/a01j/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",TV PRIZRENI
+http://tiger.gjirafa.com/play/a01m/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",FIGHT BOX
+http://tiger.gjirafa.com/play/a01a/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",SHENJA
+http://tiger.gjirafa.com/play/a00j/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",RROKUM
+http://tiger.gjirafa.com/play/a01h/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",DOCU BOX
+http://tiger.gjirafa.com/play/a019/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",SYRI VISION
+http://tiger.gjirafa.com/play/a01q/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",K-SPORT1
+http://tiger.gjirafa.com/play/a00z/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",K-SPORT2
+http://tiger.gjirafa.com/play/a010/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",K-SPORT3
+http://tiger.gjirafa.com/play/a011/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",K-SPORT4
+http://tiger.gjirafa.com/play/a012/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",K-SPORT5
+http://tiger.gjirafa.com/play/a013/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",FOX NEWS
+http://tiger.gjirafa.com/play/a00i/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",VIZION+
+http://tiger.gjirafa.com/play/a003/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",FILM BOX ARTHOUSE
+http://tiger.gjirafa.com/play/a016/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",FILM BOX PREMIUM
+http://tiger.gjirafa.com/play/a017/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",FILM BOX PLUS
+http://tiger.gjirafa.com/play/a015/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",FAST FUN BOX
+http://tiger.gjirafa.com/play/a01b/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",FILM BOX EXTRA
+http://tiger.gjirafa.com/play/a014/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",GAME TOON
+http://tiger.gjirafa.com/play/a018/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2",FASHION BOX
+http://tiger.gjirafa.com/play/a01c/index.m3u8
+
+#EXTINF:0 group-title="ALB IPTV3",*** TV SHQIP TEST 3 ***
+http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:0 group-title="ALB IPTV3",FOX CINEMA
+http://161.0.157.50/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:0 group-title="ALB IPTV3",FOX COMEDY
+http://161.0.157.50/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0 group-title="ALB IPTV3",HORROR HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/10.ts
+#EXTINF:0 group-title="ALB IPTV3",HINDI HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/11.ts
+#EXTINF:0 group-title="ALB IPTV3",FILM HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/12.ts
+#EXTINF:0 group-title="ALB IPTV3",FANTASY HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/13.ts
+#EXTINF:0 group-title="ALB IPTV3",CINEMA
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/14.ts
+#EXTINF:0 group-title="ALB IPTV3",ACTION
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/15.ts
+#EXTINF:0 group-title="ALB IPTV3",WESTERN HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/6.ts
+#EXTINF:0 group-title="ALB IPTV3",KIDS HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/7.ts
+#EXTINF:0 group-title="ALB IPTV3",KOMEDI HD
+http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/9.ts
+#EXTINF:0 group-title="ALB IPTV3",TV2
+http://178.132.6.97/tv2gostivar1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ALB IPTV3",TV2 HD
+http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="ALB IPTV3",LIRIJA
+http://178.132.6.97:8080/tvlir1/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="ALB IPTV3",TRING SHQIP
+http://188.138.1.82:8081/streamrtmp/tringshqip/chunks.m3u8
+#EXTINF:0 group-title="ALB IPTV3", EURO-AL
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
+#EXTINF:0 group-title="ALB IPTV3",RTSH
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV3",RTSH HD
+http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV3",RTSH 2
+http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV3",RTSH 3
+http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV3",RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV3",RTSH Shqip
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV3",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV3",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV3",ALSAT
+http://85.25.218.196:8081/streamrtmp/alsatm/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV3",RTV 21
+http://85.25.218.196:8081/streamrtmp/rtv/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV3",TRING 3
+http://85.25.218.196:8081/streamrtmp/tring3plus/chunks.m3u8
+#EXTINF:0 group-title="ALB IPTV3",FILM Aksion
+http://85.25.43.14:8081/streamrtmp/aksion/chunks.m3u8
+#EXTINF:0 group-title="ALB IPTV3",T HD
+http://85.25.43.14:8081/streamrtmp/thd/chunks.m3u8
+#EXTINF:0 group-title="ALB IPTV3",FILM FAMELY
+http://85.25.43.14:8081/streamrtmp/thd/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV3",Thrriller
+http://85.25.43.14:8081/streamrtmp/thriller/chunks.m3u8
+#EXTINF:0 group-title="ALB IPTV3",Smile
+http://stream.shqiptv.com:7080/TRINGSMILE-8772-sd/index.m3u8
