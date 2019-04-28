@@ -21,7 +21,16 @@ https://7streams.pro/lba/123/g3/arenaserbia4.m3u8
 http://93.155.143.90:85/m3u8/diamasporthd.m3u8
 #EXTINF:0,Diema Sport 2 HD
 http://93.155.143.90:85/m3u8/diemasport2hd.m3u8
-
+#EXTINF:-1,Arena 1 SD
+http://91.148.117.242:8080
+#EXTINF:-1,Arena 2 SD
+http://91.148.117.242:8081
+#EXTINF:-1,Arena 4 SD
+http://91.148.117.242:8083
+#EXTINF:-1,Arena 3 SD
+http://91.148.117.242:8082
+#EXTINF:-1,AS SD 5
+http://91.148.117.242:8084
 #EXTINF:0,SPORT TV 1
 rtmp://89.163.224.168:80/live/sporttv1
 #EXTINF:0 ,SPORT TV 2
