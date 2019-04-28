@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:0,БНТ 1 | tvizio.bg
+http://umutiptv.cf/tvizio.bg/bnt1/canli.m3u8
+#EXTINF:0,БНТ 1 HD | tvizio.bg
+http://umutiptv.cf/tvizio.bg/bnt1hd/canli.m3u8
+#EXTINF:0,bTV | tvizio.bg
+http://umutiptv.cf/tvizio.bg/btv/canli.m3u8
+#EXTINF:0,bTV HD | tvizio.bg
+http://umutiptv.cf/tvizio.bg/btvhd/canli.m3u8
+#EXTINF:0,Канал 3 | tvizio.bg
+http://umutiptv.cf/tvizio.bg/kanal3/canli.m3u8
+#EXTINF:0,Европа | tvizio.bg
+http://umutiptv.cf/tvizio.bg/evropa/canli.m3u8
+#EXTINF:0,БНТ 3 | tvizio.bg
+http://umutiptv.cf/tvizio.bg/bnt3/canli.m3u8
+#EXTINF:0,Diema Family | tvizio.bg
+http://umutiptv.cf/tvizio.bg/diemafamily/canli.m3u8
+#EXTINF:0,TLC | tvizio.bg
+http://umutiptv.cf/tvizio.bg/tlc/canli.m3u8
+#EXTINF:0,24 Kitchen | tvizio.bg
+http://umutiptv.cf/tvizio.bg/24kitchen/canli.m3u8
+#EXTINF:0,Travel Channel | tvizio.bg
+http://umutiptv.cf/tvizio.bg/travel/canli.m3u8
+#EXTINF:0,Travel BG | tvizio.bg
+http://umutiptv.cf/tvizio.bg/travelbg/canli.m3u8
+#EXTINF:0,Viasat Nature | tvizio.bg
+http://umutiptv.cf/tvizio.bg/viasatnature/canli.m3u8
+#EXTINF:0,Box Music HD | tvizio.bg
+http://umutiptv.cf/tvizio.bg/box/canli.m3u8
+#EXTINF:0,The Voice | tvizio.bg
+http://umutiptv.cf/tvizio.bg/thevoice/canli.m3u8
+#EXTINF:0,Planeta HD | tvizio.bg
+http://umutiptv.cf/tvizio.bg/planeta/canli.m3u8
+#EXTINF:0,DM SAT | tvizio.bg
+http://umutiptv.cf/tvizio.bg/dmsat/canli.m3u8
+#EXTINF:0,Bulgaria On Air | tvizio.bg
+http://umutiptv.cf/tvizio.bg/bulgariaonair/canli.m3u8
+#EXTINF:0,Bloomberg TV Bulgaria | tvizio.bg
+http://umutiptv.cf/tvizio.bg/bloomberg/canli.m3u8
+
+#EXTM3U
+#EXTINF:-1,BN Music
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_350k.m3u8
+#EXTINF:-1,bit
+https://cdn1.mobiletv.bg/T5/bit_archive/bit_794613.m3u8
+#EXTINF:-1,Fishing and Hunting
+https://cdn1.mobiletv.bg/T5/fh/fh_794613_350k.m3u8
+#EXTINF:-1,disney junior
+https://cdn1.mobiletv.bg/T5/disney_junior/disney_junior_794613_350k.m3u8
+#EXTINF:-1,BTV cinema
+https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
+#EXTINF:-1,TCL
+https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
+#EXTINF:-1,TCL
+https://cdn1.mobiletv.bg/T8/tlc_archive/tlc_794613.m3u8
+#EXTINF:-1,Tv Vratsa
+https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
+#EXTINF:-1,AMC
+https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
+#EXTINF:-1,Eta
+https://cdn1.mobiletv.bg/T7/eta/eta_794613_850k.m3u8
+#EXTINF:-1,Bit
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,RTL
+https://cdn1.mobiletv.bg/T5/rtl_archive/rtl_794613.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850.m3u8
+#EXTINF:-1,Btv Comedy
+https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
+#EXTINF:-1,Fox Life
+https://cdn1.mobiletv.bg/T3/foxlife/foxlife_794613_850k.m3u8
+#EXTINF:-1,Kinonova
+https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8
+#EXTINF:-1,Ring HD
+https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8
+#EXTINF:-1,The Voice
+https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8
+#EXTINF:-1,EUROSPORT 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1,AUTO MOTOR SPORT
+https://cdn1.mobiletv.bg/T9/ams/ams_794613_850k.m3u8
+#EXTINF:-1,Magic Tv
+https://cdn1.mobiletv.bg/T14/ATV/magic_tv/magic_tv_ATV987654321.m3u8
+#EXTINF:-1,Carton Network
+https://cdn1.mobiletv.bg/T14/ATV/carton_network/carton_network_ATV987654321.m3u8
+#EXTINF:-1,Novasport
+https://cdn1.mobiletv.bg/T14/ATV/novasport/novasport_ATV987654321.m3u8
+#EXTINF:-1,Box
+https://cdn1.mobiletv.bg/T14/ATV/boxtv/boxtv_ATV987654321.m3u8
+#EXTINF:-1,Duck
+https://cdn1.mobiletv.bg/T14/ATV/duck_tv/duck_tv_ATV987654321.m3u8
+#EXTINF:-1,Auto motor sport Bulgaria
+https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
+#EXTINF:-1,BTK:   http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
+
+#EXTINF:-1,BG DNES: http://80.72.95.40:8088
+
+#EXTINF:-1,DSTV: rtmp://79.98.109.134:1935/big/live 
+
+#EXTINF:-1,Cherno More TV: http://84.43.207.130:80/evropatv/evropatv.m3u8
+
+#EXTINF:-1,BTV CINEMA: http://84.43.207.130:80/btvcinema/btvcinema.m3u8
+
+#EXTINF:-1,Diema: http://84.43.207.130/diema/diema.m3u8
+
+#EXTINF:-1,BG: Europa TV: http://84.43.207.130/evropatv/evropatv.m3u8
+ 
