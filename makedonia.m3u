@@ -1,6 +1,6 @@
-#EXTINF:-1,SITEL TV|(MK)
+#EXTINF:-1,tvg-ID="SITEL MK" tvg-name="SITEL Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg" group-title="MAKEDONA",SITEL Full HD
 http://195.181.169.152:8080/MACEDONIA/SITEL_HD/index.m3u8
-#EXTINF:-1,KNAL 5|(MK)
+#EXTINF:-1,tvg-ID="KANAL5 MK" tvg-name="KANAL 5 Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal5_ua.jpg" group-title="MAKEDONA",KANAL5 Full HD
 http://195.181.169.152:8080/MACEDONIA/KANAL_5/index.m3u8
 #EXTINF:-1,ALFA|(MK
 http://195.181.169.152:8080/MACEDONIA/ALFA_HD/index.m3u8
