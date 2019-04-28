@@ -1,0 +1,32 @@
+{
+  "name": "iptv",
+  "version": "0.3.0",
+  "description": "Collection of 5000+ free IPTV channels from all over the world",
+  "keywords": [
+    "iptv",
+    "playlist",
+    "tv",
+    "channels"
+  ],
+  "main": "index.m3u",
+  "scripts": {
+    "test": "node test/index.js",
+    "generate": "node src/generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mak-iptv/iptv.git"
+  },
+  "author": "Arhey <nasinikola2@gmail.com>",
+  "private": true,
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mak-iptv/iptv/issues"
+  },
+  "homepage": "https://github.com/mak-iptv/iptv#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "playlist-parser": "0.0.12"
+  }
+}
