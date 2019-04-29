@@ -1,0 +1,14 @@
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8  ESPN HD
+#EXTINF:-1,ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8 ANIMAL PLANET
+#EXTINF:-1, TLC
+http://80.80.160.168/live/2/live.m3u8  TLC
+#EXTINF:-1,TRAVEL CHANNEL
+http://80.80.160.168/live/3/live.m3u8  TRAVEL CHANNEL
+#EXTINF:-1,PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8  PLANET GREEN
+#EXTINF:-1,DISCOVERY HD
+http://80.80.160.168/live/8/live.m3u8  DISCOVERY HD
+#EXTINF:-1,Discovery Science HD
+http://80.80.160.168/live/9/live.m3u8  Discovery Science HD
