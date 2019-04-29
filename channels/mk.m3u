@@ -202,4 +202,25 @@ https://hls.telekabel.com.mk:1936/live/41/2500-def.m3u8
 https://hls.telekabel.com.mk:1936/live/51/2500-def.m3u8
 #EXTINF:-1,CNN
 https://hls.telekabel.com.mk:1936/live/61/2500-def.m3u8
-
+#EXTINF:-1,===== MK: MAKDONIA =====
+http://www.sansat.net:25461/juan482/WXdlnQwrz7/26092
+#EXTINF:-1,MK: 24 VESTI
+http://www.sansat.net:25461/juan482/WXdlnQwrz7/26091
+#EXTINF:-1,MK: ALFA TV
+http://www.sansat.net:25461/juan482/WXdlnQwrz7/26090
+#EXTINF:-1,MK: KANAL 5
+http://www.sansat.net:25461/juan482/WXdlnQwrz7/26089
+#EXTINF:-1,MK: KANAL 5 PLUS
+http://www.sansat.net:25461/juan482/WXdlnQwrz7/26088
+#EXTINF:-1,MK: MRT 1
+http://www.sansat.net:25461/juan482/WXdlnQwrz7/26087
+#EXTINF:-1,MK: MRT 2
+http://www.sansat.net:25461/juan482/WXdlnQwrz7/26086
+#EXTINF:-1,MK: SITEL
+http://www.sansat.net:25461/juan482/WXdlnQwrz7/26085
+#EXTINF:-1,MK: SITEL 3
+http://www.sansat.net:25461/juan482/WXdlnQwrz7/26084
+#EXTINF:-1,MK: SITEL TV
+http://www.sansat.net:25461/juan482/WXdlnQwrz7/26083
+#EXTINF:-1,MK: TELMA
+http://www.sansat.net:25461/juan482/WXdlnQwrz7/26082
