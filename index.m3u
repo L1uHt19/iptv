@@ -11,5 +11,7 @@ channels/it.m3u
 channels/sr.m3u
 #EXTINF:-1,Bulgaria
 channels/bg.m3u
+#EXTINF:-1,Bulgaria
+channels/uk.m3u
 #EXTINF:-1,XXXX(18+)
 channels/adult.m3u
