@@ -74,3 +74,15 @@ http://163.172.211.229:8000/live/albatvapp/albatv2.7/46.ts
 #EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
 #EXTINF:-1,Tring Sport 4 HD
 http://163.172.211.229:8000/live/albatvapp/albatv2.7/47.ts
+#EXTINF:0,Super Sport 1 - Super Sport 1 proba
+http://tvmaksi.iptvposokuca.info:80/live?channelId=108&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:0,Super Sport 2 HD - Super Sport 2 HD proba
+http://tvmaksi.iptvposokuca.info:80/live?channelId=110&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:0,Super Sport 3 HD - Super Sport 3 HD proba
+http://tvmaksi.iptvposokuca.info:80/live?channelId=111&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:0,Super Sport 4 HD - Super Sport 4 HD proba
+http://maksitv.iptvposokuca.info:80/live?channelId=146&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:0,Bein Sport 1 HD - Bein Sport 1 HD
+http://tvmaksi.iptvposokuca.info:80/live?channelId=156&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:0,Bein Sport 2 HD - Bein Sport 2 HD
+http://tvmaksi.iptvposokuca.info:80/live?channelId=157&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
