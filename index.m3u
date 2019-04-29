@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1,Albania
-/channels/al.m3u
+channels/al.m3u
 #EXTINF:-1,Macedonia
-/channels/mk.m3u
+channels/mk.m3u
 #EXTINF:-1,Germany
-/channels/de.m3u
+channels/de.m3u
 #EXTINF:-1,Italy
-/channels/it.m3u
+channels/it.m3u
 #EXTINF:-1,Serbia
-/channels/sr.m3u
+channels/sr.m3u
 #EXTINF:-1,Bulgaria
-/channels/bg.m3u
+channels/bg.m3u
 #EXTINF:-1,UK England
-/channels/uk.m3u
+channels/uk.m3u
 #EXTINF:-1,XXXX(18+)
-/channels/adult.m3u
+channels/adult.m3u
