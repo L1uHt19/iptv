@@ -741,20 +741,7 @@ http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
 http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
 #EXTINF:0 group-title="ALB IPTV3",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV3",ALSAT
-http://85.25.218.196:8081/streamrtmp/alsatm/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV3",RTV 21
-http://85.25.218.196:8081/streamrtmp/rtv/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV3",TRING 3
-http://85.25.218.196:8081/streamrtmp/tring3plus/chunks.m3u8
-#EXTINF:0 group-title="ALB IPTV3",FILM Aksion
-http://85.25.43.14:8081/streamrtmp/aksion/chunks.m3u8
-#EXTINF:0 group-title="ALB IPTV3",T HD
-http://85.25.43.14:8081/streamrtmp/thd/chunks.m3u8
-#EXTINF:0 group-title="ALB IPTV3",FILM FAMELY
-http://85.25.43.14:8081/streamrtmp/thd/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV3",Thrriller
-http://85.25.43.14:8081/streamrtmp/thriller/chunks.m3u8
+
 #EXTINF:0 group-title="ALB IPTV3",Smile
 http://stream.shqiptv.com:7080/TRINGSMILE-8772-sd/index.m3u8
 EXTINF:0 group-title="TvMak.com"  tvg-logo="http://tvmak.com/img/tvshenja.png",**TV SHENJA
