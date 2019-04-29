@@ -1,0 +1,88 @@
+#EXTINF:-1,Arena Sport 1
+http://93.155.143.90:85/m3u8/arenasport1.m3u8
+#EXTINF:-1,Arena Sport 2
+http://93.155.143.90:85/m3u8/arenasport2.m3u8
+#EXTINF:-1,Arena Sport 3
+http://93.155.143.90:85/m3u8/arenasport3.m3u8
+#EXTINF:-1,Arena Sport 4
+http://93.155.143.90:85/m3u8/arenasport4.m3u8
+#EXTINF:-1,Arena Sport 5
+http://93.155.143.90:85/m3u8/arenasport5.m3u8
+
+#EXTINF:-1,ARENA SPORT1
+https://7streams.pro/lba/123/g6/arena1rs.m3u8﻿
+#EXTINF:-1,ARENA SPORT2
+https://7streams.pro/lba/123/g10/arena2sport.m3u8
+#EXTINF:-1,ARENA SPORT3
+https://7streams.pro/lba/123/g9/sportarena3rs.m3u8
+#EXTINF:-1,ARENA SPORT4
+https://7streams.pro/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:0,Diema Sport HD
+http://93.155.143.90:85/m3u8/diamasporthd.m3u8
+#EXTINF:0,Diema Sport 2 HD
+http://93.155.143.90:85/m3u8/diemasport2hd.m3u8
+#EXTINF:-1,Arena 1 SD
+http://91.148.117.242:8080
+#EXTINF:-1,Arena 2 SD
+http://91.148.117.242:8081
+#EXTINF:-1,Arena 4 SD
+http://91.148.117.242:8083
+#EXTINF:-1,Arena 3 SD
+http://91.148.117.242:8082
+#EXTINF:-1,AS SD 5
+http://91.148.117.242:8084
+#EXTINF:0,SPORT TV 1
+rtmp://89.163.224.168:80/live/sporttv1
+#EXTINF:0 ,SPORT TV 2
+rtmp://89.163.224.168:80/live/sporttv2
+#EXTINF:0,SPORT TV 3
+rtmp://89.163.224.168:80/live/sporttv3
+#EXTINF:0,SPORT TV 4
+rtmp://89.163.224.168:80/live/sporttv4
+#EXTINF:0,SPORT TV 5
+rtmp://89.163.224.168:80/live/sporttv5
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super Sport Kosova 2 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/55.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super Sport Kosova 1 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/54.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super SPORT 1 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/48.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super SPORT 2 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/49.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super SPORT 3 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/50.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super SPORT 4 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/51.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Super SPORT 5 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/52.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Tring Sport 1 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/44.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Tring Sport 2 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/45.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Tring Sport 3 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/46.ts
+#EXTVLCOPT:http-user-agent=dfajulouiwyuyio8ooy
+#EXTINF:-1,Tring Sport 4 HD
+http://163.172.211.229:8000/live/albatvapp/albatv2.7/47.ts
+#EXTINF:0,Super Sport 1 - Super Sport 1 proba
+http://tvmaksi.iptvposokuca.info:80/live?channelId=108&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:0,Super Sport 2 HD - Super Sport 2 HD proba
+http://tvmaksi.iptvposokuca.info:80/live?channelId=110&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:0,Super Sport 3 HD - Super Sport 3 HD proba
+http://tvmaksi.iptvposokuca.info:80/live?channelId=111&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:0,Super Sport 4 HD - Super Sport 4 HD proba
+http://maksitv.iptvposokuca.info:80/live?channelId=146&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:0,Bein Sport 1 HD - Bein Sport 1 HD
+http://tvmaksi.iptvposokuca.info:80/live?channelId=156&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:0,Bein Sport 2 HD - Bein Sport 2 HD
+http://tvmaksi.iptvposokuca.info:80/live?channelId=157&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
