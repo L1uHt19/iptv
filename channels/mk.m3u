@@ -230,29 +230,29 @@ http://thenew.tv:8000/rob/12345/46421
 http://thenew.tv:8000/rob/12345/46420
 #EXTINF:-1 tvg-id="InTV.al" tvg-name="MK: INTV AUSTRALIJA" tvg-logo="" group-title="MACEDONIA",MK: INTV AUSTRALIJA
 http://thenew.tv:8000/rob/12345/46419
-#EXTINF:-1 tvg-id="Kanal5.mk" tvg-name="MK: Kanal 5 HD" tvg-logo="" group-title="MACEDONIA",MK: Kanal 5 HD
+#EXTINF:-1 tvg-id="Kanal5.mk" tvg-name="MK: Kanal 5 HD" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/kanal5plus.png" group-title="MACEDONIA",MK: Kanal 5 HD
 http://thenew.tv:8000/rob/12345/46418
-#EXTINF:-1 tvg-id="Kanal5.se" tvg-name="MK: KANAL 5 Plus" tvg-logo="" group-title="MACEDONIA",MK: KANAL 5 Plus
+#EXTINF:-1 tvg-id="Kanal5.se" tvg-name="MK: KANAL 5 Plus" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/kanal5plus.png" group-title="MACEDONIA",MK: KANAL 5 Plus
 http://thenew.tv:8000/rob/12345/46417
 #EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="MK: Makedonska Tv" tvg-logo="" group-title="MACEDONIA",MK: Makedonska Tv
 http://thenew.tv:8000/rob/12345/46416
 #EXTINF:-1 tvg-id="" tvg-name="MK: Mega" tvg-logo="" group-title="MACEDONIA",MK: Mega
 http://thenew.tv:8000/rob/12345/46415
-#EXTINF:-1 tvg-id="Mvm.pt" tvg-name="MK: MPT 1" tvg-logo="" group-title="MACEDONIA",MK: MPT 1
+#EXTINF:-1 tvg-id="Mvm.pt" tvg-name="MK: MPT 1" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrt1.png" group-title="MACEDONIA",MK: MPT 1
 http://thenew.tv:8000/rob/12345/46414
-#EXTINF:-1 tvg-id="Mvm.pt" tvg-name="MK: MPT 2" tvg-logo="" group-title="MACEDONIA",MK: MPT 2
+#EXTINF:-1 tvg-id="Mvm.pt" tvg-name="MK: MPT 2" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrt2.png" group-title="MACEDONIA",MK: MPT 2
 http://thenew.tv:8000/rob/12345/46413
-#EXTINF:-1 tvg-id="Mvm.pt" tvg-name="MK: MPT 3" tvg-logo="" group-title="MACEDONIA",MK: MPT 3
+#EXTINF:-1 tvg-id="Mvm.pt" tvg-name="MK: MPT 3" tvg-logo="" group-title=http://stream.mk/img/tvlogo/caching_folder/mrt2.png"MACEDONIA",MK: MPT 3
 http://thenew.tv:8000/rob/12345/46412
 #EXTINF:-1 tvg-id="MP.ca" tvg-name="MK: MPT Sat" tvg-logo="" group-title="MACEDONIA",MK: MPT Sat
 http://thenew.tv:8000/rob/12345/46411
-#EXTINF:-1 tvg-id="MRT1.mk" tvg-name="MK: MRT 1" tvg-logo="" group-title="MACEDONIA",MK: MRT 1
+#EXTINF:-1 tvg-id="MRT1.mk" tvg-name="MK: MRT 1" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrt1.png" group-title="MACEDONIA",MK: MRT 1
 http://thenew.tv:8000/rob/12345/46410
-#EXTINF:-1 tvg-id="MRT2.mk" tvg-name="MK: MRT 2" tvg-logo="" group-title="MACEDONIA",MK: MRT 2
+#EXTINF:-1 tvg-id="MRT2.mk" tvg-name="MK: MRT 2" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrt2.png" group-title="MACEDONIA",MK: MRT 2
 http://thenew.tv:8000/rob/12345/46409
-#EXTINF:-1 tvg-id="MRT3.mk" tvg-name="MK: MRT 3" tvg-logo="" group-title="MACEDONIA",MK: MRT 3
+#EXTINF:-1 tvg-id="MRT3.mk" tvg-name="MK: MRT 3" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrtsobraniski.png" group-title="MACEDONIA",MK: MRT 3
 http://thenew.tv:8000/rob/12345/46408
-#EXTINF:-1 tvg-id="" tvg-name="MK: MRT Sobraniski" tvg-logo="" group-title="MACEDONIA",MK: MRT Sobraniski
+#EXTINF:-1 tvg-id="" tvg-name="MK: MRT Sobraniski" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrtsobraniski.png" group-title="MACEDONIA",MK: MRT Sobraniski
 http://thenew.tv:8000/rob/12345/46407
 #EXTINF:-1 tvg-id="MTM.mk" tvg-name="MK: MTM Skopje" tvg-logo="" group-title="MACEDONIA",MK: MTM Skopje
 http://thenew.tv:8000/rob/12345/46406
@@ -286,7 +286,7 @@ http://thenew.tv:8000/rob/12345/46393
 http://thenew.tv:8000/rob/12345/46392
 #EXTINF:-1 tvg-id="SonceTV.mk" tvg-name="MK: Sonce TV" tvg-logo="" group-title="MACEDONIA",MK: Sonce TV
 http://thenew.tv:8000/rob/12345/46391
-#EXTINF:-1 tvg-id="LRTTelevizija.lt" tvg-name="MK: Televizija 5" tvg-logo="" group-title="MACEDONIA",MK: Televizija 5
+#EXTINF:-1 tvg-id="LRTTelevizija.lt" tvg-name="MK: Televizija 5" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/kanal5plus.png" group-title="MACEDONIA",MK: Televizija 5
 http://thenew.tv:8000/rob/12345/46390
 #EXTINF:-1 tvg-id="Telma.mk" tvg-name="MK: Telma" tvg-logo="" group-title="MACEDONIA",MK: Telma
 http://thenew.tv:8000/rob/12345/46389
