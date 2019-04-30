@@ -278,7 +278,7 @@ http://thenew.tv:8000/rob/12345/46397
 http://thenew.tv:8000/rob/12345/46396
 #EXTINF:-1 tvg-id="RTV21Popullore.al" tvg-name="MK: RTV 21 POPULLORE" tvg-logo="" group-title="MACEDONIA",MK: RTV 21 POPULLORE
 http://thenew.tv:8000/rob/12345/46395
-#EXTINF:-1 tvg-id="Sitel.mk" tvg-name="MK: Sitel 2" tvg-logo="" group-title="MACEDONIA",MK: Sitel 2
+#EXTINF:-1 tvg-id="Sitel.mk" tvg-name="MK: Sitel 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg" group-title="MACEDONIA",MK: Sitel 2
 http://thenew.tv:8000/rob/12345/46394
 #EXTINF:-1 tvg-id="Sitel.mk" tvg-name="MK: Sitel TV" tvg-logo="" group-title="MACEDONIA",MK: Sitel TV
 http://thenew.tv:8000/rob/12345/46393
