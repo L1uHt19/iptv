@@ -1,4 +1,41 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="RTS 1 TV HD " tvg-logo="" group-title="Serbia",RTS 1 TV HD  SR
+http://195.181.169.152:8080/SERBIA/RTS_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS 2 TV HD " tvg-logo="" group-title="Serbia",RTS 2 TV HD  SR
+http://195.181.169.152:8080/SERBIA/RTS_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RTS 3 TV HD " tvg-logo="" group-title="Serbia",RTS 3 TV HD  SR
+http://195.181.169.152:8080/SERBIA/RTS_3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_1 TV HD " tvg-logo="" group-title="Serbia",PINK_1 TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_2 TV HD " tvg-logo="" group-title="Serbia",PINK_2 TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_3TV HD " tvg-logo="" group-title="Serbia",PINK_3 TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_WESTERN TV HD " tvg-logo="" group-title="Serbia",PINK_WESTERN TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_WESTERN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_ACTION TV HD " tvg-logo="" group-title="Serbia",PINK_ACTION TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_PREMIUM TV HD " tvg-logo="" group-title="Serbia",PINK_PREMIUM TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_PREMIUM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_ZABAVA TV HD " tvg-logo="" group-title="Serbia",PINK_ZABAVA TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_ZABAVA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_HORROR  TV HD " tvg-logo="" group-title="Serbia",PINK_HORROR TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_HORROR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_COMEDY TV HD " tvg-logo="" group-title="Serbia",PINK_COMEDY TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_COMEDY/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="PINK_WORLD TV HD " tvg-logo="" group-title="Serbia",PINK_WORLD TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_WORLD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_REALITY TV HD " tvg-logo="" group-title="Serbia",PINK_REALITY TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_REALITY/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV HD " tvg-logo="" group-title="Serbia",CINESTAR TV HD  SR
+http://195.181.169.152:8080/CROATIA/CINESTAR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINESTAR  - ACTION TV HD " tvg-logo="" group-title="Serbia",CINESTAR-ACTION TV HD  SR
+http://195.181.169.152:8080/CROATIA/CINESTAR_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="  CRIME TV HD " tvg-logo="" group-title="Serbia",CRIME TV HD  SR
+http://195.181.169.152:8080/CROATIA/RTL_CRIME/index.m3u8
 #EXTINF:-1,OBN
 http://85.0.26.89:3000/play/xxOBNxx
 #EXTINF:-1,RTRS plus
