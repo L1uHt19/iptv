@@ -91,3 +91,343 @@ http://176.10.117.17:8081/aypitv/RTL2HD/playlist.m3u8
 http://176.10.117.18:8081/aypitv/SRF2/playlist.m3u8
 #EXTINF:0,131. DISNEY JUNIOR DE
 http://176.10.117.12:8081/aypitv/DISNEY_JUNIOR_DE/playlist.m3u8
+#EXTINF:-1,----Free-DE-----
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/91.ts
+#EXTINF:-1,Das Erste HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/65.ts
+#EXTINF:-1,ZDF HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/66.ts
+#EXTINF:-1,RTL HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/67.ts
+#EXTINF:-1,RTL HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/387.ts
+#EXTINF:-1,RTL2 HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/871.ts
+#EXTINF:-1,RTL 2
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/68.ts
+#EXTINF:-1,Pro7 HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/872.ts
+#EXTINF:-1,Pro Sieben
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/69.ts
+#EXTINF:-1,Sat1 HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/873.ts
+#EXTINF:-1,SAT1
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/70.ts
+#EXTINF:-1,Vox HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/875.ts
+#EXTINF:-1,VOX
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/72.ts
+#EXTINF:-1,Kabel1 HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/874.ts
+#EXTINF:-1,Kabel1
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/71.ts
+#EXTINF:-1,Sixx-HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/876.ts
+#EXTINF:-1,Pro7-Maxx-HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/877.ts
+#EXTINF:-1,Super-Rtl HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/878.ts
+#EXTINF:-1,TELE 5 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2281.ts
+#EXTINF:-1,RTL NITRO
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1590.ts
+#EXTINF:-1,Arte HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1529.ts
+#EXTINF:-1,3Sat
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1504.ts
+#EXTINF:-1,Zee One
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/854.ts
+#EXTINF:-1,NTV HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1416.ts
+#EXTINF:-1,N 24
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2401.ts
+#EXTINF:-1,Welt
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2403.ts
+#EXTINF:-1,Phoenix HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2402.ts
+#EXTINF:-1,WDR HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/386.ts
+#EXTINF:-1,NDR
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2406.ts
+#EXTINF:-1,HR
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2405.ts
+#EXTINF:-1,SWR HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2404.ts
+#EXTINF:-1,ZDF Neo
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2407.ts
+#EXTINF:-1,ZDF Info HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2408.ts
+#EXTINF:-1,Deutsche Welle
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2410.ts
+#EXTINF:-1,----Skyde----
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/90.ts
+#EXTINF:-1,Sky Cinema HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/5.ts
+#EXTINF:-1,Sky Cinema SD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1587.ts
+#EXTINF:-1,Sky Cinema +1
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/7.ts
+#EXTINF:-1,Sky Cinema +24
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/9.ts
+#EXTINF:-1,Sky Action HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/10.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/14.ts
+#EXTINF:-1,Sky Cinema Family HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/23.ts
+#EXTINF:-1,Sky Emotion
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/12.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/11.ts
+#EXTINF:-1,Sky Nostalgie
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/13.ts
+#EXTINF:-1,TNT Film
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/17.ts
+#EXTINF:-1,Kinowelt TV
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/16.ts
+#EXTINF:-1,Kabel 1 Classics
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1892.ts
+#EXTINF:-1,Sky Universal HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/26.ts
+#EXTINF:-1,13th Street HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/27.ts
+#EXTINF:-1,SyFy
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/24.ts
+#EXTINF:-1,Sky Krimi
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/25.ts
+#EXTINF:-1,----Unterhaltung----
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/89.ts
+#EXTINF:-1,Sky Atlantic HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/21.ts
+#EXTINF:-1,Sky 1 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/20.ts
+#EXTINF:-1,Fox HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/22.ts
+#EXTINF:-1,TNT Serie
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/28.ts
+#EXTINF:-1,TNT Comedy
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/19.ts
+#EXTINF:-1,Rtl Living
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/809.ts
+#EXTINF:-1,Rtl Passion
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/29.ts
+#EXTINF:-1,Rtl Crime
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1274.ts
+#EXTINF:-1,Heimatkanal
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/31.ts
+#EXTINF:-1,Sky Romance TV.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/30.ts
+#EXTINF:-1,-----Kultur------
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/88.ts
+#EXTINF:-1,Discovery HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/34.ts
+#EXTINF:-1,NatGeo Wild HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/33.ts
+#EXTINF:-1,Sky Natgeo HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/32.ts
+#EXTINF:-1,Sky History HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/35.ts
+#EXTINF:-1,Sky DMAX HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/74.ts
+#EXTINF:-1,Sky Arts Hd
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2414.ts
+#EXTINF:-1,E!entertainm HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/36.ts
+#EXTINF:-1,TLC HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2411.ts
+#EXTINF:-1,A&E
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2412.ts
+#EXTINF:-1,Sky SPIEGEL Geschichte
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1740.ts
+#EXTINF:-1,-----Kinder-----
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/92.ts
+#EXTINF:-1,Sky Disney Channell HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/38.ts
+#EXTINF:-1,Disney Cinemagic
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/39.ts
+#EXTINF:-1,Disney XD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/40.ts
+#EXTINF:-1,Sky Disney Junior
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/41.ts
+#EXTINF:-1,Kika
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/279.ts
+#EXTINF:-1,Carton Network..
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/43.ts
+#EXTINF:-1,Boomerang
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/44.ts
+#EXTINF:-1,Nickelodeon
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1041.ts
+#EXTINF:-1,Nick junior
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2283.ts
+#EXTINF:-1,--------Music---------
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1586.ts
+#EXTINF:-1,Deluxe Music
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/3077.ts
+#EXTINF:-1,Mtv Hits
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/3090.ts
+#EXTINF:-1,Mtv Dance
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/3091.ts
+#EXTINF:-1,Mtv Rock
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/3094.ts
+#EXTINF:-1,VH1
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2065.ts
+#EXTINF:-1,MTV Base
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2064.ts
+#EXTINF:-1,4 fun TV
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2421.ts
+#EXTINF:-1,Virgin TV
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2418.ts
+#EXTINF:-1,Mtv live HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1173.ts
+#EXTINF:-1,M2O Music
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1501.ts
+#EXTINF:-1,ONE BY HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1578.ts
+#EXTINF:-1,Radio Monte Carlo
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1575.ts
+#EXTINF:-1,Radio 105
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1576.ts
+#EXTINF:-1,------Sport------
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/45.ts
+#EXTINF:-1,Sky Sport News HD.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/46.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/47.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/48.ts
+#EXTINF:-1,Sport 1 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2282.ts
+#EXTINF:-1,Sky Sport 1 + HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/54.ts
+#EXTINF:-1,Sky Sport Austria.
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/383.ts
+#EXTINF:-1,EUROSPORT 1
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/56.ts
+#EXTINF:-1,EUROSPORT 2
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/57.ts
+#EXTINF:-1,Eurosport 2 HD Xtra
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2013.ts
+#EXTINF:-1,Motorvision TV
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2284.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/49.ts
+#EXTINF:-1,Sky Sport 4 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/50.ts
+#EXTINF:-1,Sky Sport 5 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/51.ts
+#EXTINF:-1,Sky Sport 6 SD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/52.ts
+#EXTINF:-1,Sky Sport 7 SD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/53.ts
+#EXTINF:-1,Sky Sport 8
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1826.ts
+#EXTINF:-1,Sky Sport 9
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1827.ts
+#EXTINF:-1,Sky Sport 10
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1828.ts
+#EXTINF:-1,------Bundesliga------
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/58.ts
+#EXTINF:-1,Bundesliga 1 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/59.ts
+#EXTINF:-1,Bundesliga 2 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/60.ts
+#EXTINF:-1,Bundesliga 3 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/61.ts
+#EXTINF:-1,Bundesliga 4 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/62.ts
+#EXTINF:-1,Bundesliga 5
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/63.ts
+#EXTINF:-1,Bundesliga 6
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/64.ts
+#EXTINF:-1,Bundesliga 7
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1823.ts
+#EXTINF:-1,Bundesliga 8
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1824.ts
+#EXTINF:-1,Bundesliga 9
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1825.ts
+#EXTINF:-1,Bundesliga 10
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2374.ts
+#EXTINF:-1,Sport Klub 1 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/700.ts
+#EXTINF:-1,Sport Klub 2 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/701.ts
+#EXTINF:-1,Sport Klub 3 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/702.ts
+#EXTINF:-1,Sport Klub 4
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2086.ts
+#EXTINF:-1,Sport Klub 5
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2087.ts
+#EXTINF:-1,Sport Klub 6
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2088.ts
+#EXTINF:-1,Arena 1 HR HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1266.ts
+#EXTINF:-1,Arena 2 HR HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2197.ts
+#EXTINF:-1,Arena 3 HR HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2198.ts
+#EXTINF:-1,Arena 4 HR HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2199.ts
+#EXTINF:-1,Arena 5 HR HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2200.ts
+#EXTINF:-1,Arena 1
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/498.ts
+#EXTINF:-1,Arena 2
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/712.ts
+#EXTINF:-1,Arena 3
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/713.ts
+#EXTINF:-1,Arena 4
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/714.ts
+#EXTINF:-1,Arena 5
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1533.ts
+#EXTINF:-1,FIGHT CHANEL
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/715.ts
+#EXTINF:-1,EUROSPORT2 - YU
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/497.ts
+#EXTINF:-1,EUROSPORT1 - YU
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/496.ts
+#EXTINF:-1,SOS
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/611.ts
+#EXTINF:-1,DAZN1
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2718.ts
+#EXTINF:-1,DAZN2
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2719.ts
+#EXTINF:-1,Eventchanel 1
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1751.ts
+#EXTINF:-1,US:  NBA TV HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2811.ts
+#EXTINF:-1,US:ESPN HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2808.ts
+#EXTINF:-1,US:NFL Network
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2809.ts
+#EXTINF:-1,US: MLB Network
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2810.ts
+#EXTINF:-1,Bein Laliga
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2892.ts
+#EXTINF:-1,Sky Sport 1 - Italy
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1309.ts
+#EXTINF:-1,TR: Bein Sport 1 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2860.ts
+#EXTINF:-1,TR: Bein Sport 2 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2861.ts
+#EXTINF:-1,TR: Bein Sport 3 HD
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2862.ts
+#EXTINF:-1,Bein Sports HD 1
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2381.ts
+#EXTINF:-1,Bein Sports HD 2
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2382.ts
+#EXTINF:-1,Bein Sports HD 3
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2383.ts
+#EXTINF:-1,Bein Sports HD 4
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2394.ts
+#EXTINF:-1,Bein Sports HD 5
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2395.ts
+#EXTINF:-1,Bein Sports HD 6
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2396.ts
+#EXTINF:-1,Bein Sports HD 7
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2397.ts
+#EXTINF:-1,Bein Sports HD 8
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2398.ts
+#EXTINF:-1,Bein Sports HD 9
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2399.ts
+#EXTINF:-1,Bein Sports HD 10
+http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2400.ts
