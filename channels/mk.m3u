@@ -1,11 +1,19 @@
 #EXTINF:-1,tvg-ID="SITEL MK" tvg-name="SITEL Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg" group-title="MAKEDONA",SITEL Full HD
-http://ksportiptv.com:1557/Muzafer.avdyli/QdBvx7uu85/2818
+http://195.181.169.152:8080/MACEDONIA/SITEL_HD/index.m3u8
 #EXTINF:-1,tvg-ID="KANAL5 MK" tvg-name="KANAL 5 Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal5_ua.jpg" group-title="MAKEDONA",KANAL5 Full HD
-http://ksportiptv.com:1557/Muzafer.avdyli/QdBvx7uu85/962
+http://195.181.169.152:8080/MACEDONIA/KANAL_5/index.m3u8
 #EXTINF:-1,tvg-ID="ALFA TV MK" tvg-name="ALFA TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/alfa.png" group-title="MAKEDONA",ALFA  TV Full HD
 http://195.181.169.152:8080/MACEDONIA/ALFA_HD/index.m3u8
 #EXTINF:-1,tvg-ID="TELMA TV MK" tvg-name="TELMA TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/telma.png" group-title="MAKEDONA",TELMA  TV Full HD
 http://195.181.169.152:8080/MACEDONIA/TELMA_HD/index.m3u8
+#EXTINF:-1,tvg-ID=" MRT 1 TV MK" tvg-name="MRT1 TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/mrt1.png" group-title="MAKEDONA",MRT1 TV Full HD
+http://195.181.169.152:8080/MACEDONIA/MRT_1_HD/index.m3u8
+#EXTINF:-1,tvg-ID=" MRT 2 TV MK" tvg-name="MRT2 TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/mrt2.png" group-title="MAKEDONA",MRT2 TV Full HD
+http://195.181.169.152:8080/MACEDONIA/MRT_2/index.m3u8
+#EXTINF:-1,tvg-ID=" MRT 3 TV MK" tvg-name="MRT3 TV Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrt_sobraniski_kanal.jpg" group-title="MAKEDONA",MRT2 TV Full HD
+http://195.181.169.152:8080/MACEDONIA/MRT_3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1 TV HD MK" tvg-logo="https://www.lyngsat.com/logo/tv/num/1-tv-mk.png" group-title="Macedonia",1 TV HD MK
+http://195.181.169.152:8080/MACEDONIA/1_TV/index.m3u8
 #EXTINF:-1,DSTV
 
 rtmp://46.249.95.140:1935/live/livestream
@@ -202,105 +210,3 @@ https://hls.telekabel.com.mk:1936/live/41/2500-def.m3u8
 https://hls.telekabel.com.mk:1936/live/51/2500-def.m3u8
 #EXTINF:-1,CNN
 https://hls.telekabel.com.mk:1936/live/61/2500-def.m3u8
-#EXTINF:-1,===== MK: MAKDONIA =====
-http://www.sansat.net:25461/juan482/WXdlnQwrz7/26092
-#EXTINF:-1,MK: 24 VESTI
-http://www.sansat.net:25461/juan482/WXdlnQwrz7/26091
-#EXTINF:-1,MK: ALFA TV
-http://www.sansat.net:25461/juan482/WXdlnQwrz7/26090
-#EXTINF:-1,MK: KANAL 5
-http://www.sansat.net:25461/juan482/WXdlnQwrz7/26089
-#EXTINF:-1,MK: KANAL 5 PLUS
-http://www.sansat.net:25461/juan482/WXdlnQwrz7/26088
-#EXTINF:-1,MK: MRT 1
-http://www.sansat.net:25461/juan482/WXdlnQwrz7/26087
-#EXTINF:-1,MK: MRT 2
-http://www.sansat.net:25461/juan482/WXdlnQwrz7/26086
-#EXTINF:-1,MK: SITEL
-http://www.sansat.net:25461/juan482/WXdlnQwrz7/26085
-#EXTINF:-1,MK: SITEL 3
-http://www.sansat.net:25461/juan482/WXdlnQwrz7/26084
-#EXTINF:-1,MK: SITEL TV
-http://www.sansat.net:25461/juan482/WXdlnQwrz7/26083
-#EXTINF:-1,MK: TELMA
-http://www.sansat.net:25461/juan482/WXdlnQwrz7/26082
-EXTINF:-1 tvg-id="" tvg-name="MK: HUGO H2" tvg-logo="" group-title="MACEDONIA",MK: HUGO H2
-http://thenew.tv:8000/rob/12345/46421
-#EXTINF:-1 tvg-id="" tvg-name="MK: Igman TV" tvg-logo="" group-title="MACEDONIA",MK: Igman TV
-http://thenew.tv:8000/rob/12345/46420
-#EXTINF:-1 tvg-id="InTV.al" tvg-name="MK: INTV AUSTRALIJA" tvg-logo="" group-title="MACEDONIA",MK: INTV AUSTRALIJA
-http://thenew.tv:8000/rob/12345/46419
-#EXTINF:-1 tvg-id="Kanal5.mk" tvg-name="MK: Kanal 5 HD" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/kanal5plus.png" group-title="MACEDONIA",MK: Kanal 5 HD
-http://thenew.tv:8000/rob/12345/46418
-#EXTINF:-1 tvg-id="Kanal5.se" tvg-name="MK: KANAL 5 Plus" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/kanal5plus.png" group-title="MACEDONIA",MK: KANAL 5 Plus
-http://thenew.tv:8000/rob/12345/46417
-#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="MK: Makedonska Tv" tvg-logo="" group-title="MACEDONIA",MK: Makedonska Tv
-http://thenew.tv:8000/rob/12345/46416
-#EXTINF:-1 tvg-id="" tvg-name="MK: Mega" tvg-logo="" group-title="MACEDONIA",MK: Mega
-http://thenew.tv:8000/rob/12345/46415
-#EXTINF:-1 tvg-id="Mvm.pt" tvg-name="MK: MPT 1" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrt1.png" group-title="MACEDONIA",MK: MPT 1
-http://thenew.tv:8000/rob/12345/46414
-#EXTINF:-1 tvg-id="Mvm.pt" tvg-name="MK: MPT 2" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrt2.png" group-title="MACEDONIA",MK: MPT 2
-http://thenew.tv:8000/rob/12345/46413
-#EXTINF:-1 tvg-id="Mvm.pt" tvg-name="MK: MPT 3" tvg-logo="" group-title=http://stream.mk/img/tvlogo/caching_folder/mrt2.png"MACEDONIA",MK: MPT 3
-http://thenew.tv:8000/rob/12345/46412
-#EXTINF:-1 tvg-id="MP.ca" tvg-name="MK: MPT Sat" tvg-logo="" group-title="MACEDONIA",MK: MPT Sat
-http://thenew.tv:8000/rob/12345/46411
-#EXTINF:-1 tvg-id="MRT1.mk" tvg-name="MK: MRT 1" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrt1.png" group-title="MACEDONIA",MK: MRT 1
-http://thenew.tv:8000/rob/12345/46410
-#EXTINF:-1 tvg-id="MRT2.mk" tvg-name="MK: MRT 2" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrt2.png" group-title="MACEDONIA",MK: MRT 2
-http://thenew.tv:8000/rob/12345/46409
-#EXTINF:-1 tvg-id="MRT3.mk" tvg-name="MK: MRT 3" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrtsobraniski.png" group-title="MACEDONIA",MK: MRT 3
-http://thenew.tv:8000/rob/12345/46408
-#EXTINF:-1 tvg-id="" tvg-name="MK: MRT Sobraniski" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/mrtsobraniski.png" group-title="MACEDONIA",MK: MRT Sobraniski
-http://thenew.tv:8000/rob/12345/46407
-#EXTINF:-1 tvg-id="MTM.mk" tvg-name="MK: MTM Skopje" tvg-logo="" group-title="MACEDONIA",MK: MTM Skopje
-http://thenew.tv:8000/rob/12345/46406
-#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="MK: MTM SKOPSKA" tvg-logo="" group-title="MACEDONIA",MK: MTM SKOPSKA
-http://thenew.tv:8000/rob/12345/46405
-#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-name="MK: Mtm Tv" tvg-logo="" group-title="MACEDONIA",MK: Mtm Tv
-http://thenew.tv:8000/rob/12345/46404
-#EXTINF:-1 tvg-id="" tvg-name="MK: MTV 1" tvg-logo="" group-title="MACEDONIA",MK: MTV 1
-http://thenew.tv:8000/rob/12345/46403
-#EXTINF:-1 tvg-id="NasaTV.ba" tvg-name="MK: NASHA TV" tvg-logo="" group-title="MACEDONIA",MK: NASHA TV
-http://thenew.tv:8000/rob/12345/46402
-#EXTINF:-1 tvg-id="" tvg-name="MK: Nova TV" tvg-logo="" group-title="MACEDONIA",MK: Nova TV
-http://thenew.tv:8000/rob/12345/46401
-#EXTINF:-1 tvg-id="RTV21Plus.al" tvg-name="MK: RTV 21 HD PLUS" tvg-logo="" group-title="MACEDONIA",MK: RTV 21 HD PLUS
-http://thenew.tv:8000/rob/12345/46400
-#EXTINF:-1 tvg-id="" tvg-name="MK: RTV 21 Macedonia" tvg-logo="" group-title="MACEDONIA",MK: RTV 21 Macedonia
-http://thenew.tv:8000/rob/12345/46399
-#EXTINF:-1 tvg-id="" tvg-name="MK: RTV 21 MAQEDONI" tvg-logo="" group-title="MACEDONIA",MK: RTV 21 MAQEDONI
-http://thenew.tv:8000/rob/12345/46398
-#EXTINF:-1 tvg-id="RTV21Plus.al" tvg-name="MK: RTV 21 MIX" tvg-logo="" group-title="MACEDONIA",MK: RTV 21 MIX
-http://thenew.tv:8000/rob/12345/46397
-#EXTINF:-1 tvg-id="RTV21Plus.al" tvg-name="MK: RTV 21 MK HD" tvg-logo="" group-title="MACEDONIA",MK: RTV 21 MK HD
-http://thenew.tv:8000/rob/12345/46396
-#EXTINF:-1 tvg-id="RTV21Popullore.al" tvg-name="MK: RTV 21 POPULLORE" tvg-logo="" group-title="MACEDONIA",MK: RTV 21 POPULLORE
-http://thenew.tv:8000/rob/12345/46395
-#EXTINF:-1 tvg-id="Sitel.mk" tvg-name="MK: Sitel 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg" group-title="MACEDONIA",MK: Sitel 2
-http://thenew.tv:8000/rob/12345/46394
-#EXTINF:-1 tvg-id="Sitel.mk" tvg-name="MK: Sitel TV" tvg-logo="" group-title="MACEDONIA",MK: Sitel TV
-http://thenew.tv:8000/rob/12345/46393
-#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="MK: Sky Folk" tvg-logo="" group-title="MACEDONIA",MK: Sky Folk
-http://thenew.tv:8000/rob/12345/46392
-#EXTINF:-1 tvg-id="SonceTV.mk" tvg-name="MK: Sonce TV" tvg-logo="" group-title="MACEDONIA",MK: Sonce TV
-http://thenew.tv:8000/rob/12345/46391
-#EXTINF:-1 tvg-id="LRTTelevizija.lt" tvg-name="MK: Televizija 5" tvg-logo="http://stream.mk/img/tvlogo/caching_folder/kanal5plus.png" group-title="MACEDONIA",MK: Televizija 5
-http://thenew.tv:8000/rob/12345/46390
-#EXTINF:-1 tvg-id="Telma.mk" tvg-name="MK: Telma" tvg-logo="" group-title="MACEDONIA",MK: Telma
-http://thenew.tv:8000/rob/12345/46389
-#EXTINF:-1 tvg-id="TV2Humor.no" tvg-name="MK: TV  Kumanovo" tvg-logo="" group-title="MACEDONIA",MK: TV  Kumanovo
-http://thenew.tv:8000/rob/12345/46382
-#EXTINF:-1 tvg-id="" tvg-name="MK: TV Koha Tetovë" tvg-logo="" group-title="MACEDONIA",MK: TV Koha Tetovë
-http://thenew.tv:8000/rob/12345/46388
-#EXTINF:-1 tvg-id="TvNovaPula.hr" tvg-name="MK: TV NOVA FHD" tvg-logo="" group-title="MACEDONIA",MK: TV NOVA FHD
-http://thenew.tv:8000/rob/12345/46387
-#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="MK: TV Plus" tvg-logo="" group-title="MACEDONIA",MK: TV Plus
-http://thenew.tv:8000/rob/12345/46386
-#EXTINF:-1 tvg-id="TVSN.au" tvg-name="MK: TV Shenja" tvg-logo="" group-title="MACEDONIA",MK: TV Shenja
-http://thenew.tv:8000/rob/12345/46385
-#EXTINF:-1 tvg-id="" tvg-name="MK: TV Sonce" tvg-logo="" group-title="MACEDONIA",MK: TV Sonce
-http://thenew.tv:8000/rob/12345/46384
-#EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="MK: TV VIJESTI" tvg-logo="" group-title="MACEDONIA",MK: TV VIJESTI
-http://thenew.tv:8000/rob/12345/46383
