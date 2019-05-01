@@ -117,3 +117,40 @@ http://163.172.211.229:8000/live/sula/sula123/45.ts
 http://163.172.211.229:8000/live/sula/sula123/46.ts
 #EXTINF:-1,Tring Sport 4 HD
 http://163.172.211.229:8000/live/sula/sula123/47.ts
+#EXTM3U
+#EXTINF:-1,Sky Sport 1 HD
+http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/246.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/245.ts
+#EXTINF:-1,Alice
+http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/241.ts
+#EXTINF:-1,Nove TV
+http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/188.ts
+#EXTINF:-1,Sky Arte HD
+http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/295.ts
+#EXTINF:-1,Rai Premium
+http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/177.ts
+#EXTINF:-1,Mediaset Extra
+http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/175.ts
+#EXTINF:-1,Rai Sport HD
+http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/263.ts
+#EXTINF:-1,Roma Channel
+http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/278.ts
+#EXTINF:-1,Alpha Tv
+http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/228.ts
+#EXTINF:-1,Sky Movies Greats
+http://portal.suptv.me/u/get?u=uk&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/283.ts
+#EXTINF:-1,(HD) SKY SPORT 24 ITALY 
+https://1.ip2stream.icu/live/sky_sport_24_hd/playlist.m3u8
+#EXTINF:-1,(HD) SKY SPORT UNO ITALY 
+https://1.ip2stream.icu/live/sky_sport_uno_hd/playlist.m3u8 
+#EXTINF:-1,(HD) SKY SPORT FOOTBALL ITALY 
+https://1.ip2stream.icu/live/sky_sport_football_hd/playlist.m3u8
+#EXTINF:-1,(HD) SKY SPORT ARENA ITALY 
+https://1.ip2stream.icu/live/sky_sport_arena_hd/playlist.m3u8 
+#EXTINF:-1,(HD) SKY SPORT NBA ITALY 
+https://1.ip2stream.icu/live/sky_sport_nba_hd/playlist.m3u8 
+#EXTINF:-1,(HD) SKY SPORT F1 ITALY 
+https://1.ip2stream.icu/live/sky_sport_f1_hd/playlist.m3u8 
+#EXTINF:-1,(HD) SKY SPORT MOTO GP ITALY 
+https://1.ip2stream.icu/live/sky_sport_motogp_hd/playlist.m3u8
