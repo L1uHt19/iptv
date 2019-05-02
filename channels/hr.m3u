@@ -1,51 +1,72 @@
 #EXTM3U
+#EXTINF:-1,HRT 1
+http://195.181.169.152:8080/CROATIA/HRT_1/index.m3u8
+#EXTINF:-1,HRT 2
+http://195.181.169.152:8080/CROATIA/HRT_2/index.m3u8
+#EXTINF:-1,HRT 3
+http://195.181.169.152:8080/CROATIA/HRT_3/index.m3u8
+#EXTINF:-1,HRT 4
+http://195.181.169.152:8080/CROATIA/HRT_4/index.m3u8
+#EXTINF:-1,HRT 5
+http://195.181.169.152:8080/CROATIA/HRT_5/index.m3u8
+#EXTINF:-1,RTL
+http://195.181.169.152:8080/CROATIA/RTL/index.m3u8
+#EXTINF:-1,RTL 2
+http://195.181.169.152:8080/CROATIA/RTL_2/index.m3u8
+#EXTINF:-1,RTL CRIME
+http://195.181.169.152:8080/CROATIA/RTL_CRIME/index.m3u8
+#EXTINF:-1,RTL LIVING
+http://195.181.169.152:8080/CROATIA/RTL_LIVING/index.m3u8
+#EXTINF:-1,CMC TV
+http://195.181.169.152:8080/CROATIA/CMC/index.m3u8
+#EXTM3U
 #EXTINF:-1,AMC
-http://93.138.18.99:4001/play/a014/index.m3u8
+http://93.138.78.83:4001/play/a014/index.m3u8
 #EXTINF:-1,CMC
-http://93.138.18.99:4001/play/a00k/index.m3u8
+http://93.138.78.83:4001/play/a00k/index.m3u8
 #EXTINF:-1,Cartoon Network
-http://93.138.18.99:4001/play/a00h/index.m3u8
+http://93.138.78.83:4001/play/a00h/index.m3u8
 #EXTINF:-1,CineStar Action and Thriller
-http://93.138.18.99:4001/play/a00y/index.m3u8
+http://93.138.78.83:4001/play/a00y/index.m3u8
 #EXTINF:-1,CineStar TV
-http://93.138.18.99:4001/play/a00x/index.m3u8
+http://93.138.78.83:4001/play/a00x/index.m3u8
 #EXTINF:-1,Comedy Central Extra
-http://93.138.18.99:4001/play/a013/index.m3u8
+http://93.138.78.83:4001/play/a013/index.m3u8
 #EXTINF:-1,DIVA
-http://93.138.18.99:4001/play/a00z/index.m3u8
+http://93.138.78.83:4001/play/a00z/index.m3u8
 #EXTINF:-1,DocuBox
-http://93.138.18.99:4001/play/a00u/index.m3u8
+http://93.138.78.83:4001/play/a00u/index.m3u8
 #EXTINF:-1,Doku TV
-http://93.138.18.99:4001/play/a00r/index.m3u8
+http://93.138.78.83:4001/play/a00r/index.m3u8
 #EXTINF:-1,FOX
-http://93.138.18.99:4001/play/a010/index.m3u8
+http://93.138.78.83:4001/play/a010/index.m3u8
 #EXTINF:-1,FOX Life
-http://93.138.18.99:4001/play/a011/index.m3u8
+http://93.138.78.83:4001/play/a011/index.m3u8
 #EXTINF:-1,History HD
-http://93.138.18.99:4001/play/a00p/index.m3u8
+http://93.138.78.83:4001/play/a00p/index.m3u8
 #EXTINF:-1,MTV
-http://93.138.18.99:4001/play/a00i/index.m3u8
+http://93.138.78.83:4001/play/a00i/index.m3u8
 #EXTINF:-1,MiniTV
-http://93.138.18.99:4001/play/a00e/index.m3u8
+http://93.138.78.83:4001/play/a00e/index.m3u8
 #EXTINF:-1,NatGeo Wild HD
-http://93.138.18.99:4001/play/a00o/index.m3u8
+http://93.138.78.83:4001/play/a00o/index.m3u8
 #EXTINF:-1,National Geographic
-http://93.138.18.99:4001/play/a00q/index.m3u8
+http://93.138.78.83:4001/play/a00q/index.m3u8
 #EXTINF:-1,National Geographic HD
-http://93.138.18.99:4001/play/a00n/index.m3u8
+http://93.138.78.83:4001/play/a00n/index.m3u8
 #EXTINF:-1,Nick Jr (HR)
-http://93.138.18.99:4001/play/a01f/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://93.138.18.99:4001/play/a00f/index.m3u8
+http://93.138.78.83:4001/play/a01f/index.m3u8
+#EXTINF:-1,Nickelodeon 
+http://93.138.78.83:4001/play/a00f/index.m3u8
 #EXTINF:-1,Planet Earth
-http://93.138.18.99:4001/play/a00v/index.m3u8
+http://93.138.78.83:4001/play/a00v/index.m3u8
 #EXTINF:-1,RTL Living
-http://93.138.18.99:4001/play/a00w/index.m3u8
+http://93.138.78.83:4001/play/a00w/index.m3u8
 #EXTINF:-1,VH1
-http://93.138.18.99:4001/play/a00j/index.m3u8
+http://93.138.78.83:4001/play/a00j/index.m3u8
 #EXTINF:-1,Viasat Explore
-http://93.138.18.99:4001/play/a00t/index.m3u8
+http://93.138.78.83:4001/play/a00t/index.m3u8
 #EXTINF:-1,Viasat History
-http://93.138.18.99:4001/play/a00s/index.m3u8
+http://93.138.78.83:4001/play/a00s/index.m3u8
 #EXTINF:-1,Viasat TV 1000
-http://93.138.18.99:4001/play/a012/index.m3u8
+http://93.138.78.83:4001/play/a012/index.m3u8
