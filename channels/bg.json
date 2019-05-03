@@ -1,0 +1,211 @@
+{
+    "title": "Bularian TV Channels",
+    "key": "0cYlqtpcvzC/VRkU0ExC5iwAupypLxhbofiMN4gUTfo=",
+    "balance_gateway": {
+        "enabled" : true,
+        "url" : "http://bgtvlive.com/balancer"
+    },
+    "hash_param": "h",    
+    "baseUrl": null,
+    "ip_gateway": "http://bgtvlive.com/ip",    
+    "channels": [
+        {
+            "name": "BNT 1",
+            "uri": "/BNT1HD/index.m3u8"
+        },
+        {
+            "name": "BNT 2",
+            "uri": "/BNT2HD/index.m3u8"
+        },        
+                {
+            "name": "KANAL 3 HD",
+            "uri": "/KANAL3HD/index.m3u8"
+        },        
+        {
+            "name": "BTV HD",
+            "uri": "/BTVHD/index.m3u8"
+        },
+        {
+            "name": "BTV ACTION HD",
+            "uri": "/BTVACTIONHD/index.m3u8"
+        },        
+        {
+            "name": "BTV CINEMA",
+            "uri": "/BTVCINEMA/index.m3u8"
+        },         
+        {
+            "name": "BTV COMEDY",
+            "uri": "/BTVCOMEDY/index.m3u8"
+        },      
+                {
+            "name": "BTV LADY",
+            "uri": "/BTVLADY/index.m3u8"
+        },      
+                {
+            "name": "NOVA TV",
+            "uri": "/NOVATVHD/index.m3u8"
+        },      
+                {
+            "name": "NOVA SPORT HD",
+            "uri": "/NOVASPORTHD/index.m3u8"
+        },      
+                {
+            "name": "KINO NOVA",
+            "uri": "/KINONOVA/index.m3u8"
+        },      
+                {
+            "name": "DIEMA TV",
+            "uri": "/DIEMATV/index.m3u8"
+        },
+                {
+            "name": "DIEMA FAMILY",
+            "uri": "/DIEMAFAMILYHD/index.m3u8"
+        },       
+                {
+            "name": "DIEMA SPORT 1",
+            "uri": "/DIEMASPORT1HD/index.m3u8"
+        }, 
+                {
+            "name": "DIEMA SPORT 2",
+            "uri": "/DIEMASPORT2HD/index.m3u8"
+        },      
+                {
+            "name": "MAX SPORT 1",
+            "uri": "/MAXSPORT1HD/index.m3u8"
+        },      
+                {
+            "name": "MAX SPORT 2",
+            "uri": "/MAXSPORT2HD/index.m3u8"
+        },      
+                {
+            "name": "RING BG HD",
+            "uri": "/RINGBGHD/index.m3u8"
+        },
+                {
+            "name": "EUROSPORT 1",
+            "uri": "/EUROSPORT1HD/index.m3u8"
+        },      
+                {
+            "name": "EUROSPORT 2",
+            "uri": "/EUROSPORT2HD/index.m3u8"
+        },              
+                {
+            "name": "SPORT PLUS HD",
+            "uri": "/SPORTPLUSHD/index.m3u8"
+        },
+                {
+            "name": "TV PLUS",
+            "uri": "/TVPLUS/index.m3u8"
+        },         
+                {
+            "name": "FILM PLUS",
+            "uri": "/FILMPLUS/index.m3u8"
+        },
+                {
+            "name": "ACTION PLUS HD",
+            "uri": "/ACTIONPLUSHD/index.m3u8"
+        },
+                {
+            "name": "CINEMA PLUS",
+            "uri": "/CINEMAPLUS/index.m3u8"
+        },            
+                {
+            "name": "HBO 1 HD",
+            "uri": "/HBO1HD/index.m3u8"
+        },      
+                {
+            "name": "HBO 2 HD",
+            "uri": "/HBO2HD/index.m3u8"
+        },      
+                {
+            "name": "HBO 3 HD",
+            "uri": "/HBO3HD/index.m3u8"
+        },      
+                {
+            "name": "CINEMAX 1 HD",
+            "uri": "/CINEMAX1HD/index.m3u8"
+        },      
+                {
+            "name": "CINEMAX 2 HD",
+            "uri": "/CINEMAX2HD/index.m3u8"
+        },
+                {
+            "name": "FOX HD",
+            "uri": "/FOXHD/index.m3u8"
+        },
+                {
+            "name": "FOX CRIME HD",
+            "uri": "/FOXCRIMEHD/index.m3u8"
+        },
+                {
+            "name": "FOX LIFE HD",
+            "uri": "/FOXLIFEHD/index.m3u8"
+        },      
+                {
+            "name": "AXN HD",
+            "uri": "/AXNHD/index.m3u8"
+        },      
+                {
+            "name": "FILMBOX EXTRA HD",
+            "uri": "/FILMBOXEXTRAHD/index.m3u8"
+        },      
+                {
+            "name": "DISCOVERY CHANNEL HD",
+            "uri": "/DISCOVERYCHANNELHD/index.m3u8"
+        },      
+                {
+            "name": "VIASAT HISTORY HD",
+            "uri": "/VIASATHISTORYHD/index.m3u8"
+        },
+                {
+            "name": "NAT GEO WILD HD",
+            "uri": "/NATGEOWILDHD/index.m3u8"
+        },      
+                {
+            "name": "ID EXTRA HD",
+            "uri": "/IDXTRAHD/index.m3u8"
+        },      
+                {
+            "name": "DISNEY CHANNEL",
+            "uri": "/DISNEYCHANNEL/index.m3u8"
+        },      
+                {
+            "name": "CARTOON NETWORK",
+            "uri": "/CARTOONNETWORK/index.m3u8"
+        },      
+                {
+            "name": "NICKLEDEON",
+            "uri": "/NICKLEDEON/index.m3u8"
+        },
+                {
+            "name": "THE VOICE",
+            "uri": "/THEVOICE/index.m3u8"
+        },        
+                {
+            "name": "CITY MUSIC TV",
+            "uri": "/CITYMUSIC/index.m3u8"
+        },
+                {
+            "name": "BG MUSIC CHANNEL HD",
+            "uri": "/BGMUSICHD/index.m3u8"
+        },         
+                {
+            "name": "PLANETA FOLK",
+            "uri": "/PLANETAFOLK/index.m3u8"
+        },      
+                {
+            "name": "PLANETA HD",
+            "uri": "/PLANETAHD/index.m3u8"
+        },
+                {
+            "name": "FEN TV HD",
+            "uri": "/FENTVHD/index.m3u8"
+        },
+                {
+            "name": "BG ON AIR",
+            "uri": "/BGONAIR/index.m3u8"
+        }
+       
+        
+    ]
+}
