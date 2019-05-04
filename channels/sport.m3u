@@ -118,39 +118,127 @@ http://163.172.211.229:8000/live/sula/sula123/46.ts
 #EXTINF:-1,Tring Sport 4 HD
 http://163.172.211.229:8000/live/sula/sula123/47.ts
 #EXTM3U
-#EXTINF:-1,Sky Sport 1 HD
-http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/246.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/245.ts
-#EXTINF:-1,Alice
-http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/241.ts
-#EXTINF:-1,Nove TV
-http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/188.ts
-#EXTINF:-1,Sky Arte HD
-http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/295.ts
-#EXTINF:-1,Rai Premium
-http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/177.ts
-#EXTINF:-1,Mediaset Extra
-http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/175.ts
-#EXTINF:-1,Rai Sport HD
-http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/263.ts
-#EXTINF:-1,Roma Channel
-http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/278.ts
-#EXTINF:-1,Alpha Tv
-http://portal.suptv.me/u/get?u=italy&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/228.ts
-#EXTINF:-1,Sky Movies Greats
-http://portal.suptv.me/u/get?u=uk&s=/live/iprostreams/7B85JCVJcM1o8R9qyH/283.ts
-#EXTINF:-1,(HD) SKY SPORT 24 ITALY 
-https://1.ip2stream.icu/live/sky_sport_24_hd/playlist.m3u8
-#EXTINF:-1,(HD) SKY SPORT UNO ITALY 
-https://1.ip2stream.icu/live/sky_sport_uno_hd/playlist.m3u8 
-#EXTINF:-1,(HD) SKY SPORT FOOTBALL ITALY 
-https://1.ip2stream.icu/live/sky_sport_football_hd/playlist.m3u8
-#EXTINF:-1,(HD) SKY SPORT ARENA ITALY 
-https://1.ip2stream.icu/live/sky_sport_arena_hd/playlist.m3u8 
-#EXTINF:-1,(HD) SKY SPORT NBA ITALY 
-https://1.ip2stream.icu/live/sky_sport_nba_hd/playlist.m3u8 
-#EXTINF:-1,(HD) SKY SPORT F1 ITALY 
-https://1.ip2stream.icu/live/sky_sport_f1_hd/playlist.m3u8 
-#EXTINF:-1,(HD) SKY SPORT MOTO GP ITALY 
-https://1.ip2stream.icu/live/sky_sport_motogp_hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,SKY CALCIO 5
+#EXTVLCOPT:http-user-agent=163.172.35.210
+http://163.172.35.210:8000/live/Falas/Tv/546.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,SKY CALCIO 4
+http://163.172.35.210:8000/live/Falas/Tv/545.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,SKY CALCIO 3
+http://163.172.35.210:8000/live/Falas/Tv/544.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,SKY CALCIO 2
+http://163.172.35.210:8000/live/Falas/Tv/543.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,SKY CALCIO 1
+http://163.172.35.210:8000/live/Falas/Tv/542.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super Sport 5
+http://163.172.35.210:8000/live/Falas/Tv/541.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super Sport 4
+http://163.172.35.210:8000/live/Falas/Tv/540.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,super sport 3
+http://163.172.35.210:8000/live/Falas/Tv/539.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,super sport 2
+http://163.172.35.210:8000/live/Falas/Tv/538.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,super sport 1
+http://163.172.35.210:8000/live/Falas/Tv/537.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,NOVA SPORT 2
+http://163.172.35.210:8000/live/Falas/Tv/536.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Rmc 4
+http://163.172.35.210:8000/live/Falas/Tv/535.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,RMC 5
+http://163.172.35.210:8000/live/Falas/Tv/534.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,RMC 3
+http://163.172.35.210:8000/live/Falas/Tv/533.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,RMC 2
+http://163.172.35.210:8000/live/Falas/Tv/532.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Rmc 1
+http://163.172.35.210:8000/live/Falas/Tv/531.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 9
+http://163.172.35.210:8000/live/Falas/Tv/530.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 8
+http://163.172.35.210:8000/live/Falas/Tv/529.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 7
+http://163.172.35.210:8000/live/Falas/Tv/528.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 6
+http://163.172.35.210:8000/live/Falas/Tv/527.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 5
+http://163.172.35.210:8000/live/Falas/Tv/526.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 4
+http://163.172.35.210:8000/live/Falas/Tv/525.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 3
+http://163.172.35.210:8000/live/Falas/Tv/524.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 2
+http://163.172.35.210:8000/live/Falas/Tv/523.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,BEIN SPORT 1
+http://163.172.35.210:8000/live/Falas/Tv/522.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 2
+http://163.172.35.210:8000/live/Falas/Tv/458.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 3
+http://163.172.35.210:8000/live/Falas/Tv/457.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,gold 1
+http://163.172.35.210:8000/live/Falas/Tv/456.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Gangu
+http://163.172.35.210:8000/live/Falas/Tv/453.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB THRILLER
+http://163.172.35.210:8000/live/Falas/Tv/38.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB aksion
+http://163.172.35.210:8000/live/Falas/Tv/49.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB KOMEDI
+http://163.172.35.210:8000/live/Falas/Tv/41.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Aksion
+http://163.172.35.210:8000/live/Falas/Tv/15.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Cinema
+http://163.172.35.210:8000/live/Falas/Tv/14.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Fantasy HD
+http://163.172.35.210:8000/live/Falas/Tv/13.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Film HD
+http://163.172.35.210:8000/live/Falas/Tv/12.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,SHQIPTV Hindi HD
+http://163.172.35.210:8000/live/Falas/Tv/11.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Horror HD
+http://163.172.35.210:8000/live/Falas/Tv/10.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Komedi HD
+http://163.172.35.210:8000/live/Falas/Tv/9.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Tom & Jerry
+http://163.172.35.210:8000/live/Falas/Tv/7.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Western HD
+http://163.172.35.210:8000/live/Falas/Tv/6.ts
