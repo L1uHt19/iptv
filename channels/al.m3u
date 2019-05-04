@@ -1,41 +1,167 @@
 
 #EXTM3U
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:0 group-title="ALB IPTV",T HD
-http://163.172.35.210:8000/live/Falas/Tv/512.ts
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:0 group-title="ALB IPTV",FILM THRILLER
-http://163.172.35.210:8000/live/Falas/Tv/508.ts
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:0 group-title="ALB IPTV",FILM NJE
-http://163.172.35.210:8000/live/Falas/Tv/511.ts
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:0 group-title="ALB IPTV",FILM KOMEDI
-http://163.172.35.210:8000/live/Falas/Tv/509.ts
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:0 group-title="ALB IPTV",FILM HITS
-http://163.172.35.210:8000/live/Falas/Tv/507.ts
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:0 group-title="ALB IPTV",FILM AUTOR
-http://163.172.35.210:8000/live/Falas/Tv/510.ts
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:-1 group-title="ALB IPTV",FILM AKSION
-http://163.172.35.210:8000/live/Falas/Tv/506.ts
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:-1 group-title="ALB IPTV",ora news
-http://163.172.35.210:8000/live/Falas/Tv/500.ts
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:-1 group-title="ALB IPTV",top channel
-http://163.172.35.210:8000/live/Falas/Tv/498.ts
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:-1 group-title="ALB IPTV",KLAN PLUS
-http://163.172.35.210:8000/live/Falas/Tv/497.ts
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:-1,Klan Kosova
-http://163.172.35.210:8000/live/Falas/Tv/499.ts
-#EXTVLCOPT:http-user-agent=163.172.35.210
-#EXTINF:-1 group-title="ALB IPTV",klan HD
-http://163.172.35.210:8000/live/Falas/Tv/496.ts
+#EXTINF:-1,Top Channel
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/28.ts
+#EXTINF:-1,Klan TV
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/27.ts
+#EXTINF:-1,Vizion Plus
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/26.ts
+#EXTINF:-1,Klan plus
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/86.ts
+#EXTINF:-1,news 24
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/75.ts
+#EXTINF:-1,Report tv
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/76.ts
+#EXTINF:-1,Ora news
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/74.ts
+#EXTINF:-1,Alsat
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/87.ts
+#EXTINF:-1,T HD Channel
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/56.ts
+#EXTINF:-1,RTSH Muzik
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/73.ts
+#EXTINF:-1,Film Aksion
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/63.ts
+#EXTINF:-1,Film Komedi
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/58.ts
+#EXTINF:-1,Film Hits
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/59.ts
+#EXTINF:-1,Film Nje HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/57.ts
+#EXTINF:-1,Film Dy HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/60.ts
+#EXTINF:-1,Film Dram
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/61.ts
+#EXTINF:-1,Film Autor
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/62.ts
+#EXTINF:-1,EXP Shkenca
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/64.ts
+#EXTINF:-1,EXP Natyra
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/65.ts
+#EXTINF:-1,EXP Histori
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/66.ts
+#EXTINF:-1,Cufo
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/43.ts
+#EXTINF:-1,Digi Gold
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/678.ts
+#EXTINF:-1,Bang Bang
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/42.ts
+#EXTINF:-1,Junior
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/41.ts
+#EXTINF:-1,Jolly HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/40.ts
+#EXTINF:-1,Smil
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/88.ts
+#EXTINF:-1,Tring World
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/32.ts
+#EXTINF:-1,Tring Planet
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/31.ts
+#EXTINF:-1,Tring Histori
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/35.ts
+#EXTINF:-1,Tring Shqip
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/30.ts
+#EXTINF:-1,Tring Super
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/29.ts
+#EXTINF:-1,Tring Max
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/33.ts
+#EXTINF:-1,Tring Komedi
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/34.ts
+#EXTINF:-1,Tring Fantazi
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/36.ts
+#EXTINF:-1,Tring 3 Plus
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/38.ts
+#EXTINF:-1,Tring tring
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/89.ts
+#EXTINF:-1,ShqipTv Western HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/692.ts
+#EXTINF:-1,ShqipTV Tom & Jerry
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/687.ts
+#EXTINF:-1,ShqipTv Komedi HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/691.ts
+#EXTINF:-1,ShqipTv Horror HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/690.ts
+#EXTINF:-1,SHQIPTV Hindi HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/683.ts
+#EXTINF:-1,ShqipTV Film HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/685.ts
+#EXTINF:-1,ShqipTv Fantasy HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/689.ts
+#EXTINF:-1,ShqipTv Aksion
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/688.ts
+#EXTINF:-1,EST: Vizion Plus
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/670.ts
+#EXTINF:-1,EST: Top Channel
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/669.ts
+#EXTINF:-1,OPOJA TV
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/77.ts
+#EXTINF:-1,syri tv
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/82.ts
+#EXTINF:-1,Jug tv
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/80.ts
+#EXTINF:-1,Dasma TV
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/817.ts
+#EXTINF:-1,ZjarrTV
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/813.ts
+#EXTINF:-1,TemaTV
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/812.ts
+#EXTINF:-1,RTVZiK
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/815.ts
+#EXTINF:-1,RTK 4
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/799.ts
+#EXTINF:-1,RTK 1*
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/798.ts
+#EXTINF:-1,Rrokum HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/800.ts
+#EXTINF:-1,JugTV
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/816.ts
+#EXTINF:-1,IN TV
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/814.ts
+#EXTINF:-1,Euro AL
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/819.ts
+#EXTINF:-1,Elrodi TV
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/818.ts
+#EXTINF:-1,ALB UK MUSIC
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/84.ts
+#EXTINF:-1,ALB UK HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/85.ts
+#EXTINF:-1,Kujtesa Sport 4
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/859.ts
+#EXTINF:-1,Kujtesa Sport 3
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/858.ts
+#EXTINF:-1,Kujtesa Sport 2
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/857.ts
+#EXTINF:-1,Kujtesa Sport 1
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/856.ts
+#EXTINF:-1,Super Sport Kosova 2 HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/55.ts
+#EXTINF:-1,Super Sport Kosova 1 HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/54.ts
+#EXTINF:-1,Super SPORT 1 HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/48.ts
+#EXTINF:-1,Super SPORT 2 HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/49.ts
+#EXTINF:-1,Super SPORT 3 HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/50.ts
+#EXTINF:-1,Super SPORT 4 HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/51.ts
+#EXTINF:-1,Super SPORT 5 HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/52.ts
+#EXTINF:-1,Tring Sport 1 HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/44.ts
+#EXTINF:-1,Tring Sport 2 HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/45.ts
+#EXTINF:-1,Tring Sport 3 HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/46.ts
+#EXTINF:-1,Tring Sport 4 HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/47.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/825.ts
+#EXTINF:-1,Discovery Science HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/822.ts
+#EXTINF:-1,ANIMAL PLANET
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/823.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/824.ts
 #EXTVLCOPT:http-user-agent=163.172.35.210
 #EXTINF:-1 group-title="ALB IPTV",gold 2
 http://163.172.35.210:8000/live/Falas/Tv/458.ts
