@@ -1,10 +1,10 @@
 
 #EXTM3U
-#EXTINF:-1,Top Channel
+#EXTINF:-1 tvg-id="" tvg-name="TOP HD (AL)" tvg-logo="https://s3.amazonaws.com/ok2logo/TOP+CHANNEL+TV+LOGO.jpg" group-title="BALKANS",TOP HD (AL)
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/28.ts
 #EXTINF:-1,Klan TV
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/27.ts
-#EXTINF:-1,Vizion Plus
+#EXTINF:-1 tvg-id="" tvg-name="VIZION PLUS (AL)" tvg-logo="https://s3.amazonaws.com/ok2logo/Vizioni+TV+LOGO.png" group-title="BALKANS",VIZION PLUS (AL)
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/26.ts
 #EXTINF:-1,Klan plus
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/86.ts
@@ -48,7 +48,7 @@ http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/678.ts
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/42.ts
 #EXTINF:-1,Junior
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/41.ts
-#EXTINF:-1,Jolly HD
+#EXTINF:-1 tvg-id="" tvg-name="TRING JOLLY HD (AL)" tvg-logo="https://s3.amazonaws.com/ok2logo/TRING+JOLLY+HD+LOGO.jpg" group-title="BALKANS",TRING JOLLY HD (AL)
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/40.ts
 #EXTINF:-1,Smil
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/88.ts
@@ -58,15 +58,15 @@ http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/32.ts
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/31.ts
 #EXTINF:-1,Tring Histori
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/35.ts
-#EXTINF:-1,Tring Shqip
+#EXTINF:-1 tvg-id="" tvg-name="TRING SHAQIP (AL)" tvg-logo="https://s3.amazonaws.com/ok2logo/TRING+PLANET+logo.png" group-title="BALKANS",TRING SHAQIP (AL)
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/30.ts
-#EXTINF:-1,Tring Super
+#EXTINF:-1 tvg-id="" tvg-name="TRING SUPER (AL)" tvg-logo="https://s3.amazonaws.com/ok2logo/TRING+super+Logo.png" group-title="BALKANS",TRING SUPER (AL)
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/29.ts
 #EXTINF:-1,Tring Max
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/33.ts
 #EXTINF:-1,Tring Komedi
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/34.ts
-#EXTINF:-1,Tring Fantazi
+#EXTINF:-1 tvg-id="" tvg-name="TRING FANTASY (AL)" tvg-logo="https://s3.amazonaws.com/ok2logo/TRING+fantasy+logo.png" group-title="BALKANS",TRING FANTASY (AL)
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/36.ts
 #EXTINF:-1,Tring 3 Plus
 http://163.172.211.229:8000/live/albw54y6ioyktr/dryuti79oi6trwy/38.ts
