@@ -12,9 +12,9 @@ http://195.181.169.152:8080/MACEDONIA/MRT_1_HD/index.m3u8
 http://195.181.169.152:8080/MACEDONIA/MRT_2/index.m3u8
 #EXTINF:-1,tvg-ID=" MRT 3 TV MK" tvg-name="MRT3 TV Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrt_sobraniski_kanal.jpg" group-title="MAKEDONA",MRT2 TV Full HD
 http://195.181.169.152:8080/MACEDONIA/MRT_3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1 TV HD MK" tvg-logo="https://www.lyngsat.com/logo/tv/num/1-tv-mk.png" group-title="Macedonia",1 TV HD MK
+#EXTINF:-1 tvg-id="" tvg-name="1 TV HD MK" tvg-logo="https://i.imgur.com/foIanG6.png" group-title="Macedonia",1 TV HD MK
 http://195.181.169.152:8080/MACEDONIA/1_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HUGO TV HD MK" tvg-logo="https://www.lyngsat.com/logo/tv/num/1-tv-mk.png" group-title="Macedonia",HUGO TV HD MK
+#EXTINF:-1 tvg-id="" tvg-name="HUGO TV HD MK" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/18506_logo_y_h1_satelite_hugo_tv.png" group-title="Macedonia",HUGO TV HD MK
 http://195.181.169.152:8080/CROATIA/TV_NOVA/index.m3u8
 #EXTINF:-1,DSTV
 
