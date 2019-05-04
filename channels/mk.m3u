@@ -14,6 +14,8 @@ http://195.181.169.152:8080/MACEDONIA/MRT_2/index.m3u8
 http://195.181.169.152:8080/MACEDONIA/MRT_3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1 TV HD MK" tvg-logo="https://www.lyngsat.com/logo/tv/num/1-tv-mk.png" group-title="Macedonia",1 TV HD MK
 http://195.181.169.152:8080/MACEDONIA/1_TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HUGO TV HD MK" tvg-logo="https://www.lyngsat.com/logo/tv/num/1-tv-mk.png" group-title="Macedonia",HUGO TV HD MK
+http://195.181.169.152:8080/CROATIA/TV_NOVA/index.m3u8
 #EXTINF:-1,DSTV
 
 rtmp://46.249.95.140:1935/live/livestream
