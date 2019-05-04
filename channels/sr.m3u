@@ -1,33 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="RTS 1 TV HD " tvg-logo="" group-title="Serbia",RTS 1 TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="RTS 1 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PTC1+tv+logo.png" group-title="Serbia",RTS 1 TV HD  SR
 http://195.181.169.152:8080/SERBIA/RTS_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTS 2 TV HD " tvg-logo="" group-title="Serbia",RTS 2 TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="RTS 2 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PTC2+TV+logo.png" group-title="Serbia",RTS 2 TV HD  SR
 http://195.181.169.152:8080/SERBIA/RTS_2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RTS 3 TV HD " tvg-logo="" group-title="Serbia",RTS 3 TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="RTS 3 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PTC3+TV+logo.png" group-title="Serbia",RTS 3 TV HD  SR
 http://195.181.169.152:8080/SERBIA/RTS_3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PINK_1 TV HD " tvg-logo="" group-title="Serbia",PINK_1 TV HD  SR
-http://195.181.169.152:8080/SERBIA/PINK_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PINK_2 TV HD " tvg-logo="" group-title="Serbia",PINK_2 TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="PINK_1 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+TV+LOGO.jpg" group-title="Serbia",PINK_1 TV HD  SR
+
+http://195.181.169.152:8080/SERBIA/PINK_1/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="PINK 2 (RS)" tvg-logo="https://s3.amazonaws.com/ok2logo/PINK2+tv+logo.jpg" group-title="BALKANS",PINK 2 (RS)
 http://195.181.169.152:8080/SERBIA/PINK_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PINK_3TV HD " tvg-logo="" group-title="Serbia",PINK_3 TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="PINK_3TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK3+info+tv+logo.png" group-title="Serbia",PINK_3 TV HD  SR
 http://195.181.169.152:8080/SERBIA/PINK_3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PINK_WESTERN TV HD " tvg-logo="" group-title="Serbia",PINK_WESTERN TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="PINK_WESTERN TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkWestern_SRB.png" group-title="Serbia",PINK_WESTERN TV HD  SR
 http://195.181.169.152:8080/SERBIA/PINK_WESTERN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PINK_ACTION TV HD " tvg-logo="" group-title="Serbia",PINK_ACTION TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="PINK_ACTION TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+ACTION+tv+logo.jpg" group-title="Serbia",PINK_ACTION TV HD  SR
 http://195.181.169.152:8080/SERBIA/PINK_ACTION/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PINK_PREMIUM TV HD " tvg-logo="" group-title="Serbia",PINK_PREMIUM TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="PINK_PREMIUM TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+PREMIUM+tv+logo.jpg" group-title="Serbia",PINK_PREMIUM TV HD  SR
 http://195.181.169.152:8080/SERBIA/PINK_PREMIUM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PINK_ZABAVA TV HD " tvg-logo="" group-title="Serbia",PINK_ZABAVA TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="PINK_ZABAVA TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkZabava_SRB.png" group-title="Serbia",PINK_ZABAVA TV HD  SR
 http://195.181.169.152:8080/SERBIA/PINK_ZABAVA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PINK_HORROR  TV HD " tvg-logo="" group-title="Serbia",PINK_HORROR TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="PINK_HORROR  TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkHorror_SRB.png" group-title="Serbia",PINK_HORROR TV HD  SR
 http://195.181.169.152:8080/SERBIA/PINK_HORROR/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PINK_COMEDY TV HD " tvg-logo="" group-title="Serbia",PINK_COMEDY TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="PINK_COMEDY TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkComedy_SRB.png" group-title="Serbia",PINK_COMEDY TV HD  SR
 http://195.181.169.152:8080/SERBIA/PINK_COMEDY/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="PINK_WORLD TV HD " tvg-logo="" group-title="Serbia",PINK_WORLD TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="PINK_WORLD TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkWorld_SRB.png" group-title="Serbia",PINK_WORLD TV HD  SR
 http://195.181.169.152:8080/SERBIA/PINK_WORLD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PINK_REALITY TV HD " tvg-logo="" group-title="Serbia",PINK_REALITY TV HD  SR
+#EXTINF:-1 tvg-id="" tvg-name="PINK_REALITY TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+REALITY+tv+logo.png" group-title="Serbia",PINK_REALITY TV HD  SR
 http://195.181.169.152:8080/SERBIA/PINK_REALITY/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV HD " tvg-logo="" group-title="Serbia",CINESTAR TV HD  SR
