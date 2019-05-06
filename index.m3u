@@ -1,6 +1,9 @@
 #EXTM3U
+#EXTINF:-1,MAK-IPTV
+channels/makiptv.m3u
 #EXTINF:-1,Albania
 channels/al.m3u
+
 #EXTINF:-1,Macedonia
 channels/mk.m3u
 #EXTINF:-1,Serbia
@@ -18,10 +21,14 @@ channels/bg.m3u
 channels/tr.m3u
 #EXTINF:-1,UK England
 channels/uk.m3u
+#EXTINF:-1,Rusia
+channels/rusia.m3u
 #EXTINF:-1,Animal
 channels/animal.m3u
 #EXTINF:-1,Sports
 channels/sport.m3u
+#EXTINF:-1,Music
+channels/music.m3u
 #EXTINF:-1,Vood& Movies
 channels/movies.m3u
 #EXTINF:-1,XXXX(18+)
