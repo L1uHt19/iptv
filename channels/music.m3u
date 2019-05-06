@@ -6,3 +6,8 @@ http://193.201.98.123:8000/play/a01b
 http://193.201.98.123:8000/play/a01c
 #EXTINF:-1, MTV Rocks
 http://193.201.98.123:8000/play/a01d
+http://193.201.98.123:8000/play/a02f
+#EXTINF:-1,VH1 Classic
+http://193.201.98.123:8000/play/a01h
+#EXTINF:-1,VH1 European
+http://193.201.98.123:8000/play/a01i
