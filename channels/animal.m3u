@@ -12,3 +12,23 @@ http://80.80.160.168/live/4/live.m3u8  PLANET GREEN
 http://80.80.160.168/live/8/live.m3u8  DISCOVERY HD
 #EXTINF:-1,Discovery Science HD
 http://80.80.160.168/live/9/live.m3u8  Discovery Science HD
+#EXTINF : -1, Animal Planet HD
+http://78.57.160.181:9981/stream/channelid/95341563
+#EXTINF : -1, Discovery HD
+http://78.57.160.181:9981/stream/channelid/688765681
+#EXTINF : -1, Nat Geo Wild HD
+http://78.57.160.181:9981/stream/channelid/197384010
+#EXTINF : -1, History HD
+http://78.57.160.181:9981/stream/chanid/1529616012
+#EXTINF : -1, National Geographic HD
+http: / /78.57.160.181:9981/stream/channelid/264310308
+#EXTINF : -1, Viasat Nature / History HD
+http://78.57.160.181:9981/stream/channelid/2142125733
+#EXTINF : -1, Travel
+http://78.57.160.181: 9981/stream/channelid/368272800
+#EXTINF : -1, Viasat Explorer
+http://78.57.160.181:9981/stream/channelid/1196330816
+#EXTINF : -1, Viasat Nature
+http://78.57.160.181:9981/stream/ channelid / 279441724
+#EXTINF : -1, Viasat History
+http://78.57.160.181:9981/stream/channelid/1652454332
