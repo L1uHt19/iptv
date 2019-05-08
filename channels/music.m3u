@@ -11,3 +11,29 @@ http://193.201.98.123:8000/play/a02f
 http://193.201.98.123:8000/play/a01h
 #EXTINF:-1,VH1 European
 http://193.201.98.123:8000/play/a01i
+#EXTINF:-1 tvg-id="236" tvg-name="*********        MUZICKI KANALI        *********" tvg-logo="/noicon.png" group-title="Music",*********        MUZICKI KANALI        ********* - *********        MUZICKI KANALI        *********
+http://dynds.iptvposokuca.info:80/live?channelId=236&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="176" tvg-name="CMC" tvg-logo="http://www.scena.ba/Images/News/727/CMC-TV.jpg" group-title="Music",CMC - CMC
+http://maksitv.iptvposokuca.info:80/live?channelId=176&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="36" tvg-name="DM SAT" tvg-logo="http://img01.deviantart.net/d129/i/2011/024/e/1/dm_sat_by_cavalieredellacita-d37yc3j.png" group-title="Music",DM SAT - DM SAT
+http://dynds.iptvposokuca.info:80/live?channelId=36&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="191" tvg-name="BN Music" tvg-logo="https://yt3.ggpht.com/-ReRaLIl5Wl4/AAAAAAAAAAI/AAAAAAAAAAA/G-9Yard4VFA/s900-c-k-no/photo.jpg" group-title="Music",BN Music - BN Music
+http://maksitv.iptvposokuca.info:80/live?channelId=191&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="130" tvg-name="Grand Televizija" tvg-logo="http://static.mondo.rs/Picture/342185/jpeg/grand.jpg" group-title="Music",Grand Televizija - Grand Televizija
+http://maksitv.iptvposokuca.info:80/live?channelId=130&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="190" tvg-name="Hayat Folk" tvg-logo="http://teve.ba/img/articles/7436.jpg" group-title="Music",Hayat Folk - Hayat Folk
+http://dynds.iptvposokuca.info:80/live?channelId=190&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="79" tvg-name="Pink Folk" tvg-logo="http://original.livestream.com/filestore/branding/pinkfolkmusic/2010/10/29/644B6B4B-17DF-C4C2-E995-F4FD6C361CCB.jpg" group-title="Music",Pink Folk - Pink Folk
+http://dynds.iptvposokuca.info:80/live?channelId=79&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="173" tvg-name="Izvorna TV" tvg-logo="http://www.izvornatv.com/cimage/box/image-102.png" group-title="Music",Izvorna TV - Izvorna TV
+http://maksitv.iptvposokuca.info:80/live?channelId=173&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="200" tvg-name="MTV Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/4/4e/Mtv_adria_logo.jpg" group-title="Music",MTV Adria - MTV Adria
+http://maksitv.iptvposokuca.info:80/live?channelId=200&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="242" tvg-name="MTV Hits" tvg-logo="https://pbs.twimg.com/profile_images/937527078093811712/f81yQzER.jpg" group-title="Music",MTV Hits - MTV Hits
+http://dynds.iptvposokuca.info:80/live?channelId=242&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="240" tvg-name="MTV Dance" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGoSt7EjJMPjA4B3UZnzPgJy-B0Hg2bAeCM8CeECDaiqTZRHgj" group-title="Music",MTV Dance - MTV Dance
+http://tvmaksi.iptvposokuca.info:80/live?channelId=240&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="241" tvg-name="MTV Classic" tvg-logo="http://i.imgur.com/OrmCwrI.png" group-title="Music",MTV Classic - MTV Classic
+http://maksitv.iptvposokuca.info:80/live?channelId=241&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="201" tvg-name="VH1" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-vh1.png" group-title="Music",VH1 - VH1
+http://dynds.iptvposokuca.info:80/live?channelId=201&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
