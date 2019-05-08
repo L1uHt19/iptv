@@ -1,4 +1,54 @@
 #EXTM3U
+http://dynds.iptvposokuca.info:80/live?channelId=239&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="170" tvg-name="Sky Select 1 HD (DE)" tvg-logo="http://4.bp.blogspot.com/-9uAOXYtQcBY/Vc80-_1AD-I/AAAAAAAABPM/O7U3XeyzDh0/s1600/Sky%2BSelect%2BHD.jpg" group-title="Movies (No translation)",Sky Select 1 HD (DE) - Sky Select 1 HD (DE)
+http://maksitv.iptvposokuca.info:80/live?channelId=170&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="171" tvg-name="Sky Select 2 HD (DE)" tvg-logo="http://4.bp.blogspot.com/-9uAOXYtQcBY/Vc80-_1AD-I/AAAAAAAABPM/O7U3XeyzDh0/s1600/Sky%2BSelect%2BHD.jpg" group-title="Movies (No translation)",Sky Select 2 HD (DE) - Sky Select 2 HD (DE)
+http://maksitv.iptvposokuca.info:80/live?channelId=171&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="172" tvg-name="Sky Select 3 HD (DE)" tvg-logo="http://4.bp.blogspot.com/-9uAOXYtQcBY/Vc80-_1AD-I/AAAAAAAABPM/O7U3XeyzDh0/s1600/Sky%2BSelect%2BHD.jpg" group-title="Movies (No translation)",Sky Select 3 HD (DE) - Sky Select 3 HD (DE)
+http://maksitv.iptvposokuca.info:80/live?channelId=172&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="178" tvg-name="Sky Select 4 HD (DE)" tvg-logo="http://4.bp.blogspot.com/-9uAOXYtQcBY/Vc80-_1AD-I/AAAAAAAABPM/O7U3XeyzDh0/s1600/Sky%2BSelect%2BHD.jpg" group-title="Movies (No translation)",Sky Select 4 HD (DE) - Sky Select 4 HD (DE)
+http://maksitv.iptvposokuca.info:80/live?channelId=178&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="177" tvg-name="Sky Select 5 HD (DE)" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Select-5-DE_o.jpg" group-title="Movies (No translation)",Sky Select 5 HD (DE) - Sky Select 5 HD (DE)
+http://maksitv.iptvposokuca.info:80/live?channelId=177&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="181" tvg-name="Sky Select 6 HD" tvg-logo="http://4.bp.blogspot.com/-9uAOXYtQcBY/Vc80-_1AD-I/AAAAAAAABPM/O7U3XeyzDh0/s1600/Sky%2BSelect%2BHD.jpg" group-title="Movies (No translation)",Sky Select 6 HD - Sky Select 6 HD
+http://maksitv.iptvposokuca.info:80/live?channelId=181&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="182" tvg-name="Sky Select 7 HD" tvg-logo="http://4.bp.blogspot.com/-9uAOXYtQcBY/Vc80-_1AD-I/AAAAAAAABPM/O7U3XeyzDh0/s1600/Sky%2BSelect%2BHD.jpg" group-title="Movies (No translation)",Sky Select 7 HD - Sky Select 7 HD
+http://maksitv.iptvposokuca.info:80/live?channelId=182&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="183" tvg-name="Sky Select 8 HD" tvg-logo="http://4.bp.blogspot.com/-9uAOXYtQcBY/Vc80-_1AD-I/AAAAAAAABPM/O7U3XeyzDh0/s1600/Sky%2BSelect%2BHD.jpg" group-title="Movies (No translation)",Sky Select 8 HD - Sky Select 8 HD
+http://maksitv.iptvposokuca.info:80/live?channelId=183&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="184" tvg-name="Sky Select 9 HD" tvg-logo="http://4.bp.blogspot.com/-9uAOXYtQcBY/Vc80-_1AD-I/AAAAAAAABPM/O7U3XeyzDh0/s1600/Sky%2BSelect%2BHD.jpg" group-title="Movies (No translation)",Sky Select 9 HD - Sky Select 9 HD
+http://dynds.iptvposokuca.info:80/live?channelId=184&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="87" tvg-name="Sky Cinema (DE)" tvg-logo="http://www.schau-hd.tv/attachments/64/sky_de_cinema_hd.png" group-title="Movies (No translation)",Sky Cinema (DE) - Sky Cinema (DE)
+http://tvmaksi.iptvposokuca.info:80/live?channelId=87&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="141" tvg-name="Sky Cinema HD (DE)" tvg-logo="http://www.schau-hd.tv/attachments/64/sky_de_cinema_hd.png" group-title="Movies (No translation)",Sky Cinema HD (DE) - Sky Cinema HD (DE)
+http://maksitv.iptvposokuca.info:80/live?channelId=141&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="86" tvg-name="Sky Action (DE)" tvg-logo="http://www.sky.de/static/img/senderlogos/sky_logo_skyactionhd.png" group-title="Movies (No translation)",Sky Action (DE) - Sky Action (DE)
+http://tvmaksi.iptvposokuca.info:80/live?channelId=86&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="85" tvg-name="Sky Comedy (DE)" tvg-logo="http://image1.tvdigital.de/files/station_logos/617.png" group-title="Movies (No translation)",Sky Comedy (DE) - Sky Comedy (DE)
+http://dynds.iptvposokuca.info:80/live?channelId=85&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="150" tvg-name="Sky Movies Action and Adventure (UK)" tvg-logo="http://www.grovenationalwarranty.co.uk/icons/Movies/Sky-Movies-ActionAdventure.png" group-title="Movies (No translation)",Sky Movies Action and Adventure (UK) - Sky Movies Action and Adventure (UK)
+http://maksitv.iptvposokuca.info:80/live?channelId=150&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="149" tvg-name="Sky Movies Comedy (UK)" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Movies-Comedy-HD-UK_o.jpg" group-title="Movies (No translation)",Sky Movies Comedy (UK) - Sky Movies Comedy (UK)
+http://maksitv.iptvposokuca.info:80/live?channelId=149&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="147" tvg-name="Sky Cinema+ 24 HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky_Cinema%2B24_HD.svg/1280px-Sky_Cinema%2B24_HD.svg.png" group-title="Movies (No translation)",Sky Cinema+ 24 HD (DE) - Sky Cinema+ 24 HD (DE)
+http://maksitv.iptvposokuca.info:80/live?channelId=147&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="151" tvg-name="Sky Atlantic (UK)" tvg-logo="http://www.tvsa.co.za/images/uploads/thumbs/0053004.png" group-title="Movies (No translation)",Sky Atlantic (UK) - Sky Atlantic (UK)
+http://maksitv.iptvposokuca.info:80/live?channelId=151&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="214" tvg-name="Sci-Fy" tvg-logo="http://theflickcast.com/wp-content/uploads//sci-fi-logo.jpg" group-title="Movies (No translation)",Sci-Fy - Sci-Fy
+http://tvmaksi.iptvposokuca.info:80/live?channelId=214&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="213" tvg-name="FilmBox Plus" tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmboxplus-logo.png" group-title="Movies (No translation)",FilmBox Plus - FilmBox Plus
+http://tvmaksi.iptvposokuca.info:80/live?channelId=213&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="193" tvg-name="Film Box Extra" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d3/Filmbox_extra_pl.png/revision/latest?cb=20160116192823" group-title="Movies (No translation)",Film Box Extra - Film Box Extra
+http://maksitv.iptvposokuca.info:80/live?channelId=193&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="160" tvg-name="National Geographic Wild HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/langfr-250px-Logo_Nat_Geo_Wild.svg.png" group-title="Docu (No translation)",National Geographic Wild HD (DE) - National Geographic Wild HD (DE)
+http://maksitv.iptvposokuca.info:80/live?channelId=160&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="140" tvg-name="Sky Nat. Geo. HD (DE)" tvg-logo="http://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430.png" group-title="Docu (No translation)",Sky Nat. Geo. HD (DE) - Sky Nat. Geo. HD (DE)
+http://maksitv.iptvposokuca.info:80/live?channelId=140&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="161" tvg-name="Sky Discovery Channel (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Discovery_Channel_logo_2000.svg/200px-Discovery_Channel_logo_2000.svg.png" group-title="Docu (No translation)",Sky Discovery Channel (UK) - Sky Discovery Channel (UK)
+http://maksitv.iptvposokuca.info:80/live?channelId=161&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="84" tvg-name="Sky History Channel (DE)" tvg-logo="http://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_history2008.jpg" group-title="Docu (No translation)",Sky History Channel (DE) - Sky History Channel (DE)
+http://dynds.iptvposokuca.info:80/live?channelId=84&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+-----------
 #EXTINF:-1,Moziverzum
 http://188.6.54.240:9001/play/a00p
 #EXTINF:-1,ATV
