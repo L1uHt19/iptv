@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="20" tvg-name="Sport Klub 1" tvg-logo="http://www.sportklub.rs/img/pssk1.png" group-title="Sport",Sport Klub 1 - Sport Klub 1
+http://dynds.iptvposokuca.info:80/live?channelId=20&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="21" tvg-name="Sport Klub 2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sport-Klub-2-Slovenia_o.jpg" group-title="Sport",Sport Klub 2 - Sport Klub 2
+http://dynds.iptvposokuca.info:80/live?channelId=21&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="22" tvg-name="Sport Klub 3" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sport-Klub-3-Slovenia_o.jpg" group-title="Sport",Sport Klub 3 - Sport Klub 3
+http://dynds.iptvposokuca.info:80/live?channelId=22&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="216" tvg-name="Sport Klub 4" tvg-logo="http://www.sava-iptv.com/wp-content/uploads/sport-klub-4-700x466.png" group-title="Sport",Sport Klub 4 - Sport Klub 4
+http://tvmaksi.iptvposokuca.info:80/live?channelId=216&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="217" tvg-name="Sport Klub 5" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sportklub_5.png" group-title="Sport",Sport Klub 5 - Sport Klub 5
+http://tvmaksi.iptvposokuca.info:80/live?channelId=217&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="218" tvg-name="Sport Klub 6" tvg-logo="http://www.sava-iptv.com/wp-content/uploads/sport-klub-6-700x466.png" group-title="Sport",Sport Klub 6 - Sport Klub 6
+http://tvmaksi.iptvposokuca.info:80/live?channelId=218&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="229" tvg-name="Sport Klub 2 (HR)" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sk2hd.png" group-title="Sport",Sport Klub 2 (HR) - Sport Klub 2 (HR)
+http://tvmaksi.iptvposokuca.info:80/live?channelId=229&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="227" tvg-name="Sport Klub 3 (HR)" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sk3hd.png" group-title="Sport",Sport Klub 3 (HR) - Sport Klub 3 (HR)
+http://dynds.iptvposokuca.info:80/live?channelId=227&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="42" tvg-name="Arena 1 (HR)" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_1_logo.png" group-title="Sport",Arena 1 (HR) - Arena 1 (HR)
+http://dynds.iptvposokuca.info:80/live?channelId=42&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="43" tvg-name="Arena 2 (HR)" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_2_logo.png" group-title="Sport",Arena 2 (HR) - Arena 2 (HR)
+http://dynds.iptvposokuca.info:80/live?channelId=43&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="135" tvg-name="Arena 3 (HR)" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_3_logo.png" group-title="Sport",Arena 3 (HR) - Arena 3 (HR)
+http://maksitv.iptvposokuca.info:80/live?channelId=135&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="92" tvg-name="Arena 4 (HR)" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_4_logo.png" group-title="Sport",Arena 4 (HR) - Arena 4 (HR)
+http://dynds.iptvposokuca.info:80/live?channelId=92&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="136" tvg-name="Arena 5 (HR)" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_5_logo.png" group-title="Sport",Arena 5 (HR) - Arena 5 (HR)
+http://maksitv.iptvposokuca.info:80/live?channelId=136&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="94" tvg-name="Arena 1 (SR)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png" group-title="Sport",Arena 1 (SR) - Arena 1 (SR)
+http://dynds.iptvposokuca.info:80/live?channelId=94&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="19" tvg-name="Arena 2 (SR)" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_2_logo.png" group-title="Sport",Arena 2 (SR) - Arena 2 (SR)
+http://dynds.iptvposokuca.info:80/live?channelId=19&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="95" tvg-name="Arena 3 (SR)" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_3_logo.png" group-title="Sport",Arena 3 (SR) - Arena 3 (SR)
+http://dynds.iptvposokuca.info:80/live?channelId=95&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="134" tvg-name="Arena 4 (SR)" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/arenasport4.png" group-title="Sport",Arena 4 (SR) - Arena 4 (SR)
+http://maksitv.iptvposokuca.info:80/live?channelId=134&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="112" tvg-name="Arena 5 (SR)" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_5_logo.png" group-title="Sport",Arena 5 (SR) - Arena 5 (SR)
+http://maksitv.iptvposokuca.info:80/live?channelId=112&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
 #EXTINF:-1, Sports Action – Sports Action
 http://62.210.70.119:80/live.ts?channelId=119&deviceMac=00:1A:79:BE:1F:EF&uid=2790
 #EXTINF:-1, Sports Action HD – Sports Action HD
