@@ -1,3 +1,63 @@
+#EXTM3U
+#EXTINF:-1, Sports Action – Sports Action
+http://62.210.70.119:80/live.ts?channelId=119&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Action HD – Sports Action HD
+http://62.210.70.119:80/live.ts?channelId=120&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Arena – Sports Arena
+http://62.210.70.119:80/live.ts?channelId=121&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Arena HD – Sports Arena HD
+http://62.210.70.119:80/live.ts?channelId=122&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Cricket – Sports Cricket
+http://62.210.70.119:80/live.ts?channelId=123&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Cricket HD – Sports Cricket HD
+http://62.210.70.119:80/live.ts?channelId=124&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Football – Sports Football
+http://62.210.70.119:80/live.ts?channelId=125&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Football HD – Sports Football HD
+http://62.210.70.119:80/live.ts?channelId=126&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Golf – Sports Golf
+http://62.210.70.119:80/live.ts?channelId=127&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Golf HD – Sports Golf HD
+http://62.210.70.119:80/live.ts?channelId=128&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Main HD – Sports Main HD
+http://62.210.70.119:80/live.ts?channelId=130&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Mix – Sports Mix
+http://62.210.70.119:80/live.ts?channelId=131&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Mix HD – Sports Mix HD
+http://62.210.70.119:80/live.ts?channelId=132&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports PL – Sports PL
+http://62.210.70.119:80/live.ts?channelId=133&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports PL HD – Sports PL HD
+http://62.210.70.119:80/live.ts?channelId=134&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports F1 – Sports F1
+http://62.210.70.119:80/live.ts?channelId=135&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports F1 HD – Sports F1 HD
+http://62.210.70.119:80/live.ts?channelId=136&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports News – Sports News
+http://62.210.70.119:80/live.ts?channelId=137&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports News HD – Sports News HD https://www.vlcm3u.com
+http://62.210.70.119:80/live.ts?channelId=138&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1, Sports Box Office – Sports Box Office
+http://62.210.70.119:80/live.ts?channelId=139&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1,PPV 4 – PPV 4
+http://62.210.70.119:80/live.ts?channelId=331&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1,ELEVEN 1 (Portugal)
+http://62.210.70.119:80/live.ts?channelId=448&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1,ELEVEN 2 (Portugal)
+http://62.210.70.119:80/live.ts?channelId=449&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1,ELEVEN 3 (Portugal)
+http://62.210.70.119:80/live.ts?channelId=450&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1,ELEVEN 4 (Portugal)
+http://62.210.70.119:80/live.ts?channelId=451&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1,ELEVEN 5 (Portugal)
+http://62.210.70.119:80/live.ts?channelId=452&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1,ELEVEN 6 (Portugal)
+http://62.210.70.119:80/live.ts?channelId=453&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1,La Liga TV (UK)
+http://62.210.70.119:80/live.ts?channelId=454&deviceMac=00:1A:79:BE:1F:EF&uid=2790
+#EXTINF:-1,Asbroken HD
+http://62.210.70.119:80/live.ts?channelId=1
+
 #EXTINF:-1,Arena Sport 1
 http://93.155.143.90:85/m3u8/arenasport1.m3u8
 #EXTINF:-1,Arena Sport 2
